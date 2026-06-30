@@ -16,6 +16,10 @@ p {
   line-height: 1.6;
 }
 
+.otsi {
+  width: 200px;
+}
+
 .card {
   background: white;
   padding: 20px;
