@@ -1,29 +1,9 @@
-// OneDrive lingi kontroll
-async function checkOneDriveLink(url) {
-  if (!url) return { ok: false, reason: "Puudub" };
-
-  // Kontroll 1: kas link on SharePoint/OneDrive Business
-  if (!url.includes("sharepoint.com")) {
-    return { ok: false, reason: "Pole SharePoint link" };
-  }
-
-  // Kontroll 2: kas link avaneb (GET, mitte HEAD)
-  try {
-    const res = await fetch(url, { method: "GET" });
-
-    if (res.status === 200) {
-      return { ok: true };
-    }
-
-    if (res.status === 403) {
-      return { ok: false, reason: "Pole avalik link (403)" };
-    }
-
-    return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
-
-  } catch (e) {
-    return { ok: false, reason: "Võrguviga" };
-  }
+// OneDrive/SharePoint lingi lihtne kontroll
+function isValidOneDriveLink(url) {
+  if (!url) return false;
+  if (!url.startsWith("https://")) return false;
+  if (!url.includes("sharepoint.com")) return false;
+  return true;
 }
 
 // Laeme sündmused JSON-failist
@@ -66,21 +46,13 @@ fetch("events.json")
         if (ev.pildid && ev.pildid.length > 0) {
           const url = ev.pildid[0];
 
-          // Kontrollime OneDrive linki
-          checkOneDriveLink(url).then(result => {
-            if (result.ok) {
-              pildiLahter = `
-                <a href="${url}" target="_blank" title="Vaata OneDrive">
-                  📷
-                </a>
-              `;
-            } else {
-              pildiLahter = `<span style="color:gray;">—</span>`;
-            }
-
-            // uuendame lahtri HTML-i
-            row.querySelector(".pildid-cell").innerHTML = pildiLahter;
-          });
+          if (isValidOneDriveLink(url)) {
+            pildiLahter = `
+              <a href="${url}" target="_blank" title="Vaata OneDrive">
+                📷
+              </a>
+            `;
+          }
         }
 
         row.innerHTML = `
@@ -88,7 +60,7 @@ fetch("events.json")
           <td class="event-link" data-id="${ev.id}">${ev.sündmus}</td>
           <td>${ev.koht}</td>
           <td>${artistTekst}</td>
-          <td class="pildid-cell"><span style="color:gray;">—</span></td>
+          <td class="pildid-cell">${pildiLahter}</td>
         `;
 
         // Klikitav sündmuse nimi → detailvaade
