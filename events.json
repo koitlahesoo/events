@@ -39,6 +39,20 @@
       { "nimi": "erinevad esinejad" }
     ],
     "märkmed": "Tartus oli vana Karu platsi pääl vana UG ees siuke asi.",
-    "pildid": []
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0y3znEaEfRbrFB3n_0M_BAR4EEfTyEIteqXFhGVvDx_c?e=mdnz5r" ]
+  },
+  {
+    "id": "20120114-zetod-klapp-kiiora",
+    "algus": "2012-01-14",
+    "lõpp": "2012-01-14",
+    "sündmus": "Zetod, Klapp, Kiiora",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Zetod" }, 
+      { "nimi": "Klapp" },
+      { "nimi": "Kiiora" }
+    ],
+    "märkmed": "",
+    "pildid": [  ]
   }
 ]
