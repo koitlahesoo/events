@@ -2,24 +2,28 @@
 async function checkOneDriveLink(url) {
   if (!url) return { ok: false, reason: "Puudub" };
 
-  if (!url.includes("resid=")) {
-    return { ok: false, reason: "Pole jagamislink" };
+  // Kontroll 1: kas link on SharePoint/OneDrive Business
+  if (!url.includes("sharepoint.com")) {
+    return { ok: false, reason: "Pole SharePoint link" };
   }
 
-  if (!url.includes("authkey=")) {
-    return { ok: false, reason: "Pole avalik link" };
-  }
-
+  // Kontroll 2: kas link avaneb (GET, mitte HEAD)
   try {
-    const res = await fetch(url, { method: "HEAD" });
-    if (!res.ok) {
-      return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
+    const res = await fetch(url, { method: "GET" });
+
+    if (res.status === 200) {
+      return { ok: true };
     }
+
+    if (res.status === 403) {
+      return { ok: false, reason: "Pole avalik link (403)" };
+    }
+
+    return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
+
   } catch (e) {
     return { ok: false, reason: "Võrguviga" };
   }
-
-  return { ok: true };
 }
 
 // Laeme sündmused JSON-failist
