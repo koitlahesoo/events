@@ -8,6 +8,21 @@ fetch("events.json")
     const filterEnd = document.getElementById("filterEnd");
     const resultsDiv = document.getElementById("results");
 
+    const card = document.createElement("div");
+    card.className = "card";
+    
+    card.innerHTML = `
+      <h2>${ev.sündmus}</h2>
+      <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
+      <p><strong>Koht:</strong> ${ev.koht}</p>
+      <p><strong>Esineja:</strong> ${esinejadTekst}</p>
+      <p>${ev.märkmed}</p>
+    `;
+    
+    card.addEventListener("click", () => {
+      window.location.href = `event.html?id=${ev.id}`;
+    });
+
     // Funktsioon sündmuste kuvamiseks
     function displayEvents(list) {
       resultsDiv.innerHTML = "";
