@@ -16,8 +16,11 @@ p {
   line-height: 1.6;
 }
 
-.otsi {
-  width: 200px;
+#search {
+  width: 100%;
+  max-width: 500px; /* et ei läheks liiga laiaks */
+  padding: 6px 10px;
+  font-size: 16px;
 }
 
 .card {
