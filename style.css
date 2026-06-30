@@ -35,3 +35,9 @@ p {
   flex-direction: column;
   font-size: 14px;
 }
+
+.event-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
