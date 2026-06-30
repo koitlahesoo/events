@@ -39,36 +39,18 @@ fetch("events.json")
           })
           .join(", ");
 
-        const card = document.createElement("div");
-    card.className = "card";
-    
-    card.innerHTML = `
-      <h2>${ev.sündmus}</h2>
-      <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
-      <p><strong>Koht:</strong> ${ev.koht}</p>
-      <p><strong>Esineja:</strong> ${esinejadTekst}</p>
-      <p>${ev.märkmed}</p>
-    `;
-    
-    card.addEventListener("click", () => {
-      window.location.href = `event.html?id=${ev.id}`;
-    });
-//        card.innerHTML = `
-//          <h2>${ev.sündmus}</h2>
-//          <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
-//          <p><strong>Koht:</strong> ${ev.koht}</p>
-//          <p><strong>Esineja:</strong> ${esinejadTekst}</p>
-//          <p>${ev.märkmed}</p>
-//        `;
-        // Kuvame pildid, kui need olemas on
-//        if (ev.pildid && ev.pildid.length > 0) {
-//          ev.pildid.forEach(url => {
-//            const img = document.createElement("img");
-//            img.src = url;
-//            img.className = "event-image";
-//            card.appendChild(img);
-//          });
-//        }
+        card.innerHTML = `
+          <h2>${ev.sündmus}</h2>
+          <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
+          <p><strong>Koht:</strong> ${ev.koht}</p>
+          <p><strong>Esineja:</strong> ${esinejadTekst}</p>
+          <p>${ev.märkmed}</p>
+        `;
+
+        // Klikitav kaart → detailvaade
+        card.addEventListener("click", () => {
+          window.location.href = `event.html?id=${ev.id}`;
+        });
 
         resultsDiv.appendChild(card);
       });
@@ -80,14 +62,8 @@ fetch("events.json")
       const evEnd = event.lõpp;
 
       if (!start && !end) return true;
-
-      if (start && !end) {
-        return evEnd >= start;
-      }
-
-      if (!start && end) {
-        return evStart <= end;
-      }
+      if (start && !end) return evEnd >= start;
+      if (!start && end) return evStart <= end;
 
       return evStart <= end && evEnd >= start;
     }
@@ -116,7 +92,7 @@ fetch("events.json")
       displayEvents(filtered);
     }
 
-    // Sündmuste kuvamine alguses
+    // Kuvame alguses kõik
     displayEvents(events);
 
     // Otsingu ja filtrite kuulajad
