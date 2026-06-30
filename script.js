@@ -1,3 +1,9 @@
+// Kuupäeva formaat
+function formatDate(dateStr) {
+  const [year, month, day] = dateStr.split("-");
+  return `${day}.${month}.${year}`;
+}
+
 // OneDrive/SharePoint lingi lihtne kontroll
 function isValidOneDriveLink(url) {
   if (!url) return false;
@@ -31,8 +37,8 @@ fetch("events.json")
 
         // Kuupäev
         let kuupäevTekst = ev.algus === ev.lõpp
-          ? ev.algus
-          : `${ev.algus} – ${ev.lõpp}`;
+          ? formatDate(ev.algus)
+          : `${formatDate(ev.algus)} – ${formatDate(ev.lõpp)}`;
 
         // Artistid (3 esimest + ...)
         let artistid = ev.esineja.map(e => e.nimi);
