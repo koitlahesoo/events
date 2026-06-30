@@ -45,6 +45,7 @@ fetch("events.json")
           <p><strong>Koht:</strong> ${ev.koht}</p>
           <p><strong>Esineja:</strong> ${esinejadTekst}</p>
           <p>${ev.märkmed}</p>
+          <p id="onedrive-status-${ev.id}"><em>Kontrollin OneDrive linki…</em></p>
         `;
 
         // Klikitav kaart → detailvaade
@@ -53,6 +54,25 @@ fetch("events.json")
         });
 
         resultsDiv.appendChild(card);
+        // Kontrollime OneDrive linki
+        if (ev.pildid && ev.pildid.length > 0) {
+          const url = ev.pildid[0];
+          checkOneDriveLink(url).then(result => {
+            const statusEl = document.getElementById(`onedrive-status-${ev.id}`);
+        
+            if (result.ok) {
+              statusEl.innerHTML = `✔ OneDrive pildid`;
+              statusEl.style.color = "green";
+            } else {
+              statusEl.innerHTML = `⚠ OneDrive link ei tööta: ${result.reason}`;
+              statusEl.style.color = "red";
+            }
+          });
+        } else {
+          const statusEl = document.getElementById(`onedrive-status-${ev.id}`);
+          statusEl.innerHTML = `ℹ Pildikausta link puudub`;
+          statusEl.style.color = "gray";
+        }
       });
     }
 
@@ -92,6 +112,33 @@ fetch("events.json")
       displayEvents(filtered);
     }
 
+    // OneDrive linkide kontroll
+    async function checkOneDriveLink(url) {
+      if (!url) return { ok: false, reason: "Puudub" };
+    
+      // Kontroll 1: kas link on OneDrive jagamislink
+      if (!url.includes("resid=")) {
+        return { ok: false, reason: "Pole jagamislink" };
+      }
+    
+      // Kontroll 2: kas link on avalik
+      if (!url.includes("authkey=")) {
+        return { ok: false, reason: "Pole avalik link" };
+      }
+    
+      // Kontroll 3: kas link päriselt avaneb
+      try {
+        const res = await fetch(url, { method: "HEAD" });
+        if (!res.ok) {
+          return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
+        }
+      } catch (e) {
+        return { ok: false, reason: "Võrguviga" };
+      }
+    
+      return { ok: true };
+    }
+    
     // Kuvame alguses kõik
     displayEvents(events);
 
