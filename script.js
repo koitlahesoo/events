@@ -46,6 +46,15 @@ fetch("events.json")
           <p><strong>Esineja:</strong> ${esinejadTekst}</p>
           <p>${ev.märkmed}</p>
         `;
+        // Kuvame pildid, kui need olemas on
+        if (ev.pildid && ev.pildid.length > 0) {
+          ev.pildid.forEach(url => {
+            const img = document.createElement("img");
+            img.src = url;
+            img.className = "event-image";
+            card.appendChild(img);
+          });
+        }
 
         resultsDiv.appendChild(card);
       });
