@@ -6,6 +6,33 @@ const eventId = params.get("id");
 const titleEl = document.getElementById("event-title");
 const detailsEl = document.getElementById("event-details");
 
+// OneDrive lingi kontroll
+async function checkOneDriveLink(url) {
+  if (!url) return { ok: false, reason: "Puudub" };
+
+  // Kontroll 1: kas link on OneDrive jagamislink
+  if (!url.includes("resid=")) {
+    return { ok: false, reason: "Pole jagamislink" };
+  }
+
+  // Kontroll 2: kas link on avalik
+  if (!url.includes("authkey=")) {
+    return { ok: false, reason: "Pole avalik link" };
+  }
+
+  // Kontroll 3: kas link päriselt avaneb
+  try {
+    const res = await fetch(url, { method: "HEAD" });
+    if (!res.ok) {
+      return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
+    }
+  } catch (e) {
+    return { ok: false, reason: "Võrguviga" };
+  }
+
+  return { ok: true };
+}
+
 // Laeme sündmused
 fetch("events.json")
   .then(res => res.json())
@@ -33,22 +60,50 @@ fetch("events.json")
       .map(e => e.kuupäev ? `${e.nimi} (${e.kuupäev})` : e.nimi)
       .join(", ");
 
-    // OneDrive kausta link
-    let pildidHtml = "";
+    // OneDrive link (kui olemas)
+    let onedriveHtml = "<p><em>kontrollin OneDrive linki…</em></p>";
+
     if (ev.pildid && ev.pildid.length > 0) {
-      pildidHtml = `
+      const url = ev.pildid[0];
+
+      checkOneDriveLink(url).then(result => {
+        if (result.ok) {
+          onedriveHtml = `
+            <p><strong>Pildid:</strong> 
+              <a href="${url}" target="_blank">vaata OneDrive</a>
+            </p>
+          `;
+        } else {
+          onedriveHtml = `
+            <p><strong>Pildid:</strong> 
+              <span style="color:red;">⚠ OneDrive link ei tööta: ${result.reason}</span>
+            </p>
+          `;
+        }
+
+        detailsEl.innerHTML = `
+          <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
+          <p><strong>Koht:</strong> ${ev.koht}</p>
+          <p><strong>Esinejad:</strong> ${esinejadTekst}</p>
+          <p><strong>Märkmed:</strong> ${ev.märkmed}</p>
+          ${onedriveHtml}
+        `;
+      });
+
+    } else {
+      // Kui link puudub
+      onedriveHtml = `
         <p><strong>Pildid:</strong> 
-          <a href="${ev.pildid[0]}" target="_blank">Vaata OneDrive’is</a>
+          <span style="color:gray;">ℹ Pildikausta link puudub</span>
         </p>
       `;
-    }
 
-    // Koostame detailvaate HTML-i
-    detailsEl.innerHTML = `
-      <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
-      <p><strong>Koht:</strong> ${ev.koht}</p>
-      <p><strong>Esinejad:</strong> ${esinejadTekst}</p>
-      <p><strong>Märkmed:</strong> ${ev.märkmed}</p>
-      ${pildidHtml}
-    `;
+      detailsEl.innerHTML = `
+        <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
+        <p><strong>Koht:</strong> ${ev.koht}</p>
+        <p><strong>Esinejad:</strong> ${esinejadTekst}</p>
+        <p><strong>Märkmed:</strong> ${ev.märkmed}</p>
+        ${onedriveHtml}
+      `;
+    }
   });
