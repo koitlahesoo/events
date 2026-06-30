@@ -12,6 +12,49 @@ function isValidOneDriveLink(url) {
   return true;
 }
 
+//sorteerimine
+let currentSort = { column: null, direction: 1 }; // 1 = ASC, -1 = DESC
+
+function sortEvents(events, column) {
+  // Kui sama veerg → vaheta suunda
+  if (currentSort.column === column) {
+    currentSort.direction *=  -1;
+  } else {
+    currentSort.column = column;
+    currentSort.direction = 1;
+  }
+
+  return events.slice().sort((a, b) => {
+    let valA, valB;
+
+    switch (column) {
+      case "date":
+        valA = a.algus;
+        valB = b.algus;
+        break;
+
+      case "event":
+        valA = a.sündmus.toLowerCase();
+        valB = b.sündmus.toLowerCase();
+        break;
+
+      case "place":
+        valA = a.koht.toLowerCase();
+        valB = b.koht.toLowerCase();
+        break;
+
+      case "artist":
+        valA = a.esineja[0]?.nimi.toLowerCase() || "";
+        valB = b.esineja[0]?.nimi.toLowerCase() || "";
+        break;
+    }
+
+    if (valA < valB) return -1 * currentSort.direction;
+    if (valA > valB) return 1 * currentSort.direction;
+    return 0;
+  });
+}
+
 // Laeme sündmused JSON-failist
 fetch("events.json")
   .then(response => response.json())
@@ -116,6 +159,18 @@ fetch("events.json")
 
     // Kuvame alguses kõik
     displayEvents(events);
+
+    //sorteerimine
+    document.querySelectorAll("th[data-sort]").forEach(th => {
+      th.addEventListener("click", () => {
+        const column = th.getAttribute("data-sort");
+    
+        const filtered = applyFilters(events);
+        const sorted = sortEvents(filtered, column);
+    
+        displayEvents(sorted);
+      });
+    });
 
     // Otsingu ja filtrite kuulajad
     searchInput.addEventListener("input", updateView);
