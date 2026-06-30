@@ -1,14 +1,14 @@
 [
   {
-    "id": "test-1",
-    "algus": "2026-05-20",
-    "lõpp": "2026-05-20",
-    "sündmus": "Rock Night",
+    "id": "2010-01-15-wundament",
+    "algus": "2010-01-15",
+    "lõpp": "2010-01-15",
+    "sündmus": "Wunda-Ment kontsert",
     "koht": "Tartu, Rock & Roll",
     "esineja": [
-      { "nimi": "Terminaator" }
+      { "nimi": "Wunda-Ment" }
     ],
-    "märkmed": "Testime erimärki &.",
+    "märkmed": "Sünnipäeva kontsert, kus ka mina laval käisin. Pildid vana Canon seebikas-fotokaga.",
     "pildid": []
   }
 ]
