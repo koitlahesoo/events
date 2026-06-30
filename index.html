@@ -9,6 +9,17 @@
     <h1>Tere tulemast!</h1>
     <p>See on minu kodulehe avaleht.</p>
     <input id="search" type="text" placeholder="Otsi sündmusi, kohti või esinejaid..." />
+    <div class="filters">
+      <label>
+        Alguskuupäev:
+        <input type="date" id="filterStart">
+      </label>  
+      <label>
+        Lõppkuupäev:
+        <input type="date" id="filterEnd">
+      </label>
+    </div>
+    
     <div id="results"></div>
     
     <script src="script.js"></script>
