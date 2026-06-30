@@ -1,78 +1,98 @@
+// OneDrive lingi kontroll
+async function checkOneDriveLink(url) {
+  if (!url) return { ok: false, reason: "Puudub" };
+
+  if (!url.includes("resid=")) {
+    return { ok: false, reason: "Pole jagamislink" };
+  }
+
+  if (!url.includes("authkey=")) {
+    return { ok: false, reason: "Pole avalik link" };
+  }
+
+  try {
+    const res = await fetch(url, { method: "HEAD" });
+    if (!res.ok) {
+      return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
+    }
+  } catch (e) {
+    return { ok: false, reason: "Võrguviga" };
+  }
+
+  return { ok: true };
+}
+
 // Laeme sündmused JSON-failist
 fetch("events.json")
   .then(response => response.json())
   .then(events => {
-    // HTML elemendid
     const searchInput = document.getElementById("search");
     const filterStart = document.getElementById("filterStart");
     const filterEnd = document.getElementById("filterEnd");
-    const resultsDiv = document.getElementById("results");
+    const tableBody = document.getElementById("events-body");
 
-    // Funktsioon sündmuste kuvamiseks
+    // Kuvamine tabelina
     function displayEvents(list) {
-      resultsDiv.innerHTML = "";
+      tableBody.innerHTML = "";
 
       if (list.length === 0) {
-        resultsDiv.innerHTML = "<p>Ühtegi sündmust ei leitud.</p>";
+        tableBody.innerHTML = `
+          <tr><td colspan="5">Ühtegi sündmust ei leitud.</td></tr>
+        `;
         return;
       }
 
       list.forEach(ev => {
-        const card = document.createElement("div");
-        card.className = "card";
+        const row = document.createElement("tr");
 
-        // Kuupäevade kuvamine
-        let kuupäevTekst = "";
-        if (ev.algus === ev.lõpp) {
-          kuupäevTekst = ev.algus;
-        } else {
-          kuupäevTekst = `${ev.algus} – ${ev.lõpp}`;
+        // Kuupäev
+        let kuupäevTekst = ev.algus === ev.lõpp
+          ? ev.algus
+          : `${ev.algus} – ${ev.lõpp}`;
+
+        // Artistid (3 esimest + ...)
+        let artistid = ev.esineja.map(e => e.nimi);
+        let artistTekst = artistid.length > 3
+          ? artistid.slice(0, 3).join(", ") + ", ..."
+          : artistid.join(", ");
+
+        // Pildid (ikoon ainult kui link töötab)
+        let pildiLahter = `<span style="color:gray;">—</span>`; // vaikimisi tühi
+
+        if (ev.pildid && ev.pildid.length > 0) {
+          const url = ev.pildid[0];
+
+          // Kontrollime OneDrive linki
+          checkOneDriveLink(url).then(result => {
+            if (result.ok) {
+              pildiLahter = `
+                <a href="${url}" target="_blank" title="Vaata OneDrive">
+                  📷
+                </a>
+              `;
+            } else {
+              pildiLahter = `<span style="color:gray;">—</span>`;
+            }
+
+            // uuendame lahtri HTML-i
+            row.querySelector(".pildid-cell").innerHTML = pildiLahter;
+          });
         }
 
-        // Esinejate kuvamine
-        const esinejadTekst = ev.esineja
-          .map(e => {
-            if (e.kuupäev) {
-              return `${e.nimi} (${e.kuupäev})`;
-            }
-            return e.nimi;
-          })
-          .join(", ");
-
-        card.innerHTML = `
-          <h2>${ev.sündmus}</h2>
-          <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
-          <p><strong>Koht:</strong> ${ev.koht}</p>
-          <p><strong>Esineja:</strong> ${esinejadTekst}</p>
-          <p>${ev.märkmed}</p>
-          <p id="onedrive-status-${ev.id}"><em>Kontrollin OneDrive linki…</em></p>
+        row.innerHTML = `
+          <td>${kuupäevTekst}</td>
+          <td class="event-link" data-id="${ev.id}">${ev.sündmus}</td>
+          <td>${ev.koht}</td>
+          <td>${artistTekst}</td>
+          <td class="pildid-cell"><span style="color:gray;">—</span></td>
         `;
 
-        // Klikitav kaart → detailvaade
-        card.addEventListener("click", () => {
+        // Klikitav sündmuse nimi → detailvaade
+        row.querySelector(".event-link").addEventListener("click", () => {
           window.location.href = `event.html?id=${ev.id}`;
         });
 
-        resultsDiv.appendChild(card);
-        // Kontrollime OneDrive linki
-        if (ev.pildid && ev.pildid.length > 0) {
-          const url = ev.pildid[0];
-          checkOneDriveLink(url).then(result => {
-            const statusEl = document.getElementById(`onedrive-status-${ev.id}`);
-        
-            if (result.ok) {
-              statusEl.innerHTML = `✔ OneDrive pildid`;
-              statusEl.style.color = "green";
-            } else {
-              statusEl.innerHTML = `⚠ OneDrive link ei tööta: ${result.reason}`;
-              statusEl.style.color = "red";
-            }
-          });
-        } else {
-          const statusEl = document.getElementById(`onedrive-status-${ev.id}`);
-          statusEl.innerHTML = `ℹ Pildikausta link puudub`;
-          statusEl.style.color = "gray";
-        }
+        tableBody.appendChild(row);
       });
     }
 
@@ -112,33 +132,6 @@ fetch("events.json")
       displayEvents(filtered);
     }
 
-    // OneDrive linkide kontroll
-    async function checkOneDriveLink(url) {
-      if (!url) return { ok: false, reason: "Puudub" };
-    
-      // Kontroll 1: kas link on OneDrive jagamislink
-      if (!url.includes("resid=")) {
-        return { ok: false, reason: "Pole jagamislink" };
-      }
-    
-      // Kontroll 2: kas link on avalik
-      if (!url.includes("authkey=")) {
-        return { ok: false, reason: "Pole avalik link" };
-      }
-    
-      // Kontroll 3: kas link päriselt avaneb
-      try {
-        const res = await fetch(url, { method: "HEAD" });
-        if (!res.ok) {
-          return { ok: false, reason: "Ei avane (HTTP " + res.status + ")" };
-        }
-      } catch (e) {
-        return { ok: false, reason: "Võrguviga" };
-      }
-    
-      return { ok: true };
-    }
-    
     // Kuvame alguses kõik
     displayEvents(events);
 
