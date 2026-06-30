@@ -1,28 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="et">
   <head>
     <meta charset="UTF-8">
     <title>Minu sündmuste leht</title>
     <link rel="stylesheet" href="style.css">
   </head>
+
   <body>
-    <h1>Tere tulemast!</h1>
-    <p>See on minu kodulehe avaleht.</p>
-    <input id="search" type="text" placeholder="Otsi sündmusi, kohti või esinejaid..." />
+    <h1>Koit Lahesoo sündmuste pesa</h1>
+
+    <!-- Otsing -->
+    <input
+      id="search"
+      type="text"
+      placeholder="Otsi sündmusi, kohti või esinejaid..."
+    />
+
+    <!-- Kuupäeva filtrid -->
     <div class="filters">
       <label>
         Alguskuupäev:
         <input type="date" id="filterStart">
-      </label>  
+      </label>
+
       <label>
         Lõppkuupäev:
         <input type="date" id="filterEnd">
       </label>
     </div>
-    
+
+    <!-- Sündmuste tulemused -->
     <div id="results"></div>
-    
+
+    <!-- JavaScript -->
     <script src="script.js"></script>
-    
   </body>
 </html>
