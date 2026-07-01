@@ -1,6 +1,6 @@
 [
   {
-    "id": "2010-01-15-wundament",
+    "id": "2010-01",
     "algus": "2010-01-15",
     "lõpp": "2010-01-15",
     "sündmus": "Wunda-Ment kontsert",
@@ -12,47 +12,107 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB8s462nmGORbl-sGM2I8QLAXBrr6_D9SdYTTtQ9yzMZ5o" ]
   },
   {
-    "id": "2011-07-22-rockramp",
+    "id": "2011-01",
     "algus": "2011-07-22",
     "lõpp": "2011-07-24",
-    "sündmus": "RockRamp",
+    "sündmus": "Festival RockRamp",
     "koht": "Viljandi",
     "esineja": [
-      { "nimi": "Esineja1", "kuupäev": "2011-07-22" },
-      { "nimi": "Esineja2", "kuupäev": "2011-07-22" },
-      { "nimi": "Esineja3", "kuupäev": "2011-07-23" },
+      {
+        "nimi": "Esineja1",
+        "kuupäev": "2011-07-22"
+      },
+      {
+        "nimi": "Esineja2",
+        "kuupäev": "2011-07-22"
+      },
+      {
+        "nimi": "Esineja3",
+        "kuupäev": "2011-07-23"
+      },
       { "nimi": "erinevad esinejad" }
     ],
     "märkmed": "Kena festival Viljandis.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDiOBNjGZLOTqLKJNcoDDqRAdzkv7HSNOyj8Tazhb6216w?e=uBZrbk" ]
   },
   {
-    "id": "2011-08-27-rock-n-art",
+    "id": "2011-02",
     "algus": "2011-08-27",
     "lõpp": "2011-08-27",
-    "sündmus": "Rock'n'Art",
+    "sündmus": "Festival Rock'n'Art",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "Tüdrukud" }, 
-      { "nimi": "Poisid" }, 
-      { "nimi": "Onu Bella" }, 
+      { "nimi": "Tüdrukud" },
+      { "nimi": "Poisid" },
+      { "nimi": "Onu Bella" },
       { "nimi": "erinevad esinejad" }
     ],
     "märkmed": "Tartus oli vana Karu platsi pääl vana UG ees siuke asi.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0y3znEaEfRbrFB3n_0M_BAR4EEfTyEIteqXFhGVvDx_c?e=mdnz5r" ]
   },
   {
-    "id": "20120114-zetod-klapp-kiiora",
+    "id": "2012-01",
     "algus": "2012-01-14",
     "lõpp": "2012-01-14",
-    "sündmus": "Zetod, Klapp, Kiiora",
+    "sündmus": "Kontsert: Zetod, Klapp, Kiiora",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "Zetod" }, 
+      { "nimi": "Zetod" },
       { "nimi": "Klapp" },
       { "nimi": "Kiiora" }
     ],
-    "märkmed": "",
-    "pildid": [  ]
+    "märkmed": "Kontsert Tartus, mingi vana telefoniga kehva kvaliteediga pildid ja videod, kuskil ka jubedad lobamokad taustal.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDt-WwfgI2JTKot0YK24skgAffua0MI4u5_iCUaO9eQInM?e=UO4Cpi" ]
+  },
+  {
+    "id": "2012-02",
+    "algus": "2012-02-04",
+    "lõpp": "2012-02-04",
+    "sündmus": "Kontsert: Superliustik",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Superliustik" }
+    ],
+    "märkmed": "Oli kord siuke äge progelik bänd! 1 video vaid olemas ja salvestus kehvapoolne vana telefoniga, aga vähemalt on teada, et olen neid näinud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCf70Ic_ksHTrbT6idqsjlUAQCIa5dcPEnJtZLL4KR8yzY?e=OZXNgp" ]
+  },
+  {
+    "id": "2012-03",
+    "algus": "2012-04-07",
+    "lõpp": "2012-04-07",
+    "sündmus": "Kontsert: Imandra Lake, Tartu Popi ja Rocki Instituut",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Imandra Lake" },
+      { "nimi": "Tartu Popi ja Rocki Instituut" }
+    ],
+    "märkmed": "Mõned hägusad pildid vana telefoniga, aga kirjas, et sai käidud ja nähtud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCFtVTDLdHyRo_YGkhAAmp3ASzmmdKI9Hp3LOspk73TlLY?e=3uyXL3" ]
+  },
+  {
+    "id": "2020-03",
+    "algus": "2020-07-03",
+    "lõpp": "2020-07-04",
+    "sündmus": "Festival Hard Rock Laager 2020",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "Sküllfükk SS", "kuupäev": "2020-07-03" },
+      { "nimi": "Kolmteist", "kuupäev": "2020-07-03" },
+      { "nimi": "Intrepid", "kuupäev": "2020-07-03" },
+      { "nimi": "Hunta", "kuupäev": "2020-07-03" },
+      { "nimi": "Val Tvoar feat. C-Jam", "kuupäev": "2020-07-03" },
+      { "nimi": "Tharaphita", "kuupäev": "2020-07-03" },
+      { "nimi": "Goresoerd", "kuupäev": "2020-07-03" },
+      { "nimi": "Sibyl Vane", "kuupäev": "2020-07-04" },
+      { "nimi": "Sorus", "kuupäev": "2020-07-04" },
+      { "nimi": "Tapper", "kuupäev": "2020-07-04" },
+      { "nimi": "Emphasis", "kuupäev": "2020-07-04" },
+      { "nimi": "Pööloy Gläänz", "kuupäev": "2020-07-04" },
+      { "nimi": "Sounds of September", "kuupäev": "2020-07-04" },
+      { "nimi": "Forgotten Sunrise", "kuupäev": "2020-07-04" },
+      { "nimi": "Metsatöll", "kuupäev": "2020-07-04" }
+    ],
+    "märkmed": "Eriolukord - koroona aeg, piiratud külastajate arvuga, ainult Eesti esinejad. Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
   }
 ]
