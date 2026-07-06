@@ -79,6 +79,12 @@ tr:hover {
   border-bottom: 2px solid #ccc;
   box-shadow: 0 2px 3px rgba(0,0,0,0.1);
 }
+#events-table tbody tr {
+  cursor: pointer;
+}
+#events-table tbody tr:hover {
+  background-color: #f0f0f0;
+}
 
 .event-link {
   cursor: pointer;
