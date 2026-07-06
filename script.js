@@ -112,8 +112,11 @@ fetch("events.json")
           <td class="pildid-cell">${pildiLahter}</td>
         `;
 
-        // Klikitav sündmuse nimi → detailvaade
-        row.querySelector(".event-link").addEventListener("click", () => {
+        // Klikitav rida → detailvaade
+        row.addEventListener("click", (e) => {
+          // Kui klikiti pildiikooni (OneDrive link), siis ära ava detailvaadet
+          if (e.target.closest(".pildid-cell")) return;
+        
           window.location.href = `event.html?id=${ev.id}`;
         });
 
