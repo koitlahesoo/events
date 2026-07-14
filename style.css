@@ -97,3 +97,80 @@ tr:hover {
   border-radius: 8px;
   margin-top: 10px;
 }
+/* --- Detailvaade täiendused --- */
+
+.tagasi-link {
+  display: inline-block;
+  margin-bottom: 16px;
+  color: #0066cc;
+  text-decoration: none;
+  font-size: 14px;
+}
+.tagasi-link:hover {
+  text-decoration: underline;
+}
+
+.detail-sektsioon {
+  margin: 12px 0;
+}
+
+/* Esinejate nimekiri */
+.esineja-list {
+  margin: 6px 0 0 0;
+  padding-left: 20px;
+}
+.esineja-list li {
+  padding: 2px 0;
+}
+
+/* Festivalide grupeeritud vaade */
+.esineja-list.grouped {
+  list-style: none;
+  padding-left: 0;
+}
+.esineja-grupp {
+  margin: 8px 0;
+}
+.esineja-kuupäev {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #666;
+  letter-spacing: 0.05em;
+}
+.esineja-grupp ul {
+  margin: 4px 0 0 16px;
+  padding-left: 16px;
+}
+.esineja-lisainfo {
+  color: #888;
+  font-style: italic;
+  font-size: 13px;
+  list-style: none;
+  margin-top: 6px;
+}
+
+/* Märkmete kast */
+.märkmed-kast {
+  background: #f8f8f0;
+  border-left: 3px solid #bbb;
+  border-radius: 0 6px 6px 0;
+  padding: 12px 16px;
+  margin: 16px 0;
+  white-space: pre-wrap;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #444;
+}
+.märkmed-silt {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #999;
+  letter-spacing: 0.08em;
+  margin: 0 0 6px 0;
+}
+
+/* Väikesed olekutekstid */
+.hoiatus { color: #cc0000; }
+.puudub  { color: #888; font-style: italic; }
