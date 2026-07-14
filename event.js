@@ -1,3 +1,10 @@
+// Kuupäeva formaat: yyyy-mm-dd → pp.kk.aaaa
+function formatDate(dateStr) {
+  if (!dateStr) return "";
+  const [year, month, day] = dateStr.split("-");
+  return `${day}.${month}.${year}`;
+}
+
 // Loeme URL-i parameetri ?id=...
 const params = new URLSearchParams(window.location.search);
 const eventId = params.get("id");
@@ -31,14 +38,15 @@ fetch("events.json")
     // Kuupäevad
     let kuupäevTekst = "";
     if (ev.algus === ev.lõpp) {
-      kuupäevTekst = ev.algus;
+      kuupäevTekst = formatDate(ev.algus);
     } else {
-      kuupäevTekst = `${ev.algus} – ${ev.lõpp}`;
+      kuupäevTekst = `${formatDate(ev.algus)} – ${formatDate(ev.lõpp)}`;
     }
 
-    // Esinejad
+    // Esinejad (tühjad nimed välja filtreeritud)
     const esinejadTekst = ev.esineja
-      .map(e => e.kuupäev ? `${e.nimi} (${e.kuupäev})` : e.nimi)
+      .filter(e => e.nimi && e.nimi.trim() !== "")
+      .map(e => e.kuupäev ? `${e.nimi} (${formatDate(e.kuupäev)})` : e.nimi)
       .join(", ");
 
     // OneDrive link
