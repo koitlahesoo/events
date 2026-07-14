@@ -83,8 +83,10 @@ fetch("events.json")
           ? formatDate(ev.algus)
           : `${formatDate(ev.algus)} – ${formatDate(ev.lõpp)}`;
 
-        // Artistid (3 esimest + ...)
-        let artistid = ev.esineja.map(e => e.nimi);
+        // Artistid (tühjad välja, 3 esimest + ...)
+        let artistid = ev.esineja
+          .map(e => e.nimi)
+          .filter(n => n && n.trim() !== "");
         let artistTekst = artistid.length > 3
           ? artistid.slice(0, 3).join(", ") + ", ..."
           : artistid.join(", ");
