@@ -18,18 +18,9 @@
     "sündmus": "Festival RockRamp",
     "koht": "Viljandi",
     "esineja": [
-      {
-        "nimi": "Esineja1",
-        "kuupäev": "2011-07-22"
-      },
-      {
-        "nimi": "Esineja2",
-        "kuupäev": "2011-07-22"
-      },
-      {
-        "nimi": "Esineja3",
-        "kuupäev": "2011-07-23"
-      },
+      { "nimi": "TÄPSUSTADA", "kuupäev": "2011-07-22" },
+      { "nimi": "TÄPSUSTADA", "kuupäev": "2011-07-23" },
+      { "nimi": "Onu Bella", "kuupäev": "2011-07-23" },
       { "nimi": "erinevad esinejad" }
     ],
     "märkmed": "Kena festival Viljandis.",
@@ -112,7 +103,33 @@
       { "nimi": "Forgotten Sunrise", "kuupäev": "2020-07-04" },
       { "nimi": "Metsatöll", "kuupäev": "2020-07-04" }
     ],
-    "märkmed": "Eriolukord - koroona aeg, piiratud külastajate arvuga, ainult Eesti esinejad. Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
+    "märkmed": "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival! Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
+  },
+  {
+    "id": "2021-01",
+    "algus": "2021-07-02",
+    "lõpp": "2021-07-04",
+    "sündmus": "Festival Hard Rock Laager 2021",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "Surgent", "kuupäev": "2021-07-03" },
+      { "nimi": "Pedigree", "kuupäev": "2021-07-03" },
+      { "nimi": "Ans. Andur", "kuupäev": "2021-07-03" },
+      { "nimi": "Herald", "kuupäev": "2021-07-03" },
+      { "nimi": "Zorg vä?", "kuupäev": "2021-07-04" },
+      { "nimi": "Kosmikud", "kuupäev": "2021-07-04" }
+    ],
+    "märkmed": "COVID järelkaja, ainult Eesti esinejad. Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): .07",
+    "pildid": [ "" ]
   }
 ]
