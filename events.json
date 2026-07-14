@@ -103,7 +103,7 @@
       { "nimi": "Forgotten Sunrise", "kuupäev": "2020-07-04" },
       { "nimi": "Metsatöll", "kuupäev": "2020-07-04" }
     ],
-    "märkmed": "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival! Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
+    "märkmed": "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival! \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
   },
   {
@@ -113,23 +113,28 @@
     "sündmus": "Festival Hard Rock Laager 2021",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
-      { "nimi": "", "kuupäev": "2021-07-03" },
+      { "nimi": "Raev", "kuupäev": "2021-07-02" },
+      { "nimi": "Sold", "kuupäev": "2021-07-02" },
+      { "nimi": "Nihilistikrypt", "kuupäev": "2021-07-02" },
+      { "nimi": "Mandoterror", "kuupäev": "2021-07-02" },
+      { "nimi": "Shelton San", "kuupäev": "2021-07-02" },
+      { "nimi": "Horror Dance Squad", "kuupäev": "2021-07-02" },
+      { "nimi": "Sõpruse Puiestee", "kuupäev": "2021-07-02" },
+      { "nimi": "Loits", "kuupäev": "2021-07-03" },
+      { "nimi": "Süngehel", "kuupäev": "2021-07-03" },
+      { "nimi": "Itk", "kuupäev": "2021-07-03" },
+      { "nimi": "Cydefect", "kuupäev": "2021-07-03" },
+      { "nimi": "August Urr", "kuupäev": "2021-07-03" },
+      { "nimi": "Mört", "kuupäev": "2021-07-03" },
+      { "nimi": "Sõjaruun", "kuupäev": "2021-07-03" },
       { "nimi": "Surgent", "kuupäev": "2021-07-03" },
       { "nimi": "Pedigree", "kuupäev": "2021-07-03" },
       { "nimi": "Ans. Andur", "kuupäev": "2021-07-03" },
       { "nimi": "Herald", "kuupäev": "2021-07-03" },
-      { "nimi": "Zorg vä?", "kuupäev": "2021-07-04" },
+      { "nimi": "Zorg", "kuupäev": "2021-07-04" },
       { "nimi": "Kosmikud", "kuupäev": "2021-07-04" }
     ],
-    "märkmed": "COVID järelkaja, ainult Eesti esinejad. Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): .07",
+    "märkmed": "COVID järelkaja, ainult Eesti esinejad. \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/ ",
     "pildid": [ "" ]
   }
 ]
