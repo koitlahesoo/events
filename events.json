@@ -19,8 +19,14 @@
     "koht": "Viljandi",
     "esineja": [
       { "nimi": "TÄPSUSTADA", "kuupäev": "2011-07-22" },
-      { "nimi": "TÄPSUSTADA", "kuupäev": "2011-07-23" },
-      { "nimi": "Onu Bella", "kuupäev": "2011-07-23" },
+      {
+        "nimi": "TÄPSUSTADA",
+        "kuupäev": "2011-07-23"
+      },
+      {
+        "nimi": "Onu Bella",
+        "kuupäev": "2011-07-23"
+      },
       { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": "Kena festival Viljandis.",
@@ -33,12 +39,15 @@
     "sündmus": "Festival Rock'n'Art",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "Tüdrukud" },
-      { "nimi": "Poisid" },
+      { "nimi": "Deathcats" },
+      { "nimi": "Mockingbird" },
+      { "nimi": "Nyrok City" },
       { "nimi": "Onu Bella" },
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Reckless" },
+      { "nimi": "Everfade" },
+      { "nimi": "Nevesis" }
     ],
-    "märkmed": "Tartus oli vana Karu platsi pääl vana UG ees siuke asi.",
+    "märkmed": "Tartus oli vana Karu platsi pääl vana UG ees siuke tore TASUTA asi. \nOnu Bella oli õhtujuhi eest ja tema esinemine oli kavas nimega \"Üllatusesineja\" \nIse jõudsin veidi hilinemisega, enne minu esimest pilti esinesid veel: X-Panda, Morguevara, Tapper \n\nÜks tore ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: \n<a href=https://tume-maailm.pri.ee/blog/puhapaev-1943-2/>LINK</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0y3znEaEfRbrFB3n_0M_BAR4EEfTyEIteqXFhGVvDx_c?e=mdnz5r" ]
   },
   {
@@ -100,7 +109,10 @@
     "sündmus": "Festival Schilling 2012",
     "koht": "Kilingi-Nõmme",
     "esineja": [
-      { "nimi": "TÄPSUSTADA", "kuupäev": "2012-07-07" },
+      {
+        "nimi": "TÄPSUSTADA",
+        "kuupäev": "2012-07-07"
+      },
       { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": "Oli kord selline 'ilusa muusika' festival.",
@@ -113,7 +125,10 @@
     "sündmus": "Festival Positivus 2012",
     "koht": "Läti",
     "esineja": [
-      { "nimi": "TÄPSUSTADA", "kuupäev": "2012-07-20" },
+      {
+        "nimi": "TÄPSUSTADA",
+        "kuupäev": "2012-07-20"
+      },
       { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": "Rohkem olen pildistanud oma semuga \"olengut\", bändipilte vähe. Aga meenub, et \"oleng\" oli hää!",
@@ -126,7 +141,10 @@
     "sündmus": "Festival RockRamp 2012",
     "koht": "Viljandi",
     "esineja": [
-      { "nimi": "TÄPSUSTADA", "kuupäev": "2012-08-03" },
+      {
+        "nimi": "TÄPSUSTADA",
+        "kuupäev": "2012-08-03"
+      },
       { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": "Kena festival Viljandis. \nLisaks jäädvustusi ka ürituselt \"Motoramm\".",
@@ -182,8 +200,64 @@
       { "nimi": "DND" },
       { "nimi": "Crystal Cloisters" }
     ],
-    "märkmed": "Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud. \nAjalukku tagasi vaadates on kõige rohkem kahju, et Liqui Fuzz enam ei tegutse...",
+    "märkmed": "Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud. \nAjalukku tagasi vaadates on kõige rohkem kahju, et \"Liqui Fuzz\" enam ei tegutse...",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCtZMNAORWWSYsp9h86JpN-Acko_HsIfisZFyKbKUQ3MLo?e=ybRfDz" ]
+  },
+  {
+    "id": "2013-01",
+    "algus": "2013-03-09",
+    "lõpp": "2013-03-09",
+    "sündmus": "Kontsert: Luna Vulgaris, Sibyl Vane, DND",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Luna Vulgaris" },
+      { "nimi": "Sibyl Vane" },
+      { "nimi": "DND" }
+    ],
+    "märkmed": "Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCIYtoxzaNGSZPI97_73fLWAf2J4iHOSuLSCbZgS6Pj7Ms?e=by1SdD" ]
+  },
+  {
+    "id": "2013-02",
+    "algus": "2013-03-15",
+    "lõpp": "2013-03-15",
+    "sündmus": "Kontsert: ToraBora, The Belka",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "ToraBora" },
+      { "nimi": "The Belka" }
+    ],
+    "märkmed": "Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB1drqF7Uq6QqfpzDI7f4HaAapHMEADhu4_futlXWzPemc?e=R9kdCn" ]
+  },
+  {
+    "id": "2013-03",
+    "algus": "2013-04-21",
+    "lõpp": "2013-04-21",
+    "sündmus": "Kontsert: Wolfredt, Wrupk Urei",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Wolfredt" },
+      { "nimi": "Wrupk Urei" }
+    ],
+    "märkmed": "Mõned hägusad pildid ja paar videoklippi vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAL_NGFKiTGR7l9Kb7zNVXUAfElYdYdSrSeKOZXRbkW3NM?e=bO5jGK" ]
+  },
+  {
+    "id": "2013-04",
+    "algus": "2013-05-07",
+    "lõpp": "2013-05-07",
+    "sündmus": "Festival Amme Rock 2013",
+    "koht": "Tartumaa, Vasula",
+    "esineja": [
+      {
+        "nimi": "TÄPSUSTADA",
+        "kuupäev": "2013-05-07"
+      },
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "Äge TASUTA festival Amme jõe ääres. \nEnamus Tartu tuttavaid karvaseid ja sulelisi on kohal. \nMingi vana telefonirisuga tehtud piltide kvaliteet jätab soovida, aga vähmalt on mälestused jäädvustatud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA2OWPxn7tKQY7bvy6N8ItvARjLSqbVu8rYwvFBvuSqhI8?e=di9J93" ]
   },
   {
     "id": "2020-03",
@@ -218,26 +292,86 @@
     "sündmus": "Festival Hard Rock Laager 2021",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "Raev", "kuupäev": "2021-07-02" },
-      { "nimi": "Sold", "kuupäev": "2021-07-02" },
-      { "nimi": "Nihilistikrypt", "kuupäev": "2021-07-02" },
-      { "nimi": "Mandoterror", "kuupäev": "2021-07-02" },
-      { "nimi": "Shelton San", "kuupäev": "2021-07-02" },
-      { "nimi": "Horror Dance Squad", "kuupäev": "2021-07-02" },
-      { "nimi": "Sõpruse Puiestee", "kuupäev": "2021-07-02" },
-      { "nimi": "Loits", "kuupäev": "2021-07-03" },
-      { "nimi": "Süngehel", "kuupäev": "2021-07-03" },
-      { "nimi": "Itk", "kuupäev": "2021-07-03" },
-      { "nimi": "Cydefect", "kuupäev": "2021-07-03" },
-      { "nimi": "August Urr", "kuupäev": "2021-07-03" },
-      { "nimi": "Mört", "kuupäev": "2021-07-03" },
-      { "nimi": "Sõjaruun", "kuupäev": "2021-07-03" },
-      { "nimi": "Surgent", "kuupäev": "2021-07-03" },
-      { "nimi": "Pedigree", "kuupäev": "2021-07-03" },
-      { "nimi": "Ans. Andur", "kuupäev": "2021-07-03" },
-      { "nimi": "Herald", "kuupäev": "2021-07-03" },
-      { "nimi": "Zorg", "kuupäev": "2021-07-04" },
-      { "nimi": "Kosmikud", "kuupäev": "2021-07-04" }
+      {
+        "nimi": "Raev",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Sold",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Nihilistikrypt",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Mandoterror",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Shelton San",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Horror Dance Squad",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Sõpruse Puiestee",
+        "kuupäev": "2021-07-02"
+      },
+      {
+        "nimi": "Loits",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Süngehel",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Itk",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Cydefect",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "August Urr",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Mört",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Sõjaruun",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Surgent",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Pedigree",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Ans. Andur",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Herald",
+        "kuupäev": "2021-07-03"
+      },
+      {
+        "nimi": "Zorg",
+        "kuupäev": "2021-07-04"
+      },
+      {
+        "nimi": "Kosmikud",
+        "kuupäev": "2021-07-04"
+      }
     ],
     "märkmed": "COVID järelkaja, ainult Eesti esinejad. \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: \n<a>https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC_rueyDaiiSqoAckxLvmjmAXgbhlcQPK5V4XDD5AJCAmw?e=JDYl49" ]
@@ -249,25 +383,82 @@
     "sündmus": "Festival Hard Rock Laager 2022",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "Woundgiver", "kuupäev": "2022-07-01" },
-      { "nimi": "Boners", "kuupäev": "2022-07-01" },
-      { "nimi": "ÆØNS", "kuupäev": "2022-07-01" },
-      { "nimi": "Hunta", "kuupäev": "2022-07-01" },
-      { "nimi": "Skiltron", "kuupäev": "2022-07-01" },
-      { "nimi": "Mört", "kuupäev": "2022-07-01" },
-      { "nimi": "Pestilence", "kuupäev": "2022-07-01" },
-      { "nimi": "The Satones", "kuupäev": "2022-07-02" },
-      { "nimi": "Maleva", "kuupäev": "2022-07-02" },
-      { "nimi": "Tankist", "kuupäev": "2022-07-02" },
-      { "nimi": "Ulguränd", "kuupäev": "2022-07-02" },
-      { "nimi": "Kulo", "kuupäev": "2022-07-02" },
-      { "nimi": "Burn Still", "kuupäev": "2022-07-02" },
-      { "nimi": "Strych:9", "kuupäev": "2022-07-02" },
-      { "nimi": "Brad Jürjens", "kuupäev": "2022-07-02" },
-      { "nimi": "Varang Nord", "kuupäev": "2022-07-02" },
-      { "nimi": "Devin Townsend", "kuupäev": "2022-07-02" },
-      { "nimi": "Freakangel", "kuupäev": "2022-07-02" },
-      { "nimi": "Benediction", "kuupäev": "2022-07-02" }
+      {
+        "nimi": "Woundgiver",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "Boners",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "ÆØNS",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "Hunta",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "Skiltron",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "Mört",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "Pestilence",
+        "kuupäev": "2022-07-01"
+      },
+      {
+        "nimi": "The Satones",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Maleva",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Tankist",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Ulguränd",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Kulo",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Burn Still",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Strych:9",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Brad Jürjens",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Varang Nord",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Devin Townsend",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Freakangel",
+        "kuupäev": "2022-07-02"
+      },
+      {
+        "nimi": "Benediction",
+        "kuupäev": "2022-07-02"
+      }
     ],
     "märkmed": "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Talbot 01.07, Baroness 01.07, Beyond the Structure 02.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: \n<a>https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAirQ0rhzIqT6n7NOVX6RLCASdeIRsbLCD4s84axrL9KSo?e=0R242T" ]
