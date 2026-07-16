@@ -16,16 +16,15 @@
       placeholder="Otsi sündmusi, kohti või esinejaid..."
     />
 
-    <!-- Kuupäeva filtrid -->
+    <!-- Aasta filter -->
     <div class="filters">
-      <label>
-        Alguskuupäev:
-        <input type="date" id="filterStart">
-      </label>
-
-      <label>
-        Lõppkuupäev:
-        <input type="date" id="filterEnd">
+      <label class="filter-aasta">
+        Aasta:
+        <div class="aasta-vahemik">
+          <select id="filterYearStart"></select>
+          <span class="aasta-kriips">–</span>
+          <select id="filterYearEnd"></select>
+        </div>
       </label>
     </div>
 
