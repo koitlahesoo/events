@@ -1,4 +1,4 @@
-// Kuupäeva formaat
+// Kuupäeva formaat: yyyy-mm-dd → pp.kk.aaaa
 function formatDate(dateStr) {
   const [year, month, day] = dateStr.split("-");
   return `${day}.${month}.${year}`;
@@ -12,40 +12,43 @@ function isValidOneDriveLink(url) {
   return true;
 }
 
-//sorteerimine
-let currentSort = { column: null, direction: 1 }; // 1 = ASC, -1 = DESC
+// Sorteerimine
+let currentSort = { column: null, direction: 1 };
 
-function sortEvents(events, column) {
-  // Kui sama veerg → vaheta suunda
+// Lülitab veeru sortimissuunda ja käivitab uuenduse
+function sortByColumn(column) {
   if (currentSort.column === column) {
-    currentSort.direction *=  -1;
+    currentSort.direction *= -1;
   } else {
     currentSort.column = column;
     currentSort.direction = 1;
   }
+  updateView();
+}
 
-  return events.slice().sort((a, b) => {
+// Rakendab praeguse sorti nimekirjale (ei muuda currentSort olekut)
+function applySortToList(list) {
+  if (!currentSort.column) return list;
+
+  return list.slice().sort((a, b) => {
     let valA, valB;
 
-    switch (column) {
+    switch (currentSort.column) {
       case "date":
         valA = a.algus;
         valB = b.algus;
         break;
-
       case "event":
         valA = a.sündmus.toLowerCase();
         valB = b.sündmus.toLowerCase();
         break;
-
       case "place":
         valA = a.koht.toLowerCase();
         valB = b.koht.toLowerCase();
         break;
-
       case "artist":
-        valA = a.esineja[0]?.nimi.toLowerCase() || "";
-        valB = b.esineja[0]?.nimi.toLowerCase() || "";
+        valA = (a.esineja.find(e => e.nimi)?.nimi || "").toLowerCase();
+        valB = (b.esineja.find(e => e.nimi)?.nimi || "").toLowerCase();
         break;
     }
 
@@ -55,23 +58,50 @@ function sortEvents(events, column) {
   });
 }
 
+// updateView on global – defineeritakse pärast events laadimist
+let updateView = () => {};
+
 // Laeme sündmused JSON-failist
 fetch("events.json")
   .then(response => response.json())
   .then(events => {
-    const searchInput = document.getElementById("search");
-    const filterStart = document.getElementById("filterStart");
-    const filterEnd = document.getElementById("filterEnd");
-    const tableBody = document.getElementById("events-body");
+    const searchInput      = document.getElementById("search");
+    const filterYearStart  = document.getElementById("filterYearStart");
+    const filterYearEnd    = document.getElementById("filterYearEnd");
+    const tableBody        = document.getElementById("events-body");
 
-    // Kuvamine tabelina
+    // Eraldame aastad andmetest
+    const years = [...new Set(events.map(ev => parseInt(ev.algus.substring(0, 4))))].sort((a, b) => a - b);
+    const minYear = years[0];
+    const maxYear = years[years.length - 1];
+
+    // Täidame aastavalikud
+    for (let y = minYear; y <= maxYear; y++) {
+      filterYearStart.add(new Option(y, y));
+      filterYearEnd.add(new Option(y, y));
+    }
+    filterYearStart.value = minYear;
+    filterYearEnd.value   = maxYear;
+
+    // Uuendab, millised aastad on valitavad (end >= start, start <= end)
+    function updateYearConstraints() {
+      const sy = parseInt(filterYearStart.value);
+      const ey = parseInt(filterYearEnd.value);
+      Array.from(filterYearEnd.options).forEach(o => {
+        o.disabled = parseInt(o.value) < sy;
+      });
+      Array.from(filterYearStart.options).forEach(o => {
+        o.disabled = parseInt(o.value) > ey;
+      });
+    }
+    updateYearConstraints();
+
+    // Kuvab sündmused tabelisse
     function displayEvents(list) {
       tableBody.innerHTML = "";
 
       if (list.length === 0) {
-        tableBody.innerHTML = `
-          <tr><td colspan="5">Ühtegi sündmust ei leitud.</td></tr>
-        `;
+        tableBody.innerHTML = `<tr><td colspan="5">Ühtegi sündmust ei leitud.</td></tr>`;
         return;
       }
 
@@ -91,18 +121,12 @@ fetch("events.json")
           ? artistid.slice(0, 3).join(", ") + ", ..."
           : artistid.join(", ");
 
-        // Pildid (ikoon ainult kui link töötab)
-        let pildiLahter = `<span style="color:gray;">—</span>`; // vaikimisi tühi
-
+        // Pildid
+        let pildiLahter = `<span style="color:gray;">—</span>`;
         if (ev.pildid && ev.pildid.length > 0) {
           const url = ev.pildid[0];
-
           if (isValidOneDriveLink(url)) {
-            pildiLahter = `
-              <a href="${url}" target="_blank" title="Vaata OneDrive">
-                📷
-              </a>
-            `;
+            pildiLahter = `<a href="${url}" target="_blank" title="Vaata OneDrive">📷</a>`;
           }
         }
 
@@ -114,11 +138,8 @@ fetch("events.json")
           <td class="pildid-cell">${pildiLahter}</td>
         `;
 
-        // Klikitav rida → detailvaade
         row.addEventListener("click", (e) => {
-          // Kui klikiti pildiikooni (OneDrive link), siis ära ava detailvaadet
           if (e.target.closest(".pildid-cell")) return;
-        
           window.location.href = `event.html?id=${ev.id}`;
         });
 
@@ -126,23 +147,11 @@ fetch("events.json")
       });
     }
 
-    // Kuupäevavahemiku kontroll
-    function isWithinRange(event, start, end) {
-      const evStart = event.algus;
-      const evEnd = event.lõpp;
-
-      if (!start && !end) return true;
-      if (start && !end) return evEnd >= start;
-      if (!start && end) return evStart <= end;
-
-      return evStart <= end && evEnd >= start;
-    }
-
-    // Filtrite rakendamine
-    function applyFilters(events) {
-      const q = searchInput.value.toLowerCase();
-      const start = filterStart.value;
-      const end = filterEnd.value;
+    // Filtreerib sündmused
+    function applyFilters() {
+      const q  = searchInput.value.toLowerCase();
+      const sy = parseInt(filterYearStart.value);
+      const ey = parseInt(filterYearEnd.value);
 
       return events.filter(ev => {
         const matchesText =
@@ -150,35 +159,46 @@ fetch("events.json")
           ev.koht.toLowerCase().includes(q) ||
           ev.esineja.some(e => e.nimi.toLowerCase().includes(q));
 
-        const matchesDate = isWithinRange(ev, start, end);
+        const evYear = parseInt(ev.algus.substring(0, 4));
+        const matchesYear = evYear >= sy && evYear <= ey;
 
-        return matchesText && matchesDate;
+        return matchesText && matchesYear;
       });
     }
 
-    // Vaate uuendamine
-    function updateView() {
-      const filtered = applyFilters(events);
-      displayEvents(filtered);
-    }
+    // Uuendab vaate (filter + sort)
+    updateView = function () {
+      const filtered = applyFilters();
+      const sorted   = applySortToList(filtered);
+      displayEvents(sorted);
+    };
 
-    // Kuvame alguses kõik
-    displayEvents(events);
-
-    //sorteerimine
+    // Sordi päised
     document.querySelectorAll("th[data-sort]").forEach(th => {
       th.addEventListener("click", () => {
-        const column = th.getAttribute("data-sort");
-    
-        const filtered = applyFilters(events);
-        const sorted = sortEvents(filtered, column);
-    
-        displayEvents(sorted);
+        sortByColumn(th.getAttribute("data-sort"));
       });
     });
 
-    // Otsingu ja filtrite kuulajad
+    // Filtrite kuulajad
     searchInput.addEventListener("input", updateView);
-    filterStart.addEventListener("change", updateView);
-    filterEnd.addEventListener("change", updateView);
+
+    filterYearStart.addEventListener("change", () => {
+      if (parseInt(filterYearStart.value) > parseInt(filterYearEnd.value)) {
+        filterYearEnd.value = filterYearStart.value;
+      }
+      updateYearConstraints();
+      updateView();
+    });
+
+    filterYearEnd.addEventListener("change", () => {
+      if (parseInt(filterYearEnd.value) < parseInt(filterYearStart.value)) {
+        filterYearStart.value = filterYearEnd.value;
+      }
+      updateYearConstraints();
+      updateView();
+    });
+
+    // Algne kuvamine
+    updateView();
   });
