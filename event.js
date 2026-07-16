@@ -5,7 +5,6 @@ function formatDate(dateStr) {
   return `${day}.${month}.${year}`;
 }
 
-// Lihtne SharePoint/OneDrive Business lingi kontroll
 function isValidOneDriveLink(url) {
   if (!url) return false;
   if (!url.startsWith("https://")) return false;
@@ -13,15 +12,14 @@ function isValidOneDriveLink(url) {
   return true;
 }
 
-// Esinejate HTML – festivalidel grupeeritud kuupäeva järgi
+// Esinejate HTML – lihtnimekiri või kuupäeva järgi grupeeritud
 function buildEsinejadHtml(esinejad) {
   const list = esinejad.filter(e => e.nimi && e.nimi.trim() !== "");
-  if (list.length === 0) return "<p class='puudub'>Esinejad määramata</p>";
+  if (list.length === 0) return `<p class="puudub">Esinejad määramata</p>`;
 
   const hasDateInfo = list.some(e => e.kuupäev);
 
   if (!hasDateInfo) {
-    // Lihtne nimekiri ilma kuupäevadeta
     return `<ul class="esineja-list">
       ${list.map(e => `<li>${e.nimi}</li>`).join("")}
     </ul>`;
@@ -29,7 +27,7 @@ function buildEsinejadHtml(esinejad) {
 
   // Grupeerime kuupäeva järgi
   const grouped = {};
-  const noDate = [];
+  const noDate  = [];
 
   list.forEach(e => {
     if (e.kuupäev) {
@@ -40,32 +38,30 @@ function buildEsinejadHtml(esinejad) {
     }
   });
 
-  let html = `<ul class="esineja-list grouped">`;
+  let html = "";
 
   Object.entries(grouped)
     .sort(([a], [b]) => a.localeCompare(b))
     .forEach(([date, names]) => {
       html += `
-        <li class="esineja-grupp">
+        <div class="esineja-grupp">
           <span class="esineja-kuupäev">${formatDate(date)}</span>
-          <ul>${names.map(n => `<li>${n}</li>`).join("")}</ul>
-        </li>`;
+          <ul class="esineja-list">
+            ${names.map(n => `<li>${n}</li>`).join("")}
+          </ul>
+        </div>`;
     });
 
-  // Esinejad ilma kuupäevata (nt "erinevad esinejad")
   noDate.forEach(n => {
-    html += `<li class="esineja-lisainfo">${n}</li>`;
+    html += `<p class="esineja-lisainfo">${n}</p>`;
   });
 
-  html += `</ul>`;
   return html;
 }
 
-// Loeme URL-i parameetri ?id=...
-const params = new URLSearchParams(window.location.search);
+// Loe URL-i parameeter ?id=
+const params  = new URLSearchParams(window.location.search);
 const eventId = params.get("id");
-
-const titleEl = document.getElementById("event-title");
 const detailsEl = document.getElementById("event-details");
 
 fetch("events.json")
@@ -74,16 +70,14 @@ fetch("events.json")
     const ev = events.find(e => e.id === eventId);
 
     if (!ev) {
-      titleEl.textContent = "Sündmust ei leitud";
-      detailsEl.innerHTML = `<p><a href="index.html">← Tagasi nimekirja</a></p>`;
+      detailsEl.innerHTML = `<p class="puudub">Sündmust ei leitud.</p>`;
       return;
     }
 
-    // Pealkiri
-    titleEl.textContent = ev.sündmus;
+    document.title = `${ev.sündmus} – Koit Lahesoo sündmuste pesa`;
 
     // Kuupäev
-    let kuupäevTekst = ev.algus === ev.lõpp
+    const kuupäevTekst = ev.algus === ev.lõpp
       ? formatDate(ev.algus)
       : `${formatDate(ev.algus)} – ${formatDate(ev.lõpp)}`;
 
@@ -91,37 +85,49 @@ fetch("events.json")
     const esinejadHtml = buildEsinejadHtml(ev.esineja);
 
     // Märkmed
-    const märkmedHtml = ev.märkmed
-      ? `<div class="märkmed-kast"><p class="märkmed-silt">Märkmed</p>${ev.märkmed}</div>`
-      : "";
+    const märkmedHtml = ev.märkmed ? `
+      <div>
+        <div class="detail-section-label">Märkmed</div>
+        <div class="märkmed-kast">${ev.märkmed}</div>
+      </div>` : "";
 
-    // OneDrive link
-    let onedriveHtml = "";
-    if (ev.pildid && ev.pildid.length > 0) {
+    // Pildid
+    let pildiHtml = `<p class="puudub">Pildikausta link puudub</p>`;
+    if (ev.pildid?.length > 0 && ev.pildid[0]) {
       const url = ev.pildid[0];
       if (isValidOneDriveLink(url)) {
-        onedriveHtml = `<p><strong>Pildid:</strong> <a href="${url}" target="_blank">vaata OneDrive'is</a></p>`;
-      } else if (url) {
-        onedriveHtml = `<p><strong>Pildid:</strong> <span class="hoiatus">⚠ OneDrive link ei tööta</span></p>`;
+        pildiHtml = `<a href="${url}" target="_blank" class="pildid-link">📷 Vaata OneDrive'is</a>`;
+      } else {
+        pildiHtml = `<span class="hoiatus">⚠ Link ei tööta</span>`;
       }
     }
-    if (!onedriveHtml) {
-      onedriveHtml = `<p><strong>Pildid:</strong> <span class="puudub">pildikausta link puudub</span></p>`;
-    }
 
-    // Detailvaade
     detailsEl.innerHTML = `
-      <p><a href="index.html" class="tagasi-link">← Tagasi nimekirja</a></p>
+      <div class="detail-card">
 
-      <p><strong>Kuupäev:</strong> ${kuupäevTekst}</p>
-      <p><strong>Koht:</strong> ${ev.koht}</p>
+        <div class="detail-card-header">
+          <h2 class="detail-card-title">${ev.sündmus}</h2>
+          <div class="detail-card-meta">
+            <span>📅 ${kuupäevTekst}</span>
+            <span>📍 ${ev.koht}</span>
+          </div>
+        </div>
 
-      <div class="detail-sektsioon">
-        <strong>Esinejad:</strong>
-        ${esinejadHtml}
+        <div class="detail-card-body">
+
+          <div>
+            <div class="detail-section-label">Esinejad</div>
+            ${esinejadHtml}
+          </div>
+
+          ${märkmedHtml}
+
+          <div>
+            <div class="detail-section-label">Pildid</div>
+            ${pildiHtml}
+          </div>
+
+        </div>
       </div>
-
-      ${märkmedHtml}
-      ${onedriveHtml}
     `;
   });
