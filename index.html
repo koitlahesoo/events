@@ -2,22 +2,31 @@
 <html lang="et">
   <head>
     <meta charset="UTF-8">
-    <title>Minu sündmuste leht</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Koit Lahesoo sündmuste pesa</title>
     <link rel="stylesheet" href="style.css">
   </head>
-
   <body>
-    <h1>Koit Lahesoo sündmuste pesa</h1>
 
-    <!-- Otsing -->
-    <input
-      id="search"
-      type="text"
-      placeholder="Otsi sündmusi, kohti või esinejaid..."
-    />
+    <header class="site-header">
+      <div>
+        <h1 class="site-title">Koit Lahesoo sündmuste pesa</h1>
+        <p class="site-subtitle" id="site-subtitle">Laeb...</p>
+      </div>
+      <div class="header-stats">
+        <div class="stat-block">
+          <div class="stat-num" id="stat-events">—</div>
+          <div class="stat-label">sündmust</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-num" id="stat-artists">—</div>
+          <div class="stat-label">esinejat</div>
+        </div>
+      </div>
+    </header>
 
-    <!-- Aasta filter -->
-    <div class="filters">
+    <div class="filter-bar">
+      <input id="search" type="text" placeholder="Otsi sündmusi, kohti või esinejaid...">
       <label class="filter-aasta">
         Aasta:
         <div class="aasta-vahemik">
@@ -28,21 +37,28 @@
       </label>
     </div>
 
-    <!-- Sündmuste tulemused -->
-    <table id="events-table">
-      <thead>
-        <tr>
-          <th data-sort="date">Kuupäev</th>
-          <th data-sort="event">Sündmus</th>
-          <th data-sort="place">Koht</th>
-          <th data-sort="artist">Artist</th>
-          <th>Pildid</th>
-        </tr>
-      </thead>
-      <tbody id="events-body"></tbody>
-    </table>
+    <div class="table-wrap">
+      <table id="events-table">
+        <colgroup>
+          <col style="width:120px">
+          <col>
+          <col style="width:145px">
+          <col style="width:185px">
+          <col style="width:52px">
+        </colgroup>
+        <thead>
+          <tr>
+            <th data-sort="date">Kuupäev</th>
+            <th data-sort="event">Sündmus</th>
+            <th data-sort="place">Koht</th>
+            <th data-sort="artist">Esinejad</th>
+            <th>Pildid</th>
+          </tr>
+        </thead>
+        <tbody id="events-body"></tbody>
+      </table>
+    </div>
 
-    <!-- JavaScript -->
     <script src="script.js"></script>
   </body>
 </html>
