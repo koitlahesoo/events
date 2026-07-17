@@ -11,6 +11,16 @@ body {
   padding: 0;
 }
 
+/* ── Lehe piiraja ───────────────────────────── */
+.site-wrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-left: 1px solid #e8e8e5;
+  border-right: 1px solid #e8e8e5;
+  min-height: 100vh;
+}
+
 /* ── Päis ───────────────────────────────────── */
 .site-header {
   background: #ffffff;
