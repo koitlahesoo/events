@@ -718,130 +718,577 @@
     "id": "2017-01",
     "algus": "2017-01-01",
     "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "sündmus": "Kontsert: DND, SibylVane",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "DND" },
+      { "nimi": "SibylVane" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-02",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2017-06-03",
+    "lõpp": "2017-06-03",
+    "sündmus": "Kontsert: Wundament, Puberteet, SS Robot",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Wundament" },
+      { "nimi": "Puberteet" },
+      { "nimi": "SS Robot" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-03",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
-    "koht": "Tartu",
+    "algus": "2017-06-11",
+    "lõpp": "2017-06-11",
+    "sündmus": "Kontsert: Rammstein",
+    "koht": "Tallinn Lauluväljak",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Mustasch" },
+      { "nimi": "Rammstein" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-04",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
-    "koht": "Tartu",
+    "algus": "2017-07-14",
+    "lõpp": "2017-07-14",
+    "sündmus": "Festival Positivus 2017",
+    "koht": "Läti",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-05",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2017-08-30",
+    "lõpp": "2017-08-30",
+    "sündmus": "Kontsert: ToraBora",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "ToraBora" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-06",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2017-10-07",
+    "lõpp": "2017-10-07",
+    "sündmus": "Kontsert: Sibyl Vane, DND",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Sibyl Vane" },
+      { "nimi": "DND" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-07",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2017-11-10",
+    "lõpp": "2017-11-10",
+    "sündmus": "Kontsert: Viikate, Kosmikud",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Viikate" },
+      { "nimi": "Kosmikud" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2017-08",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2017-11-17",
+    "lõpp": "2017-11-17",
+    "sündmus": "Kontsert: Tintura, Nikns Suns",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Tintura" },
+      { "nimi": "Nikns Suns" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2018-01",
-    "algus": "2018-01-01",
-    "lõpp": "2018-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2018-02-09",
+    "lõpp": "2018-02-09",
+    "sündmus": "Kontsert: Wunda-Ment, Kurjam",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Wunda-Ment" },
+      { "nimi": "Kurjam" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
-
-
+  {
+    "id": "2018-02",
+    "algus": "2018-02-10",
+    "lõpp": "2018-02-10",
+    "sündmus": "Kontsert: Pia Fraus",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Pia Fraus" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-03",
+    "algus": "2018-03-23",
+    "lõpp": "2018-03-23",
+    "sündmus": "Kontsert: Singer Vinger (laeval)",
+    "koht": "Tallinn - Stockholm",
+    "esineja": [
+      { "nimi": "Singer Vinger" }
+    ],
+    "märkmed": "Singer Vinger kontsert Rootsi kruiisi laeval",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-04",
+    "algus": "2018-03-31",
+    "lõpp": "2018-03-31",
+    "sündmus": "Kontsert: Wunda-Ment, Redneck Rampage",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Wunda-Ment" },
+      { "nimi": "Redneck Rampage" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-05",
+    "algus": "2018-05-19",
+    "lõpp": "2018-05-19",
+    "sündmus": "Kontsert: ToraBora",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "ToraBora" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-06",
+    "algus": "2018-05-26",
+    "lõpp": "2018-05-26",
+    "sündmus": "Kontsert: Iron Maiden, Killswitch Engage",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Killswitch Engage" },
+      { "nimi": "Iron Maiden" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-07",
+    "algus": "2018-06-23",
+    "lõpp": "2018-06-23",
+    "sündmus": "Kontsert: Üllar Jörberg, Kolumbus Kris (Nõo jaanipidu)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Üllar Jörberg" },
+      { "nimi": "Kolumbus Kris" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-08",
+    "algus": "2018-07-06",
+    "lõpp": "2018-07-06",
+    "sündmus": "Festival Amme Rock 2018",
+    "koht": "Tartumaa, Vasula",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-09",
+    "algus": "2018-07-16",
+    "lõpp": "2018-07-16",
+    "sündmus": "Kontsert: Volbeat, Guns'N'Roses",
+    "koht": "Tallinn Lauluväljak",
+    "esineja": [
+      { "nimi": "Volbeat" },
+      { "nimi": "Guns'N'Roses" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-10",
+    "algus": "2018-07-21",
+    "lõpp": "2018-07-21",
+    "sündmus": "Kontsert: Rock in Haapsalu - Colours of Bubbles, Sibyl Vane, 2Cellos",
+    "koht": "Haapsalu",
+    "esineja": [
+      { "nimi": "Colours of Bubbles" },
+      { "nimi": "Sibyl Vane" },
+      { "nimi": "2Cellos" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-11",
+    "algus": "2018-08-18",
+    "lõpp": "2018-08-18",
+    "sündmus": "Kontsert: Ihaste päev - Taul, ToraBora",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Taul" },
+      { "nimi": "ToraBora" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-12",
+    "algus": "2018-09-14",
+    "lõpp": "2018-09-14",
+    "sündmus": "Kontsert: Vennaskond, Bläh",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Bläh" },
+      { "nimi": "Vennaskond" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-13",
+    "algus": "2018-09-15",
+    "lõpp": "2018-09-15",
+    "sündmus": "Kontsert: S.E.K.S",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "S.E.K.S" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-14",
+    "algus": "2018-09-28",
+    "lõpp": "2018-09-28",
+    "sündmus": "Kontsert: Pööloy Gläänz",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Pööloy Gläänz" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-15",
+    "algus": "2018-11-09",
+    "lõpp": "2018-11-09",
+    "sündmus": "Kontsert: Metro Luminal 30",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Metro Luminal" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-16",
+    "algus": "2018-11-10",
+    "lõpp": "2018-11-10",
+    "sündmus": "Kontsert: Herald, Crimson Day, Mad Road",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Mad Road" },
+      { "nimi": "Crimson Day" },
+      { "nimi": "Herald" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-17",
+    "algus": "2018-11-23",
+    "lõpp": "2018-11-23",
+    "sündmus": "Kontsert: Sõpruse Puiestee",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Sõpruse Puiestee" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2018-18",
+    "algus": "2018-12-08",
+    "lõpp": "2018-12-08",
+    "sündmus": "Kontsert: Kurjam, Wunda-Ment, VPJ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "VPJ" },
+      { "nimi": "Wunda-Ment" },
+      { "nimi": "Kurjam" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-01",
+    "algus": "2019-01-05",
+    "lõpp": "2019-01-05",
+    "sündmus": "Kontsert: Rockin' Lady & her Rivertown Boys",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Rockin' Lady & her Rivertown Boys" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-02",
+    "algus": "2019-01-12",
+    "lõpp": "2019-01-12",
+    "sündmus": "Kontsert: Mockingbird, The Doors Tribute",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Mockingbird" },
+      { "nimi": "The Doors Tribute" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-03",
+    "algus": "2019-02-15",
+    "lõpp": "2019-02-15",
+    "sündmus": "Kontsert: Väntorel, Keldriline heli",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Keldriline heli" },
+      { "nimi": "Väntorel" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-04",
+    "algus": "2019-03-30",
+    "lõpp": "2019-03-30",
+    "sündmus": "Kontsert: Singer Vinger (laeval)",
+    "koht": "Tallinn - Stockholm",
+    "esineja": [
+      { "nimi": "Singer Vinger" }
+    ],
+    "märkmed": "Singer Vinger kontsert Rootsi kruiisi laeval",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-05",
+    "algus": "2019-04-13",
+    "lõpp": "2019-04-13",
+    "sündmus": "Kontsert: Square, Toonelised",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Square" },
+      { "nimi": "Toonelised" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-06",
+    "algus": "2019-04-27",
+    "lõpp": "2019-04-27",
+    "sündmus": "Kontsert: Pööloy Gläänz",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Pööloy Gläänz" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-07",
+    "algus": "2019-04-30",
+    "lõpp": "2019-04-30",
+    "sündmus": "Kontsert: Lexsoul Dancemachine ja volbri ilutulestik",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Lexsoul Dancemachine" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-08",
+    "algus": "2019-05-04",
+    "lõpp": "2019-05-04",
+    "sündmus": "Kontsert: Sõpruse Puiestee, DND",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Sõpruse Puiestee" },
+      { "nimi": "DND" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-09",
+    "algus": "2019-06-02",
+    "lõpp": "2019-06-02",
+    "sündmus": "Kontsert: Santa Cruz, Terminaator, Bon Jovi",
+    "koht": "Tallinn Lauluväljak",
+    "esineja": [
+      { "nimi": "Santa Cruz" },
+      { "nimi": "Terminaator" },
+      { "nimi": "Bon Jovi" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-10",
+    "algus": "2019-06-07",
+    "lõpp": "2019-06-07",
+    "sündmus": "Kontsert: ToraBora",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "ToraBora" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-11",
+    "algus": "2019-07-18",
+    "lõpp": "2019-07-18",
+    "sündmus": "Kontsert: Metallica, Ghost",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Ghost" },
+      { "nimi": "Metallica" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-12",
+    "algus": "2019-09-21",
+    "lõpp": "2019-09-21",
+    "sündmus": "Kontsert: Romu, Ulguränd, Sorus",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Romu" },
+      { "nimi": "Ulguränd" },
+      { "nimi": "Sorus" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-13",
+    "algus": "2019-10-11",
+    "lõpp": "2019-10-11",
+    "sündmus": "Kontsert: Wrupk Urei, Ans. Andur, Diversicolor",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Wrupk Urei" },
+      { "nimi": "Ans. Andur" },
+      { "nimi": "Diversicolor" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-14",
+    "algus": "2019-11-14",
+    "lõpp": "2019-11-14",
+    "sündmus": "Kontsert: Paul Neitsov, Silvia Ilves, Aapo Ilves",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Paul Neitsov" },
+      { "nimi": "Silvia Ilves" },
+      { "nimi": "Aapo Ilves" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-15",
+    "algus": "2019-11-16",
+    "lõpp": "2019-11-16",
+    "sündmus": "Kontsert: Pööloy Gläänz ja Contra",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Pööloy Gläänz" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-16",
+    "algus": "2019-11-23",
+    "lõpp": "2019-11-23",
+    "sündmus": "Kontsert: ToraBora, Sõpruse Puiestee",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "ToraBora" },
+      { "nimi": "Sõpruse Puiestee" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2019-17",
+    "algus": "2019-12-30",
+    "lõpp": "2019-12-30",
+    "sündmus": "Kontsert: Terminaator",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Terminaator" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-01",
+    "algus": "2020-01-18",
+    "lõpp": "2020-01-18",
+    "sündmus": "Kontsert: Pia Fraus, Liis Ring",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Liis Ring" },
+      { "nimi": "Pia Fraus" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-02",
+    "algus": "2020-02-21",
+    "lõpp": "2020-02-21",
+    "sündmus": "Kontsert: Meelis Sarv",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Meelis Sarv" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
   {
     "id": "2020-03",
     "algus": "2020-07-03",
@@ -867,6 +1314,67 @@
     ],
     "märkmed": "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival! \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
+  },
+  {
+    "id": "2020-04",
+    "algus": "2020-07-10",
+    "lõpp": "2020-07-11",
+    "sündmus": "Festival Punk & Rock",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-05",
+    "algus": "2020-07-17",
+    "lõpp": "2020-07-17",
+    "sündmus": "Festival Ostrova 2020",
+    "koht": "Ostrova, Setomaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-06",
+    "algus": "2020-08-19",
+    "lõpp": "2020-08-19",
+    "sündmus": "Kontsert: Nikns Suns",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Nikns Suns" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-07",
+    "algus": "2020-08-20",
+    "lõpp": "2020-08-20",
+    "sündmus": "Kontsert: Jaan Sööt ja Tõun",
+    "koht": "Võru",
+    "esineja": [
+      { "nimi": "Jaan Sööt" },
+      { "nimi": "Tõun" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2020-08",
+    "algus": "2020-09-02",
+    "lõpp": "2020-09-02",
+    "sündmus": "Kontsert: Reigo Ahven Trio",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Reigo Ahven Trio" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
   },
   {
     "id": "2021-01",
@@ -898,6 +1406,20 @@
     ],
     "märkmed": "COVID järelkaja, ainult Eesti esinejad. \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: \n<a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC_rueyDaiiSqoAckxLvmjmAXgbhlcQPK5V4XDD5AJCAmw?e=JDYl49" ]
+  },
+  {
+    "id": "2021-02",
+    "algus": "2021-01-01",
+    "lõpp": "2021-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
   },
   {
     "id": "2022-04",
