@@ -15,7 +15,7 @@
     "id": "2011-01",
     "algus": "2011-07-22",
     "lõpp": "2011-07-24",
-    "sündmus": "Festival RockRamp 2011",
+    "sündmus": "RockRamp festival 2011",
     "koht": "Viljandi",
     "esineja": [
       { "nimi": "Mockingbird", "kuupäev": "2011-07-22" },
@@ -40,7 +40,7 @@
     "id": "2011-02",
     "algus": "2011-08-27",
     "lõpp": "2011-08-27",
-    "sündmus": "Festival Rock'n'Art",
+    "sündmus": "Rock'n'Art festival",
     "koht": "Tartu",
     "esineja": [
       { "nimi": "Deathcats" },
@@ -110,7 +110,7 @@
     "id": "2012-05",
     "algus": "2012-07-07",
     "lõpp": "2012-07-08",
-    "sündmus": "Festival Schilling 2012",
+    "sündmus": "Schilling 2012 festival",
     "koht": "Kilingi-Nõmme",
     "esineja": [
       { "nimi": "Fenster", "kuupäev": "2012-07-07" },
@@ -129,7 +129,7 @@
     "id": "2012-06",
     "algus": "2012-07-20",
     "lõpp": "2012-07-22",
-    "sündmus": "Festival Positivus 2012",
+    "sündmus": "Positivus Festival 2012",
     "koht": "Läti",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -141,7 +141,7 @@
     "id": "2012-07",
     "algus": "2012-08-03",
     "lõpp": "2012-08-25",
-    "sündmus": "Festival RockRamp 2012",
+    "sündmus": "RockRamp festival 2012",
     "koht": "Viljandi",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -271,7 +271,7 @@
     "id": "2013-06",
     "algus": "2013-07-05",
     "lõpp": "2013-07-05",
-    "sündmus": "Festival Amme Rock 2013",
+    "sündmus": "Amme Rock festival 2013",
     "koht": "Tartumaa, Vasula",
     "esineja": [
       { "nimi": "Defeatem" },
@@ -458,7 +458,7 @@
     "id": "2014-09",
     "algus": "2014-07-18",
     "lõpp": "2014-07-19",
-    "sündmus": "Festival Ostrova 2014",
+    "sündmus": "Ostrova festival 2014",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -536,7 +536,7 @@
     "id": "2015-05",
     "algus": "2015-07-17",
     "lõpp": "2015-07-17",
-    "sündmus": "Festival Ostrova 2015",
+    "sündmus": "Ostrova festival 2015",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -746,7 +746,7 @@
     "algus": "2017-06-11",
     "lõpp": "2017-06-11",
     "sündmus": "Kontsert: Rammstein",
-    "koht": "Tallinn Lauluväljak",
+    "koht": "Tallinn, Lauluväljak",
     "esineja": [
       { "nimi": "Mustasch" },
       { "nimi": "Rammstein" }
@@ -758,7 +758,7 @@
     "id": "2017-04",
     "algus": "2017-07-14",
     "lõpp": "2017-07-14",
-    "sündmus": "Festival Positivus 2017",
+    "sündmus": "Positivus Festival 2017",
     "koht": "Läti",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -909,7 +909,7 @@
     "id": "2018-08",
     "algus": "2018-07-06",
     "lõpp": "2018-07-06",
-    "sündmus": "Festival Amme Rock 2018",
+    "sündmus": "Amme Rock festival 2018",
     "koht": "Tartumaa, Vasula",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -922,7 +922,7 @@
     "algus": "2018-07-16",
     "lõpp": "2018-07-16",
     "sündmus": "Kontsert: Volbeat, Guns'N'Roses",
-    "koht": "Tallinn Lauluväljak",
+    "koht": "Tallinn, Lauluväljak",
     "esineja": [
       { "nimi": "Volbeat" },
       { "nimi": "Guns'N'Roses" }
@@ -1151,7 +1151,7 @@
     "algus": "2019-06-02",
     "lõpp": "2019-06-02",
     "sündmus": "Kontsert: Santa Cruz, Terminaator, Bon Jovi",
-    "koht": "Tallinn Lauluväljak",
+    "koht": "Tallinn, Lauluväljak",
     "esineja": [
       { "nimi": "Santa Cruz" },
       { "nimi": "Terminaator" },
@@ -1293,7 +1293,7 @@
     "id": "2020-03",
     "algus": "2020-07-03",
     "lõpp": "2020-07-04",
-    "sündmus": "Festival Hard Rock Laager 2020",
+    "sündmus": "Hard Rock Laager 2020 festival",
     "koht": "Vana-Vigala",
     "esineja": [
       { "nimi": "Sküllfükk SS", "kuupäev": "2020-07-03" },
@@ -1319,7 +1319,7 @@
     "id": "2020-04",
     "algus": "2020-07-10",
     "lõpp": "2020-07-11",
-    "sündmus": "Festival Punk & Rock",
+    "sündmus": "Punk & Rock festival 2020",
     "koht": "Tartu",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -1331,7 +1331,7 @@
     "id": "2020-05",
     "algus": "2020-07-17",
     "lõpp": "2020-07-17",
-    "sündmus": "Festival Ostrova 2020",
+    "sündmus": "Ostrova festival 2020",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -1380,7 +1380,7 @@
     "id": "2021-01",
     "algus": "2021-07-02",
     "lõpp": "2021-07-04",
-    "sündmus": "Festival Hard Rock Laager 2021",
+    "sündmus": "Hard Rock Laager 2021 festival",
     "koht": "Vana-Vigala",
     "esineja": [
       { "nimi": "Raev", "kuupäev": "2021-07-02" },
@@ -1546,7 +1546,7 @@
     "id": "2022-04",
     "algus": "2022-07-01",
     "lõpp": "2022-07-03",
-    "sündmus": "Festival Hard Rock Laager 2022",
+    "sündmus": "Hard Rock Laager 2022 festival",
     "koht": "Vana-Vigala",
     "esineja": [
       { "nimi": "Woundgiver", "kuupäev": "2022-07-01" },
@@ -1572,6 +1572,63 @@
     "märkmed": "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Talbot 01.07, Baroness 01.07, Beyond the Structure 02.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAirQ0rhzIqT6n7NOVX6RLCASdeIRsbLCD4s84axrL9KSo?e=0R242T" ]
   },
+  
+  {
+    "id": "2026-08",
+    "algus": "2026-04-11",
+    "lõpp": "2026-04-11",
+    "sündmus": "Kontsert: Tüse Asi, Vikat",
+    "koht": "Tartu, Road Beast MC",
+    "esineja": [
+      { "nimi": "Tüse Asi" },
+      { "nimi": "Vikat" }
+    ],
+    "märkmed": "RBMC Tartu Open House üritus, sündmuse FB leht: <a href=https://fb.me/e/4pHXzDKy9>https://fb.me/e/4pHXzDKy9</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDxdJgTZp7KQK7qOGtur5WNAfG6ZUNZMZi5IZAVmomPRlE?e=6qVXvz" ]
+  },
+  {
+    "id": "2026-09",
+    "algus": "2026-04-18",
+    "lõpp": "2026-04-18",
+    "sündmus": "Kontsert: The Reminders, Traffic (Tartu MHG vilistlaste pidu)",
+    "koht": "Tartu, Miina Härma Gümnaasiom",
+    "esineja": [
+      { "nimi": "The Reminders" },
+      { "nimi": "Traffic" }
+    ],
+    "märkmed": "Käisin oma kooli vilistlaste peol, muuhulgas olid korraldajad orgunninud paar bändi esinema!",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDvKHie6jT8SpXzR5kHHiNJAdAnlp1L3bayZZXjVm2VWuo?e=5e8Ye1" ]
+  },
+  {
+    "id": "2026-10",
+    "algus": "2026-06-06",
+    "lõpp": "2026-06-06",
+    "sündmus": "Jarfest festival 2026",
+    "koht": "Tartu, Kammivabriku klubi",
+    "esineja": [
+      { "nimi": "Metropol" },
+      { "nimi": "Pink Chameleons" },
+      { "nimi": "Giuseppe Perverdi big band" },
+      { "nimi": "Surrogoat" },
+      { "nimi": "The Rumours" },
+      { "nimi": "Powersolo" }
+    ],
+    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/clox1XNHv>https://fb.me/e/clox1XNHv</a> \n<em>Neljandat korda toimuv Jarfest toob Tartusse kolm välisartisti Taanist, Ameerika Ühendriikidest ja Soomest. Kohalikku skeenet esindavad Ihamaru, Hiiumaa ja Viljandi bändid.</em>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBcy469W8Z5Q56aaVdWmI2jAR6L8WP3eB5KkDcaI32x7Q0?e=ZAADYG" ]
+  },
+  {
+    "id": "2026-11",
+    "algus": "2026-06-22",
+    "lõpp": "2026-06-22",
+    "sündmus": "Kontsert: Dramamama, ZZ Top",
+    "koht": "Tartu, Lauluväljak",
+    "esineja": [
+      { "nimi": "Dramamama" },
+      { "nimi": "ZZ Top" }
+    ],
+    "märkmed": "ZZ Top \"The Big One!\" tuuri kontsert Tartu Lauluväljakul, soendas Dramamama, kelle ridades astus lavale ka Laur Joamets.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCGR8B1szsPQJIvqYORGpcpAWULTciDhY7seK9ejMKbl-Q?e=OjI31q" ]
+  },
   {
     "id": "2026-12",
     "algus": "2026-07-02",
@@ -1591,7 +1648,7 @@
     "id": "2026-13",
     "algus": "2026-07-03",
     "lõpp": "2026-07-05",
-    "sündmus": "Festival Hard Rock Laager 2026",
+    "sündmus": "Hard Rock Laager 2026 festival",
     "koht": "Vana-Vigala",
     "esineja": [
       { "nimi": "Pantokraator", "kuupäev": "2026-07-03" },
