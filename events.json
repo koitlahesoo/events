@@ -1355,7 +1355,7 @@
     "id": "2020-07",
     "algus": "2020-08-20",
     "lõpp": "2020-08-20",
-    "sündmus": "Kontsert: Jaan Sööt ja Tõun",
+    "sündmus": "Kontsert: Jaan Sööt ja Tõun (Võru Koreli pargi avamine)",
     "koht": "Võru",
     "esineja": [
       { "nimi": "Jaan Sööt" },
@@ -1368,7 +1368,7 @@
     "id": "2020-08",
     "algus": "2020-09-02",
     "lõpp": "2020-09-02",
-    "sündmus": "Kontsert: Reigo Ahven Trio",
+    "sündmus": "Kontsert: Reigo Ahven Trio (Emajõe suvekontserdid)",
     "koht": "Tartu",
     "esineja": [
       { "nimi": "Reigo Ahven Trio" }
@@ -1409,8 +1409,129 @@
   },
   {
     "id": "2021-02",
+    "algus": "2021-07-09",
+    "lõpp": "2021-07-09",
+    "sündmus": "Kontsert: Led R",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Led R" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-03",
+    "algus": "2021-07-10",
+    "lõpp": "2021-07-10",
+    "sündmus": "Kontsert: Erki Pärnoja, Emajõe ääres",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Erki Pärnoja" }
+    ],
+    "märkmed": "Kontsert ja üritus Emajõe ääres",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-04",
+    "algus": "2021-07-15",
+    "lõpp": "2021-07-15",
+    "sündmus": "Kontsert: Etnosfäär, Trad.Attack!",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Etnosfäär" },
+      { "nimi": "Trad.Attack!" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-05",
+    "algus": "2021-07-16",
+    "lõpp": "2021-07-17",
+    "sündmus": "Ostrova festival 2021",
+    "koht": "Ostrova, Setomaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-06",
+    "algus": "2021-08-14",
+    "lõpp": "2021-08-14",
+    "sündmus": "Kontsert: Gunnar Graps 70",
+    "koht": "Vasula, Tartumaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "Gunnar Grapsi juubeli - mälestuskontsert Vasulas Amme jõe ääres (kus on toimunud ka \"Amme Rock\").",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-07",
     "algus": "2021-01-01",
     "lõpp": "2021-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-08",
+    "algus": "2021-01-01",
+    "lõpp": "2021-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-09",
+    "algus": "2021-01-01",
+    "lõpp": "2021-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-10",
+    "algus": "2021-01-01",
+    "lõpp": "2021-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-01",
+    "algus": "2022-01-01",
+    "lõpp": "2022-01-01",
     "sündmus": "Kontsert: ",
     "koht": "Tartu",
     "esineja": [
@@ -1497,5 +1618,36 @@
     ],
     "märkmed": "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Freakangel 04.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDUZmIw0fBsQZ4iy6kiEBuOAR2PDzG9tp5lMVjveIu0hKM?e=fIaG2J" ]
+  },
+  {
+    "id": "2026-14",
+    "algus": "2026-07-17",
+    "lõpp": "2026-07-19",
+    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2026",
+    "koht": "Palutaja, Põlvamaa",
+    "esineja": [
+      { "nimi": "Bloodfeather", "kuupäev": "2026-07-17" },
+      { "nimi": "Valm ja Orav", "kuupäev": "2026-07-17" },
+      { "nimi": "Ampest", "kuupäev": "2026-07-17" },
+      { "nimi": "Aapo Ilves", "kuupäev": "2026-07-17" },
+      { "nimi": "Mars Red Sky (FR)", "kuupäev": "2026-07-17" },
+      { "nimi": "Truckthor", "kuupäev": "2026-07-17" },
+      { "nimi": "Primordial (IE)", "kuupäev": "2026-07-17" },
+      { "nimi": "Robotorr", "kuupäev": "2026-07-18" },
+      { "nimi": "Yoth Iria (GR)", "kuupäev": "2026-07-18" },
+      { "nimi": "AITÄH EMA!", "kuupäev": "2026-07-18" },
+      { "nimi": "Project Dekadenz", "kuupäev": "2026-07-18" },
+      { "nimi": "Oranžās brīvdienas (LV)", "kuupäev": "2026-07-18" },
+      { "nimi": "Elukas", "kuupäev": "2026-07-18" },
+      { "nimi": "Aednikud", "kuupäev": "2026-07-18" },
+      { "nimi": "Puberteet", "kuupäev": "2026-07-18" },
+      { "nimi": "Biisti Pohh", "kuupäev": "2026-07-18" },
+      { "nimi": "Death Kommander (SCO)", "kuupäev": "2026-07-18" },
+      { "nimi": "Henge (UK)", "kuupäev": "2026-07-18" },
+      { "nimi": "Pagansarv", "kuupäev": "2026-07-18" },
+      { "nimi": "Kosmikud", "kuupäev": "2026-07-19" }
+    ],
+    "märkmed": "Tore festival Käbliku Pruulikojas. Kavas olnud esinejal Monkey3 (CH) esinesid paraku mingid lennutranspordi probleemid, aga õnneks leidsid korraldajad kiirelt asendusansambli Kosmikud (kellel oli samal päeval varem esinemine Ostrova festivalil) - kiitus! Meenus eelmise aasta esimese päeva lõpetus :)",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCCIRct439USIUecT_XfvHpAfNIDb5vIiScL6dyKmPyjsA?e=Mti2XT" ]
   }
 ]
