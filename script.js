@@ -12,7 +12,7 @@ function isValidOneDriveLink(url) {
   return true;
 }
 
-// Festival: "Festival" nimes või mitmepäevane
+// Festival: "Festival" nimes
 function isFestivalEvent(ev) {
   return ev.sündmus.toLowerCase().includes("festival");
 }
@@ -52,6 +52,24 @@ function applySortToList(list) {
   });
 }
 
+// Arvutab aasta-statistika kuvatavas nimekirjas
+function calcYearStats(list) {
+  const stats = {};
+  list.forEach(ev => {
+    const yr = ev.algus.substring(0, 4);
+    if (!stats[yr]) stats[yr] = { events: 0, artists: new Set() };
+    stats[yr].events++;
+    ev.esineja.forEach(e => {
+      if (e.nimi && e.nimi.trim() !== "" &&
+          !e.nimi.startsWith("TÄPSUSTADA") &&
+          !e.nimi.startsWith("erinevad")) {
+        stats[yr].artists.add(e.nimi);
+      }
+    });
+  });
+  return stats;
+}
+
 let updateView = () => {};
 
 fetch("events.json")
@@ -62,7 +80,7 @@ fetch("events.json")
     const filterYearEnd   = document.getElementById("filterYearEnd");
     const tableBody       = document.getElementById("events-body");
 
-    // Statistika
+    // Statistika päisesse
     const years = [...new Set(events.map(ev => parseInt(ev.algus.substring(0, 4))))].sort((a, b) => a - b);
     const minYear = years[0];
     const maxYear = years[years.length - 1];
@@ -112,21 +130,23 @@ fetch("events.json")
 
       // Aasta-eraldajad ainult kuupäevalise sortimise korral
       const showYearSep = !currentSort.column || currentSort.column === "date";
+      const yearStats   = showYearSep ? calcYearStats(list) : {};
       let prevYear = null;
 
       list.forEach(ev => {
         const yr = ev.algus.substring(0, 4);
 
         if (showYearSep && yr !== prevYear) {
+          const ys  = yearStats[yr];
           const sep = document.createElement("tr");
           sep.className = "year-sep";
-          sep.innerHTML = `<td colspan="5">── ${yr}</td>`;
+          sep.innerHTML = `<td colspan="5">── ${yr} <span class="year-sep-stats">· ${ys.events} sündmust · ${ys.artists.size} esinejat</span></td>`;
           tableBody.appendChild(sep);
           prevYear = yr;
         }
 
         const festival = isFestivalEvent(ev);
-        const badge = festival ? `<span class="badge-festival">festival</span>` : "";
+        const badge    = festival ? `<span class="badge-festival">festival</span>` : "";
 
         const kuupäevTekst = ev.algus === ev.lõpp
           ? formatDate(ev.algus)
@@ -161,6 +181,12 @@ fetch("events.json")
 
         tableBody.appendChild(row);
       });
+
+      // Tühi rida lõpus, et viimane sündmus ei oleks vastu ekraani serva
+      const padRow = document.createElement("tr");
+      padRow.className = "table-pad";
+      padRow.innerHTML = `<td colspan="5"></td>`;
+      tableBody.appendChild(padRow);
     }
 
     // Filtreerimine
@@ -176,9 +202,7 @@ fetch("events.json")
           ev.esineja.some(e => e.nimi?.toLowerCase().includes(q));
 
         const evYear = parseInt(ev.algus.substring(0, 4));
-        const matchesYear = evYear >= sy && evYear <= ey;
-
-        return matchesText && matchesYear;
+        return matchesText && evYear >= sy && evYear <= ey;
       });
     }
 
