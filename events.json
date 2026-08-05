@@ -1897,22 +1897,385 @@
   
   {
     "id": "2024-01",
-    "algus": "2024-01-01",
-    "lõpp": "2024-01-01",
-    "sündmus": "Kontsert: ",
-    "koht": "Tartu",
+    "algus": "2024-01-05",
+    "lõpp": "2024-01-07",
+    "sündmus": "Kontsert: Koit Toome & Band (laeval)",
+    "koht": "Tallinn - Stockholm",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Koit Toome" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
-    "id": "2024-01",
-    "algus": "2024-01-01",
-    "lõpp": "2024-01-01",
+    "id": "2024-02",
+    "algus": "2024-01-20",
+    "lõpp": "2024-01-20",
+    "sündmus": "Kontsert: Jäääär 33",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Jäääär" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-03",
+    "algus": "2024-02-15",
+    "lõpp": "2024-02-15",
+    "sündmus": "Kontsert: Sitimaan, The Boondocks",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Sitimaan" },
+      { "nimi": "The Boondocks" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-04",
+    "algus": "2024-02-18",
+    "lõpp": "2024-02-18",
+    "sündmus": "Kontsert: The Dire Straits Experience",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "The Dire Straits Experience" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-05",
+    "algus": "2024-02-19",
+    "lõpp": "2024-02-19",
+    "sündmus": "Kontsert: U.D.O., Herald",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Herald" },
+      { "nimi": "U.D.O." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-06",
+    "algus": "2024-03-02",
+    "lõpp": "2024-03-02",
+    "sündmus": "Kontsert: Aciid, S.I, Standardpaigutus, O.D.D",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Aciid" },
+      { "nimi": "S.I" },
+      { "nimi": "Standardpaigutus" },
+      { "nimi": "O.D.D" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-07",
+    "algus": "2024-03-22",
+    "lõpp": "2024-03-22",
+    "sündmus": "Kontsert: Köömes",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Köömes" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-08",
+    "algus": "2024-03-23",
+    "lõpp": "2024-03-23",
+    "sündmus": "Kontsert: Buzhold, Kannabinõid",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Buzhold" },
+      { "nimi": "Kannabinõid" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-09",
+    "algus": "2024-06-07",
+    "lõpp": "2024-06-07",
+    "sündmus": "Kontsert: Jelly Rue, Sibyl Vane",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Jelly Rue" },
+      { "nimi": "Sibyl Vane" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-10",
+    "algus": "2024-06-08",
+    "lõpp": "2024-06-08",
+    "sündmus": "Ulila Rock festival",
+    "koht": "Ulila",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "erinevad esitajad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-11",
+    "algus": "2024-06-11",
+    "lõpp": "2024-06-11",
+    "sündmus": "Kontsert: Five Finger Death Punch, Ice Nine Kills",
+    "koht": "Tallinn, Unibet Arena",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "Ice Nine Kills" },
+      { "nimi": "Five Finger Death Punch" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-12",
+    "algus": "2024-06-14",
+    "lõpp": "2024-06-14",
+    "sündmus": "Kontsert: Bruce Dickinson, Herald",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Herald" },
+      { "nimi": "Bruce Dickinson" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-13",
+    "algus": "2024-06-15",
+    "lõpp": "2024-06-15",
+    "sündmus": "Kontsert: Põhja-Tallinn",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Põhja-Tallinn" }
+    ],
+    "märkmed": "Juhtusin Põhja-Tallinnas jalutades sellisele tasuta sündmusele nagu \"Rapacross fest\", kus esines Põhja-Tallinn.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-14",
+    "algus": "2024-06-28",
+    "lõpp": "2024-06-30",
+    "sündmus": "Hard Rock Laager 2024 festival",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-15",
+    "algus": "2024-07-05",
+    "lõpp": "2024-07-05",
+    "sündmus": "Kontsert: Singer Vinger",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Singer Vinger" }
+    ],
+    "märkmed": "Singer Vinger esines \"Sisevete festival\" sündmusel Luunja sadamas.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-16",
+    "algus": "2024-07-06",
+    "lõpp": "2024-07-06",
+    "sündmus": "Kontsert: Kukerpillid, Mahavok",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Kukerpillid" },
+      { "nimi": "Mahavok" }
+    ],
+    "märkmed": "\"Emajõe festival\" sündmusel esinesid Tartus ka Kukerpillid ja Mahavok.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-17",
+    "algus": "2024-07-09",
+    "lõpp": "2024-07-09",
+    "sündmus": "Kontsert: Hauser",
+    "koht": "Tartu, Lauluväljak",
+    "esineja": [
+      { "nimi": "Hauser" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-18",
+    "algus": "2024-07-12",
+    "lõpp": "2024-07-13",
+    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2024 festival",
+    "koht": "Palutaja, Põlvamaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+   {
+    "id": "2024-19",
+    "algus": "2024-07-20",
+    "lõpp": "2024-07-20",
+    "sündmus": "Ostrova festival 2024",
+    "koht": "Ostrova, Setomaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+ {
+    "id": "2024-20",
+    "algus": "2024-08-03",
+    "lõpp": "2024-08-03",
+    "sündmus": "Kontsert: Tartu 2024 Ellujäämise kunstid ristteel ja Winny Puhh",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." },
+      { "nimi": "Winny Puhh" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-21",
+    "algus": "2024-08-23",
+    "lõpp": "2024-08-23",
+    "sündmus": "Kontsert: 2 Quick Start",
+    "koht": "Võru",
+    "esineja": [
+      { "nimi": "2 Quick Start" }
+    ],
+    "märkmed": "Esineja Võru 240 sünnipäeval",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-22",
+    "algus": "2024-10-12",
+    "lõpp": "2024-10-12",
+    "sündmus": "Kontsert: Within Temptation jt, Annisok ",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Annisok" },
+      { "nimi": "Within Temptation" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-23",
+    "algus": "2024-10-18",
+    "lõpp": "2024-10-18",
+    "sündmus": "Kontsert: Ilmu, Vassvik, Langenu, Taak",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Ilmu" },
+      { "nimi": "Vassvik" },
+      { "nimi": "Langenu" },
+      { "nimi": "Taak" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-24",
+    "algus": "2024-10-19",
+    "lõpp": "2024-10-19",
+    "sündmus": "Kontsert: South of Savoy, Wiiralt",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "South of Savoy" },
+      { "nimi": "Wiiralt" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-25",
+    "algus": "2024-11-01",
+    "lõpp": "2024-11-01",
+    "sündmus": "Kontsert: DND",
+    "koht": "Tõrva, Juudas",
+    "esineja": [
+      { "nimi": "DND" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-26",
+    "algus": "2024-11-09",
+    "lõpp": "2024-11-09",
+    "sündmus": "Kontsert: Contra, Legshaker, Pööloy Gläänz",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Contra" },
+      { "nimi": "Legshaker" },
+      { "nimi": "Pööloy Gläänz" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-27",
+    "algus": "2024-11-22",
+    "lõpp": "2024-11-22",
+    "sündmus": "Kontsert: Villu 61 - AtSETOon, Sitalaps, Nahakiin, J.M.K.E",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "AtSETOon" },
+      { "nimi": "Sitalaps" },
+      { "nimi": "Nahakiin" },
+      { "nimi": "J.M.K.E" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-28",
+    "algus": "2024-11-23",
+    "lõpp": "2024-11-23",
+    "sündmus": "Kontsert: Sandcave, Borm Bubu, Monsternaut, JUUR",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Sandcave" },
+      { "nimi": "Borm Bubu" },
+      { "nimi": "Monsternaut" },
+      { "nimi": "JUUR" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2024-29",
+    "algus": "2024-11-30",
+    "lõpp": "2024-11-30",
+    "sündmus": "Kontsert: Tüse Asi, Deformation",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Tüse Asi" },
+      { "nimi": "Deformation" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  
+  {
+    "id": "2025-01",
+    "algus": "2025-01-01",
+    "lõpp": "2025-01-01",
     "sündmus": "Kontsert: ",
     "koht": "Tartu",
     "esineja": [
@@ -1923,7 +2286,6 @@
     "märkmed": "",
     "pildid": [ "" ]
   },
-
   {
     "id": "2025-35",
     "algus": "2025-12-28",
