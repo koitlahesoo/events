@@ -1460,6 +1460,18 @@
   },
   {
     "id": "2021-06",
+    "algus": "2021-07-23",
+    "lõpp": "2021-07-24",
+    "sündmus": "Punk & Rock festival 2021",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2021-07",
     "algus": "2021-08-14",
     "lõpp": "2021-08-14",
     "sündmus": "Kontsert: Gunnar Graps 70",
@@ -1473,71 +1485,81 @@
     "pildid": [ "" ]
   },
   {
-    "id": "2021-07",
-    "algus": "2021-01-01",
-    "lõpp": "2021-01-01",
-    "sündmus": "Kontsert: ",
-    "koht": "Tartu",
-    "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
-    ],
-    "märkmed": "",
-    "pildid": [ "" ]
-  },
-  {
     "id": "2021-08",
-    "algus": "2021-01-01",
-    "lõpp": "2021-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2021-08-19",
+    "lõpp": "2021-08-19",
+    "sündmus": "Kontsert: Trad.Attack!",
     "koht": "Tartu",
     "esineja": [
       { "nimi": "" },
       { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Trad.Attack!" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2021-09",
-    "algus": "2021-01-01",
-    "lõpp": "2021-01-01",
-    "sündmus": "Kontsert: ",
-    "koht": "Tartu",
+    "algus": "2021-08-28",
+    "lõpp": "2021-08-28",
+    "sündmus": "Kontsert: Stas ja Tõun, Metsatöll (Tulede öö)",
+    "koht": "Tartumaa",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Stas (Stanislav Bulganin)" },
+      { "nimi": "Tõun" },
+      { "nimi": "Metsatöll" }
     ],
-    "märkmed": "",
+    "märkmed": "Tulede öö raames sai isegi 2 eri kontserti käidud, Stas ja Tõun nägin paraku ainult lõppu, Metsatöllu sai veidi rohkem kaedud.",
     "pildid": [ "" ]
   },
   {
     "id": "2021-10",
-    "algus": "2021-01-01",
-    "lõpp": "2021-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2021-11-05",
+    "lõpp": "2021-11-05",
+    "sündmus": "Kontsert: Torabora, Sõpruse Puiestee",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Torabora" },
+      { "nimi": "Sõpruse Puiestee" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
   },
   {
     "id": "2022-01",
-    "algus": "2022-01-01",
-    "lõpp": "2022-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2022-01-07",
+    "lõpp": "2022-01-07",
+    "sündmus": "Kontsert: Hilisejad, КИНО laulud - Janno Reim ja Stanislav Bulganin",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Hilisejad" },
+      { "nimi": "Janno Reim" },
+      { "nimi": "Stanislav Bulganin (Stas)" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-02",
+    "algus": "2022-03-19",
+    "lõpp": "2022-03-19",
+    "sündmus": "Kontsert: Torabora, August Urr",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Torabora" },
+      { "nimi": "August Urr" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-03",
+    "algus": "2022-05-19",
+    "lõpp": "2022-05-19",
+    "sündmus": "Kontsert: Toomas Vanem",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Toomas Vanem" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
@@ -1572,7 +1594,232 @@
     "märkmed": "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Talbot 01.07, Baroness 01.07, Beyond the Structure 02.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/</a> ",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAirQ0rhzIqT6n7NOVX6RLCASdeIRsbLCD4s84axrL9KSo?e=0R242T" ]
   },
+  {
+    "id": "2022-05",
+    "algus": "2022-07-22",
+    "lõpp": "2022-07-24",
+    "sündmus": "Punk & Rock festival 2022",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-06",
+    "algus": "2022-08-14",
+    "lõpp": "2022-08-14",
+    "sündmus": "Kontsert: Ewert and The Two Dragons (Tartu 2024)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Ewert and The Two Dragons" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-07",
+    "algus": "2022-10-04",
+    "lõpp": "2022-10-04",
+    "sündmus": "Kontsert: Lea Dali Lioni mälestuskontsert",
+    "koht": "Tartu, Eesti Rahva Muuseum",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-08",
+    "algus": "2022-10-07",
+    "lõpp": "2022-10-07",
+    "sündmus": "Kontsert: The Cure, The Twilight Sad",
+    "koht": "Läti",
+    "esineja": [
+      { "nimi": "The Twilight Sad" },
+      { "nimi": "The Cure" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-09",
+    "algus": "2022-10-08",
+    "lõpp": "2022-10-08",
+    "sündmus": "Kontsert: Planespotters, КИНО laulud - Janno Reim ja Stanislav Bulganin",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Planespotters" },
+      { "nimi": "Janno Reim" },
+      { "nimi": "Stanislav Bulganin (Stas)" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-10",
+    "algus": "2022-10-22",
+    "lõpp": "2022-10-22",
+    "sündmus": "Kontsert: Jaxy, Dramamama",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Jaxy" },
+      { "nimi": "Dramamama" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-11",
+    "algus": "2022-11-18",
+    "lõpp": "2022-11-18",
+    "sündmus": "Kontsert: Koopaorav, Velikije Luki (40)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Koopaorav" },
+      { "nimi": "Velikije Luki" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-12",
+    "algus": "2022-11-25",
+    "lõpp": "2022-11-25",
+    "sündmus": "Kontsert: Tora Bora, August Urr",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Tora Bora" },
+      { "nimi": "August Urr" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2022-13",
+    "algus": "2022-12-02",
+    "lõpp": "2022-12-02",
+    "sündmus": "Kontsert: YE, Elephants From Neptune",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "YE" },
+      { "nimi": "Elephants From Neptune" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
   
+  {
+    "id": "2023-01",
+    "algus": "2023-01-01",
+    "lõpp": "2023-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  
+  {
+    "id": "2025-35",
+    "algus": "2025-12-28",
+    "lõpp": "2025-12-28",
+    "sündmus": "Kontsert: Vennaskond - Aastalõpukontsert",
+    "koht": "Tartu, Eesti Rahva Muuseum",
+    "esineja": [
+      { "nimi": "Vennaskond" }
+    ],
+    "märkmed": "Vennaskonna aastalõpukontsert ERM-is. \nSündmuse FB leht: <a href=https://fb.me/e/3UScLMJuG>https://fb.me/e/3UScLMJuG</a> \n<em>Vennaskond on üle nelja aastakümne olnud Eesti muusikamaastiku üks omanäolisemaid ja mõjukamaid bände. Nende tabavad ja poeetilised tekstid on innustanud põlvkondi, aidates paljudel noortel avastada eesti luule ja vabaduse vaim. Vennaskonna muusika ühendab lüürilisuse ja toore rokijõu – see teeb iga kontserdi eriliseks ja meeldejäävaks.</em>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDVDQnuJX58Q5_cwQtLxYXFAYl0HP8b8qQ1r6KPXkZJMSE?e=hRfdnq" ]
+  },
+  
+  {
+    "id": "2026-01",
+    "algus": "2026-01-09",
+    "lõpp": "2026-01-09",
+    "sündmus": "Kontsert: the Belka 31",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "the Belka" }
+    ],
+    "märkmed": "Klubi Rock & Roll teeb ja the Belka jõuab oma 31. sünnipäeva tähistamisega ka Tartusse. Kaua oodatud kontsert kõikide the Belka sõprade poolt. \nSündmuse FB leht: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2026-02",
+    "algus": "2026-01-23",
+    "lõpp": "2026-01-23",
+    "sündmus": "Kontsert: Terminaator",
+    "koht": "Tartu, Püssirohukelder",
+    "esineja": [
+      { "nimi": "Terminaator" }
+    ],
+    "märkmed": "Sai sõpradega üle hulga aja \"Püssikas\" käidud. \nSündmuse FB leht: <a href=https://fb.me/e/3KF5TpKEW>https://fb.me/e/3KF5TpKEW</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCzRSE12A3pQbO1DKK-YruOAQD5HkwPvNHOjsF6Wskh50M?e=8uBu6q" ]
+  },
+  {
+    "id": "2026-03",
+    "algus": "2026-02-14",
+    "lõpp": "2026-02-14",
+    "sündmus": "Kontsert: Rivaalid, Tüse Asi, Tuvipoeg, Kurjam (Taliharajafest)",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Rivaalid" },
+      { "nimi": "Tüse Asi" },
+      { "nimi": "Tuvipoeg" },
+      { "nimi": "Kurjam" }
+    ],
+    "märkmed": "Kodulinna kontert \"Taliharajafest\". \nSündmuse FB leht: <a href=https://fb.me/e/45nAQe6X0>https://fb.me/e/45nAQe6X0</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDYkzT8Rmf0RYaInYIFKog8ARngJcZuQ7WKcFJaUwx1hEs?e=ePXlu3" ]
+  },
+  {
+    "id": "2026-04",
+    "algus": "2026-02-17",
+    "lõpp": "2026-02-17",
+    "sündmus": "Kontsert: Thoughtcrimes (US), DVNE (UK), Igorrr (FR)",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Thoughtcrimes (US)" },
+      { "nimi": "DVNE (UK)" },
+      { "nimi": "Igorrr (FR)" }
+    ],
+    "märkmed": "<em>Žanriteülene loominguline plahvatus, Gautier Serre ehk Igorrr tutvustab oma sisemaailma</em>. \nSündmuse FB leht: <a href=https://fb.me/e/1TvARgwznE>https://fb.me/e/1TvARgwznE</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAOYlRuXko-QrOmpM_smBRKAaI5raTMDgf8MZi8VAooFTM?e=8XNZrV" ]
+  },
+  {
+    "id": "2026-05",
+    "algus": "2026-03-08",
+    "lõpp": "2026-03-08",
+    "sündmus": "Kontsert: Lenna, Liis Lemsalu, Ines (Kolm muusat)",
+    "koht": "Tartu, Vanemuine",
+    "esineja": [
+      { "nimi": "Lenna" },
+      { "nimi": "Liis Lemsalu" },
+      { "nimi": "Ines" }
+    ],
+    "märkmed": "Käisin naisega naistepäeva kontserdil \"Kolm muusat\".",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA652BjMS8XSJv7VYqSGV4eAcJb8O7qU_BJ7DGFcdwN5jc?e=QoKtOL" ]
+  },
+  {
+    "id": "2026-06",
+    "algus": "2026-03-13",
+    "lõpp": "2026-03-14",
+    "sündmus": "Kontsert: Traffic, Asen (laeval)",
+    "koht": "Tallinn - Stockholm",
+    "esineja": [
+      { "nimi": "Traffic" },
+      { "nimi": "Asen" }
+    ],
+    "märkmed": "Esinejad laeval Rootsi kruiisi ajal. Asen esines pubis, mulle meeldis ja leidsin, et on väärt jäädvustamist.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBhw6KrSSleT7EVoLbfO_FkAUv6GuGS4wTTXrye_9oIYuw?e=YyDfel" ]
+  },
   {
     "id": "2026-07",
     "algus": "2026-03-15",
