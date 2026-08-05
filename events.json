@@ -1711,11 +1711,194 @@
     "märkmed": "",
     "pildid": [ "" ]
   },
-  
+
   {
     "id": "2023-01",
-    "algus": "2023-01-01",
-    "lõpp": "2023-01-01",
+    "algus": "2023-01-30",
+    "lõpp": "2023-01-30",
+    "sündmus": "Kontsert: Manowar",
+    "koht": "Tallinn, Unibet Arena",
+    "esineja": [
+      { "nimi": "Manowar" }
+    ],
+    "märkmed": "Sel kontserdil oli jube turvade poolt jälgimine, et keegi ei teeks mingeid jäädvustusi. Ma mõne \"keelatud võtte\" sain ikka mälestuseks, kuskilt netist ka üks videoklipike.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-02",
+    "algus": "2023-02-03",
+    "lõpp": "2023-02-03",
+    "sündmus": "Kontsert: The Iron Maidens, Accept",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "The Iron Maidens" },
+      { "nimi": "Accept" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-03",
+    "algus": "2023-05-06",
+    "lõpp": "2023-05-06",
+    "sündmus": "Kontsert: HVNTA, DND",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "HVNTA" },
+      { "nimi": "DND" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-04",
+    "algus": "2023-05-26",
+    "lõpp": "2023-05-27",
+    "sündmus": "foRest festival",
+    "koht": "Läti",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-05",
+    "algus": "2023-06-14",
+    "lõpp": "2023-06-14",
+    "sündmus": "Kontsert: Of Virtue, Three Days Grace",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Of Virtue" },
+      { "nimi": "Three Days Grace" }
+    ],
+    "märkmed": "Meenub, et kontsert oli välja müüdud ja oli suht kitsas ning palav ja ei jäändki väga muud üle, kui asja \"posti tagant\" kaeda nigu see Helitehase eripära on.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-06",
+    "algus": "2023-06-29",
+    "lõpp": "2023-07-02",
+    "sündmus": "Hard Rock Laager 2023 festival",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-07",
+    "algus": "2023-07-14",
+    "lõpp": "2023-07-16",
+    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2023 festival",
+    "koht": "Palutaja, Põlvamaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-08",
+    "algus": "2023-07-22",
+    "lõpp": "2023-07-22",
+    "sündmus": "Ostrova festival 2023",
+    "koht": "Ostrova, Setomaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-09",
+    "algus": "2023-07-28",
+    "lõpp": "2023-07-30",
+    "sündmus": "Punk & Rock 2023 festival",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-10",
+    "algus": "2023-08-13",
+    "lõpp": "2023-08-13",
+    "sündmus": "Kontsert: Fix 55",
+    "koht": "Tartu, Lauluväljak",
+    "esineja": [
+      { "nimi": "Fix" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-11",
+    "algus": "2023-08-19",
+    "lõpp": "2023-08-18",
+    "sündmus": "Kontsert: Metsatöll ja Eesti Rahvusmeeskoor",
+    "koht": "Võru",
+    "esineja": [
+      { "nimi": "Metsatöll" },
+      { "nimi": "Eesti Rahvusmeeskoor" }
+    ],
+    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-12",
+    "algus": "2023-09-23",
+    "lõpp": "2023-09-23",
+    "sündmus": "Kontsert: Indrek Patte, Permanent Blue",
+    "koht": "Tallinn, Tapper",
+    "esineja": [
+      { "nimi": "Permanent Blue" },
+      { "nimi": "Indrek Patte" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-13",
+    "algus": "2023-09-24",
+    "lõpp": "2023-09-24",
+    "sündmus": "Kontsert: Sirenia, Amberian Dawn, Dark Sarah, Rexoria",
+    "koht": "Tallinn, Tapper",
+    "esineja": [
+      { "nimi": "Rexoria" },
+      { "nimi": "Dark Sarah" },
+      { "nimi": "Amberian Dawn" },
+      { "nimi": "Sirenia" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2023-14",
+    "algus": "2023-10-21",
+    "lõpp": "2023-10-21",
+    "sündmus": "Kontsert: Vihan Muna, Redneck Ramapge, Kumikameli, Zorg, Sharpnelle",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Vihan Muna" },
+      { "nimi": "Redneck Ramapge" },
+      { "nimi": "Kumikameli" },
+      { "nimi": "Zorg" },
+      { "nimi": "Sharpnelle" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  
+  {
+    "id": "2024-01",
+    "algus": "2024-01-01",
+    "lõpp": "2024-01-01",
     "sündmus": "Kontsert: ",
     "koht": "Tartu",
     "esineja": [
@@ -1726,7 +1909,21 @@
     "märkmed": "",
     "pildid": [ "" ]
   },
-  
+  {
+    "id": "2024-01",
+    "algus": "2024-01-01",
+    "lõpp": "2024-01-01",
+    "sündmus": "Kontsert: ",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+
   {
     "id": "2025-35",
     "algus": "2025-12-28",
@@ -1750,7 +1947,7 @@
       { "nimi": "the Belka" }
     ],
     "märkmed": "Klubi Rock & Roll teeb ja the Belka jõuab oma 31. sünnipäeva tähistamisega ka Tartusse. Kaua oodatud kontsert kõikide the Belka sõprade poolt. \nSündmuse FB leht: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD5EguOuNxGT7_cg5oZABaZAalQfX9Q-pmMf_d4vtEB_UY?e=QCVHAb" ]
   },
   {
     "id": "2026-02",
@@ -1941,7 +2138,7 @@
     "id": "2026-14",
     "algus": "2026-07-17",
     "lõpp": "2026-07-19",
-    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2026",
+    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2026 festival",
     "koht": "Palutaja, Põlvamaa",
     "esineja": [
       { "nimi": "Bloodfeather", "kuupäev": "2026-07-17" },
