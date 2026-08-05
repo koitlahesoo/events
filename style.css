@@ -329,3 +329,17 @@ tr.no-results td {
 
 .hoiatus { color: #cc0000; font-size: 13px; }
 .puudub  { color: #999; font-style: italic; font-size: 13px; margin: 0; }
+
+/* Aasta-eraldaja statistika */
+.year-sep-stats {
+  color: #bbb;
+  font-weight: 400;
+  margin-left: 4px;
+}
+
+/* Alumine tühirida */
+tr.table-pad td {
+  height: 48px;
+  border-bottom: none;
+  cursor: default;
+}
