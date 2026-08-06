@@ -59,6 +59,14 @@ function buildEsinejadHtml(esinejad) {
   return html;
 }
 
+// Märkmed: toetab nii stringi (vana) kui massiivi (uus)
+// Massiivi elemendid liidetakse reavahetustega – tühi string "" = tühi rida
+function getMärkmed(märkmed) {
+  if (!märkmed) return "";
+  if (Array.isArray(märkmed)) return märkmed.join("\n");
+  return märkmed;
+}
+
 // Loe URL-i parameeter ?id=
 const params  = new URLSearchParams(window.location.search);
 const eventId = params.get("id");
@@ -84,11 +92,12 @@ fetch("events.json")
     // Esinejad
     const esinejadHtml = buildEsinejadHtml(ev.esineja);
 
-    // Märkmed
-    const märkmedHtml = ev.märkmed ? `
+    // Märkmed (string või massiiv)
+    const märkmedTekst = getMärkmed(ev.märkmed);
+    const märkmedHtml  = märkmedTekst ? `
       <div>
         <div class="detail-section-label">Märkmed</div>
-        <div class="märkmed-kast">${ev.märkmed}</div>
+        <div class="märkmed-kast">${märkmedTekst}</div>
       </div>` : "";
 
     // Pildid
