@@ -732,14 +732,14 @@
     "algus": "2017-06-03",
     "lõpp": "2017-06-03",
     "sündmus": "Kontsert: Wundament, Puberteet, SS Robot",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Wundament" },
       { "nimi": "Puberteet" },
       { "nimi": "SS Robot" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Klubi Rock & Roll hooaja lõpukas. \nSündmuse FB leht: <a href=https://fb.me/e/9Gh5OBr5t>https://fb.me/e/9Gh5OBr5t</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCc8eQztpJ1S50qga1b_3tOAW6odcQd_5Qv1FeE3pP_MI0?e=a5pOnr" ]
   },
   {
     "id": "2017-03",
@@ -2274,17 +2274,476 @@
   
   {
     "id": "2025-01",
-    "algus": "2025-01-01",
-    "lõpp": "2025-01-01",
-    "sündmus": "Kontsert: ",
+    "algus": "2025-01-25",
+    "lõpp": "2025-01-25",
+    "sündmus": "Kontsert: Avantyr, Cellar Cat, Osilian, Bloodfeather",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Avantyr" },
+      { "nimi": "Cellar Cat" },
+      { "nimi": "Osilian" },
+      { "nimi": "Bloodfeather" }
     ],
     "märkmed": "",
     "pildid": [ "" ]
+  },
+  {
+    "id": "2025-02",
+    "algus": "2025-02-01",
+    "lõpp": "2025-02-01",
+    "sündmus": "Kontsert: Ad Infinitum, Infected Rain, Eluveitie",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Ad Infinitum" },
+      { "nimi": "Infected Rain" },
+      { "nimi": "Eluveitie" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-03",
+    "algus": "2025-02-02",
+    "lõpp": "2025-02-02",
+    "sündmus": "Kontsert: The Omnific, Novelists, TesseracT",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "The Omnific" },
+      { "nimi": "Novelists" },
+      { "nimi": "TesseracT" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-04",
+    "algus": "2025-02-07",
+    "lõpp": "2025-02-07",
+    "sündmus": "Kontsert: Robotorr, Echolove",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Robotorr" },
+      { "nimi": "Echolove" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-05",
+    "algus": "2025-02-28",
+    "lõpp": "2025-02-28",
+    "sündmus": "Kontsert: Spice Mouse, Wrupk Urei, Avemaria",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Spice Mouse" },
+      { "nimi": "Wrupk Urei" },
+      { "nimi": "Avemaria" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-06",
+    "algus": "2025-03-22",
+    "lõpp": "2025-03-22",
+    "sündmus": "Kontsert: Karachay, Moor, Tenebrae Aeternum",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Karachay" },
+      { "nimi": "Moor" },
+      { "nimi": "Tenebrae Aeternum" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-07",
+    "algus": "2025-04-06",
+    "lõpp": "2025-04-06",
+    "sündmus": "Kontsert: Nouvelle Vague",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Nouvelle Vague" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-08",
+    "algus": "2025-04-11",
+    "lõpp": "2025-04-11",
+    "sündmus": "Kontsert: Shrapnelle, Puberteet, J.M.K.E",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Shrapnelle" },
+      { "nimi": "Puberteet" },
+      { "nimi": "J.M.K.E" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-09",
+    "algus": "2025-05-24",
+    "lõpp": "2025-05-24",
+    "sündmus": "Jarfest festival 2025",
+    "koht": "Tartu, Kammivabriku klubi",
+    "esineja": [
+      { "nimi": "Nuggat" },
+      { "nimi": "Fuzzolini" },
+      { "nimi": "The Satones" },
+      { "nimi": "Zahir" },
+      { "nimi": "Pedigree" },
+      { "nimi": "Peter Pan Speedrock" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-10",
+    "algus": "2025-06-02",
+    "lõpp": "2025-06-02",
+    "sündmus": "Kontsert: Unprocessed, Jinjer, In Flames",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Unprocessed" },
+      { "nimi": "Jinjer" },
+      { "nimi": "In Flames" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-11",
+    "algus": "2025-06-07",
+    "lõpp": "2025-06-07",
+    "sündmus": "Kontsert: Lõõtsanoobid (Viljandi Hansapäevad)",
+    "koht": "Viljandi",
+    "esineja": [
+      { "nimi": "Lõõtsanoobid" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-12",
+    "algus": "2025-06-12",
+    "lõpp": "2025-06-12",
+    "sündmus": "Kontsert: Pedigree, Vendetta FM, Soulfly",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Pedigree" },
+      { "nimi": "Vendetta FM" },
+      { "nimi": "Soulfly" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-13",
+    "algus": "2025-06-18",
+    "lõpp": "2025-06-18",
+    "sündmus": "Kontsert: Halestorm",
+    "koht": "Tallinn",
+    "esineja": [
+      { "nimi": "Halestorm" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-14",
+    "algus": "2025-06-20",
+    "lõpp": "2025-06-20",
+    "sündmus": "Kontsert: Osilian, Sold, Pale Alison, Bloodfeather",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Osilian" },
+      { "nimi": "Sold" },
+      { "nimi": "Pale Alison" },
+      { "nimi": "Bloodfeather" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-15",
+    "algus": "2025-06-26",
+    "lõpp": "2025-06-26",
+    "sündmus": "Läburint 2025 - Asotsiaal, Antsud Metal Project, J.M.K.E",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "Asotsiaal" },
+      { "nimi": "Antsud Metal Project" },
+      { "nimi": "J.M.K.E" }
+    ],
+    "märkmed": "HRL eelõhtu - Läburint.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-16",
+    "algus": "2024-06-27",
+    "lõpp": "2024-06-29",
+    "sündmus": "Hard Rock Laager 2025 festival",
+    "koht": "Vana-Vigala",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-17",
+    "algus": "2024-07-11",
+    "lõpp": "2024-07-12",
+    "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2025 festival",
+    "koht": "Palutaja, Põlvamaa",
+    "esineja": [
+      { "nimi": "erinevad esinejad..." }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-18",
+    "algus": "2025-07-24",
+    "lõpp": "2025-07-24",
+    "sündmus": "Kontsert: The Pretty Reckless, AC⚡DC (AC/DC)",
+    "koht": "Tallinn, Lauluväljak",
+    "esineja": [
+      { "nimi": "The Pretty Reckless" },
+      { "nimi": "AC⚡DC" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-19",
+    "algus": "2025-08-23",
+    "lõpp": "2025-08-23",
+    "sündmus": "Kontsert: ToraBora, Tüse Asi (Andersoni aiapidu vol 6)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "ToraBora" },
+      { "nimi": "Tüse Asi" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-20",
+    "algus": "2025-08-30",
+    "lõpp": "2025-08-30",
+    "sündmus": "Kontsert: Coverage, Metsatöll - Raadi elamus",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Coverage" },
+      { "nimi": "Metsatöll" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-21",
+    "algus": "2025-09-06",
+    "lõpp": "2025-09-06",
+    "sündmus": "Punk & Rock festival 2025 (osaline)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Paranarkar" },
+      { "nimi": "Shrapnelle" },
+      { "nimi": "Avantyr" },
+      { "nimi": "Herald" }
+    ],
+    "märkmed": "Olud ei võimaldand mul kogu festist osa saada, aga miskit ikka sai kaetud ja mälestustesse jäädvustatud.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-22",
+    "algus": "2025-09-12",
+    "lõpp": "2025-09-12",
+    "sündmus": "Kontsert: Blizzard Of Ozzmond, Sollad, Puberteet (Sügispunk)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Blizzard Of Ozzmond" },
+      { "nimi": "Sollad" },
+      { "nimi": "Puberteet" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-23",
+    "algus": "2025-09-13",
+    "lõpp": "2025-09-13",
+    "sündmus": "Kontsert: Zack Wilde Tribute (Road Beast MC)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Zack Wilde Tribute" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-24",
+    "algus": "2025-09-20",
+    "lõpp": "2025-09-20",
+    "sündmus": "Kontsert: Kail, Ajumäda, Hobo Deathcult, Dieselpest",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Kail" },
+      { "nimi": "Ajumäda" },
+      { "nimi": "Hobo Deathcult (CAN)" },
+      { "nimi": "Dieselpest (GER)" }
+    ],
+    "märkmed": "",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-25",
+    "algus": "2025-09-20",
+    "lõpp": "2025-09-20",
+    "sündmus": "Kontsert: Timedriver (80's Worship)",
+    "koht": "Tartu",
+    "esineja": [
+      { "nimi": "Timedriver" }
+    ],
+    "märkmed": "Eelmise \"Hell-i\" kontserdiga samal ajal oli \"Heaven-is\" teine 80-ndate üritus, nägin säält põgusalt üht esinejat.",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-26",
+    "algus": "2025-10-05",
+    "lõpp": "2025-10-05",
+    "sündmus": "Kontsert: Simple Plan, The Offspring",
+    "koht": "Riia",
+    "esineja": [
+      { "nimi": "Simple Plan" },
+      { "nimi": "The Offspring" }
+    ],
+    "märkmed": "See oli üks vägev kontsert - kõigepealt tore sõprade seltskond, kellega sai seal käidud ja no Offspring ikka tulistas hiti hiti otsa ja rahvas elas ka mõnusalt kaasa!",
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2025-27",
+    "algus": "2025-10-10",
+    "lõpp": "2025-10-11",
+    "sündmus": "Tarbariitus 2025 festival",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Aš-Šur (EE)" },
+      { "nimi": "Protocol F40.1 (LT)" },
+      { "nimi": "Morok (UA)" },
+      { "nimi": "Death Kommander (CH, SCO, EE)" },
+      { "nimi": "Karachay (EE)" },
+      { "nimi": "Vortex Sutra (UK)" },
+      { "nimi": "Sõjaruun (EE)" },
+      { "nimi": "Victimarum (FI)" },
+      { "nimi": "Uguns (LV)" },
+      { "nimi": "Dispyt (FI)" },
+      { "nimi": "Goatsmegma (EE)" },
+      { "nimi": "Perditus (AU)" },
+      { "nimi": "Severoth (UA)" }
+    ],
+    "märkmed": "Tarbatiirus \"raskemuusika\" festival Tartu Rock & Roll klubis nii Heaven (üleval) kui ka Hell (all) saalides. \nSündmuse FB leht: <a href=https://fb.me/e/4rHi3r0uv>https://fb.me/e/4rHi3r0uv</a> \nOli \"tungiv soovitus\" jätta telefonid tasku ja jäädvustusi mitte teha. Ma ikka proovisin mõned klõpsud igast bändist teha, et nimi ja pilt kokku viia. Et pilt ja heli kokku viia, tuleb netis surfata :). Mõned leiud veebist toon ära: \nDeath Kommander <a href=https://youtu.be/ME_1iDDcDbI>https://youtu.be/ME_1iDDcDbI</a> \nSõjaruun <a href=https://youtu.be/XVZO59opUfM>https://youtu.be/XVZO59opUfM</a> \nPerditus <a href=https://youtu.be/0EmZ-rTPmco>https://youtu.be/0EmZ-rTPmco</a> \nSeveroth <a href=https://youtu.be/_rqCWFW1YgI>https://youtu.be/_rqCWFW1YgI</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBp-lv1I3pWQY8uG2cbmWySARvHHx1nPgOE6MZrmvwwD6g?e=80jIZj" ]
+  },
+  {
+    "id": "2025-28",
+    "algus": "2025-10-21",
+    "lõpp": "2025-10-21",
+    "sündmus": "Kontsert: Battle Born, W.A.S.P",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Battle Born" },
+      { "nimi": "W.A.S.P" }
+    ],
+    "märkmed": "\"Album ONE Alive!\" \nSündmuse FB leht: <a href=https://fb.me/e/diGJVpJoA>https://fb.me/e/diGJVpJoA</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0EDkuBihHQrCtP9pD-Pi_AZCVN5M8sBbMYgR8T39IOcc?e=tuq38h" ]
+  },
+  {
+    "id": "2025-29",
+    "algus": "2025-10-25",
+    "lõpp": "2025-10-25",
+    "sündmus": "Kontsert: Shemhamforash, Bliss of Flesh, Gorgoroth",
+    "koht": "Tallinn, Tapper",
+    "esineja": [
+      { "nimi": "Shemhamforash (MX)" },
+      { "nimi": "Bliss of Flesh (FR)" },
+      { "nimi": "Gorgoroth (NO)" }
+    ],
+    "märkmed": "\"33 year anniversary\" \nSündmuse FB leht: <a href=https://fb.me/e/3uTV4dmpu>https://fb.me/e/3uTV4dmpu</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDQ6DLcofWTSIjTab6tRv_CATzsumZyr-iIOSpgbW6-h-M?e=bBINuu" ]
+  },
+  {
+    "id": "2025-30",
+    "algus": "2025-10-31",
+    "lõpp": "2025-10-31",
+    "sündmus": "Kontsert: Numento, Bloody Falls, Goresoerd",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Numento (FI/EE)" },
+      { "nimi": "Bloody Falls (FI)" },
+      { "nimi": "Goresoerd" }
+    ],
+    "märkmed": "\"The Dark Journey\" - rännak läbi pimedaima öö. \nSündmuse FB leht: <a href=https://fb.me/e/32dhmlInv>https://fb.me/e/32dhmlInv</a> \n<em>Teekond algab bändiga Numento, kelle agressiivne extreme metal’i saund, kandle tekitatud kõhe atmosfäär ja vokalisti Katri virtuoossus mõjuvad nii lummavalt kui ka painavalt. Teisena esinev Bloody Falls hakkab vaagima, kas te elate või surete. Sünged gruuvid, rasked riffid ja lüüriliselt jutustatud lood viivad teid inimlikkuse tumedaimatesse paikadesse ega halasta. Lõpuks haarab Goresoerdi trööstitu, tume ja vankumatu metal kuulajad surmavasse haardesse, pannes nad õhku ahmima. Rännake koos meiega läbi pimeduse, et taassündida.</em>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDWz58oOLq0Rb77bakUTYRdAcicskq678zJGoSZVyk30-M?e=bVj2m4" ]
+  },
+  {
+    "id": "2025-31",
+    "algus": "2025-11-29",
+    "lõpp": "2025-11-29",
+    "sündmus": "Kontsert: Stepdog, Ne'er, Taak",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Stepdog" },
+      { "nimi": "Ne'er" },
+      { "nimi": "Taak" }
+    ],
+    "märkmed": "𝗧𝗔𝗔𝗞 - 𝗸𝘂𝘂𝗲𝗻𝗱𝗮 𝗮𝗹𝗯𝘂𝗺𝗶 \"𝗦𝘂𝗿𝗺𝗮𝗹𝗮𝗲𝘃\" 𝗲𝘀𝗶𝘁𝗹𝘂𝘀𝗸𝗼𝗻𝘁𝘀𝗲𝗿𝘁 ja külalisesinejad. \nSündmuse FB leht: <a href=https://fb.me/e/3d2RdlroK>https://fb.me/e/3d2RdlroK</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCnHvdfXVtaTLFizmEX6grqAbO6lPcro5Vb4qFYOVLXShY?e=ll1YBD" ]
+  },
+  {
+    "id": "2025-32",
+    "algus": "2025-12-12",
+    "lõpp": "2025-12-12",
+    "sündmus": "Kontsert: Gangrenated, Karachay, Intrepid",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Gangrenated" },
+      { "nimi": "Karachay" },
+      { "nimi": "Intrepid" }
+    ],
+    "märkmed": "Intrepid albumi \"Juxtaposition\" esitluskontsert koos erikülalistega. \nSündmuse FB leht: <a href=https://fb.me/e/6kUd05faQ>https://fb.me/e/6kUd05faQ</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBMjDDju8j6TavZz0qVFdx5AdhmHMvNd2mDb6Dy7bx52Kg?e=w0P34q" ]
+  },
+  {
+    "id": "2025-33",
+    "algus": "2025-12-13",
+    "lõpp": "2025-12-13",
+    "sündmus": "Kontsert: Pettunud Kodanik, Valem Vale, DND",
+    "koht": "Tartu Uus Teater",
+    "esineja": [
+      { "nimi": "Pettunud Kodanik" },
+      { "nimi": "Valem Vale" },
+      { "nimi": "DND" }
+    ],
+    "märkmed": "DND \"Sügis helges toonis\" tuur ja sõprusbändid. \nSündmuse FB leht: <a href=https://fb.me/e/8PusCMBNF>https://fb.me/e/8PusCMBNF</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBD873UeSzQRojoID6sqCyMAS1L4QvWPTyc3_eb5yu7WjU?e=ULWu5j" ]
+  },
+  {
+    "id": "2025-34",
+    "algus": "2025-12-16",
+    "lõpp": "2025-12-16",
+    "sündmus": "Kontsert: Roses of Thieves, Lutharo, Alestorm",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Roses of Thieves" },
+      { "nimi": "Lutharo" },
+      { "nimi": "Alestorm" }
+    ],
+    "märkmed": "\"Thunderfisting Europe 2025\" tuur \nSündmuse FB leht: <a href=https://fb.me/e/3rixKeZHF>https://fb.me/e/3rixKeZHF</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBVjMFb4xIMSpsRz9lBOfQ4AeTiMlmz_W2Gq5pnHP6xG7w?e=x9g1PZ" ]
   },
   {
     "id": "2025-35",
