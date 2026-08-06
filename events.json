@@ -2444,41 +2444,58 @@
     "algus": "2025-06-18",
     "lõpp": "2025-06-18",
     "sündmus": "Kontsert: Halestorm",
-    "koht": "Tallinn",
+    "koht": "Tallinn, Helitehas",
     "esineja": [
       { "nimi": "Halestorm" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Halestorm esines kahes osas - esimene sett oli akustiline, ning teine korralik rokisett! Ja no küll see Lzzy Hale on ikka vägeva häälematerjaliga varustatud - kohati ajas peaaegu kananaha ihule, VÕIMAS!!! :) ",
+      "FB leht: <a href=https://fb.me/e/2C8V6o5fl>https://fb.me/e/2C8V6o5fl</a>",
+      "",
+      "Jäin kontserdiga nii rahule, et vaim tuli pääle ning üritasin ühe inglise keelse salmikese kokku panna:",
+      "<em>Lzzy, thanks to your parents</em>",
+      "<em>from who you were born.</em>",
+      "<em>Also I want to thank you</em>",
+      "<em>for making the band Halestorm.</em>",
+      "<em>And thanks to the rock god and nature</em>",
+      "<em>for your voice so full of power.</em>",
+      "<em>Your singing gives us goosebumps</em>",
+      "<em>from the soundwaves coming over.</em>",
+      "<em>At noon the sun shines on you</em>",
+      "<em>at night there shines the moon,</em>",
+      "<em>everything that helps you</em>",
+      "<em>to create the songs so good!</em>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCz-Tt956S5SId-7NG988WZAcoBaDbyFbXjHXrRfhXhn7Y?e=HrW97g" ]
   },
   {
     "id": "2025-14",
     "algus": "2025-06-20",
     "lõpp": "2025-06-20",
     "sündmus": "Kontsert: Osilian, Sold, Pale Alison, Bloodfeather",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Osilian" },
       { "nimi": "Sold" },
       { "nimi": "Pale Alison" },
       { "nimi": "Bloodfeather" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "METALCALYPSE FB leht: <a href=https://fb.me/e/JL8t8lOWV>https://fb.me/e/JL8t8lOWV</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAr0mBHdBi3TpKRh8EukrMbAW3r6qm-MVIHIfuf9UYxZeg?e=Ci7c3S" ]
   },
   {
     "id": "2025-15",
     "algus": "2025-06-26",
     "lõpp": "2025-06-26",
-    "sündmus": "Läburint 2025 - Asotsiaal, Antsud Metal Project, J.M.K.E",
+    "sündmus": "LäBuRiNT 2025 - Asotsiaal, Antsud Metal Project, J.M.K.E",
     "koht": "Vana-Vigala",
     "esineja": [
       { "nimi": "Asotsiaal" },
       { "nimi": "Antsud Metal Project" },
       { "nimi": "J.M.K.E" }
     ],
-    "märkmed": "HRL eelõhtu - Läburint.",
-    "pildid": [ "" ]
+    "märkmed": "HRL eelõhtu - Läburint. FB leht: <a href=https://fb.me/e/IS3VO0nfY>https://fb.me/e/IS3VO0nfY</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC4-FoxrC76SoS1WBW6rX9lAfBJKgg0xyJAMVA9TPFx6yo?e=UMZUcd" ]
   },
   {
     "id": "2025-16",
@@ -2487,22 +2504,68 @@
     "sündmus": "Hard Rock Laager 2025 festival",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Fuzzolini", "kuupäev": "2025-06-27" },
+      { "nimi": "Kaschalot", "kuupäev": "2025-06-27" },
+      { "nimi": "Tharaphita", "kuupäev": "2025-06-27" },
+      { "nimi": "HND", "kuupäev": "2025-06-27" },
+      { "nimi": "Herald", "kuupäev": "2025-06-27" },
+      { "nimi": "Sólstafir (ISL)", "kuupäev": "2025-06-27" },
+      { "nimi": "Pedigree", "kuupäev": "2025-06-27" },
+      { "nimi": "Marduk (SWE)", "kuupäev": "2025-06-28" },
+      { "nimi": "Fhtagn", "kuupäev": "2025-06-28" },
+      { "nimi": "Louie Digman", "kuupäev": "2025-06-28" },
+      { "nimi": "Kõdu", "kuupäev": "2025-06-28" },
+      { "nimi": "Koll", "kuupäev": "2025-06-28" },
+      { "nimi": "Surrogoat", "kuupäev": "2025-06-28" },
+      { "nimi": "Pridian", "kuupäev": "2025-06-28" },
+      { "nimi": "Evestus", "kuupäev": "2025-06-28" },
+      { "nimi": "DND", "kuupäev": "2025-06-28" },
+      { "nimi": "Intrepid", "kuupäev": "2025-06-28" },
+      { "nimi": "Vltimas (INT)", "kuupäev": "2025-06-28" },
+      { "nimi": "Forgotten Sunrise", "kuupäev": "2025-06-28" },
+      { "nimi": "Paradise Lost (UK)", "kuupäev": "2025-06-29" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Permanent Blue 27.06, Mad Road 28.06 ",
+      "Üldiselt olustikust - erakordselt vihmane ja mudane aasta, aga see lisab mälestustele vaid vürtsi. Seltskond meil nagu ikka igati tore! :)",
+      "FB leht: <a href=https://fb.me/e/BmpyUiNJY>https://fb.me/e/BmpyUiNJY</a>",
+      "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/</a> "
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCYjnPSk77eRKmDHXQwcCSRAUkFI8eW-9TjsZ0Xh731_Bw?e=Ylr8g8" ]
   },
   {
     "id": "2025-17",
-    "algus": "2024-07-11",
-    "lõpp": "2024-07-12",
+    "algus": "2025-07-11",
+    "lõpp": "2025-07-12",
     "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2025 festival",
     "koht": "Palutaja, Põlvamaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Pale Alison", "kuupäev": "2025-07-11" },
+      { "nimi": "Makiga ja Makita", "kuupäev": "2025-07-11" },
+      { "nimi": "Herald", "kuupäev": "2025-07-11" },
+      { "nimi": "Orav B", "kuupäev": "2025-07-11" },
+      { "nimi": "Super Slinky", "kuupäev": "2025-07-11" },
+      { "nimi": "Andres Roots", "kuupäev": "2025-07-11" },
+      { "nimi": "Truckfighters (SWE)", "kuupäev": "2025-07-11" },
+      { "nimi": "Kosmikud", "kuupäev": "2025-07-12" },
+      { "nimi": "Räpina Jack", "kuupäev": "2025-07-12" },
+      { "nimi": "No More Fridays", "kuupäev": "2025-07-12" },
+      { "nimi": "Teravmoon", "kuupäev": "2025-07-12" },
+      { "nimi": "Onkel Jonkel", "kuupäev": "2025-07-12" },
+      { "nimi": "Pridian", "kuupäev": "2025-07-12" },
+      { "nimi": "Sandcave", "kuupäev": "2025-07-12" },
+      { "nimi": "J.M.K.E", "kuupäev": "2025-07-12" },
+      { "nimi": "Fuzzolini", "kuupäev": "2025-07-12" },
+      { "nimi": "Winny Puhh", "kuupäev": "2025-07-12" },
+      { "nimi": "BESTIA", "kuupäev": "2025-07-12" },
+      { "nimi": "DND", "kuupäev": "2025-07-13" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Käbliku pruulikoja tore festival meeldivas õhkkonnas ja seltskonnas. Lubati tohutu tormi, eemal ümbruses oli küll taevas kaetud tohutute pilvemassiividega, aga sündmuskohal polnud hullu midagi, elasime kenasti üle! :)",
+      "Kavas oli ka Marco Tasane - selle elasin samuti üle, ma lihtsalt ei käind toda kaemas. :D",
+      "Sündmuse FB leht: <a href=https://fb.me/e/9r9i6NSab>https://fb.me/e/9r9i6NSab</a>, sääl arutelus ka mõningaid piltjäädvustusi."
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC3NXbJ2kZMSpTVP71TwrZPAahrZCoDVjTTKIQKHnw5st4?e=QO6iOn" ]
   },
   {
     "id": "2025-18",
@@ -2514,33 +2577,33 @@
       { "nimi": "The Pretty Reckless" },
       { "nimi": "AC⚡DC" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Power Up“ turnee, FB leht <a href=https://fb.me/e/9nP3hiKOs>https://fb.me/e/9nP3hiKOs</a> kirjutab, et esimest korda on ka Eesti fännidel võimalus rokilegende oma silmaga näha - käisin vaatamas :) Küll ikka vanameistritel on jaksu ja The Pretty Reckless on ka tore!",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB-6oGJOClwTZym2OnlwHw1ASSobe1xJFSOES1E2exz2pU?e=5YoS3q" ]
   },
   {
     "id": "2025-19",
     "algus": "2025-08-23",
     "lõpp": "2025-08-23",
     "sündmus": "Kontsert: ToraBora, Tüse Asi (Andersoni aiapidu vol 6)",
-    "koht": "Tartu",
+    "koht": "Tartu, Andersoni pruulikoda",
     "esineja": [
       { "nimi": "ToraBora" },
       { "nimi": "Tüse Asi" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Andersoni pruulikoja suvine aiapidu. Sõbrad esinesid, sõbrad kuulasid, olin kohal! Sündmuse FB leht: <a href=https://fb.me/e/3sDiqJMEE>https://fb.me/e/3sDiqJMEE</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDEk98NYy_zQppoUmuLMEp8AWvpa2fU0vaIUyDwA0wR-b8?e=4xFR6H" ]
   },
   {
     "id": "2025-20",
     "algus": "2025-08-30",
     "lõpp": "2025-08-30",
-    "sündmus": "Kontsert: Coverage, Metsatöll - Raadi elamus",
+    "sündmus": "Kontsert: Coverage, Metsatöll (Raadi elamus)",
     "koht": "Tartu, Raadi Majoraadi park",
     "esineja": [
-      { "nimi": "Coverage (AC/DC tribute)" },
+      { "nimi": "Coverage (AC⚡DC tribute)" },
       { "nimi": "Metsatöll" }
     ],
-    "märkmed": "Sündmus (tasuta) \"RAADI ELAMUS\", FB leht <a href=https://fb.me/e/iHJdHJHYI>https://fb.me/e/iHJdHJHYI</a>. Algselt kavas olnud Redneck Rampage ei saanud osaleda, aga nende asemele leiti AC/DC kavereid tegev Coverage.",
+    "märkmed": "Sündmus (tasuta) \"RAADI ELAMUS\", FB leht: <a href=https://fb.me/e/iHJdHJHYI>https://fb.me/e/iHJdHJHYI</a>. Algselt kavas olnud Redneck Rampage ei saanud osaleda, aga nende asemele leiti AC/DC kavereid tegev Coverage.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDfw3Zd89v6SKxajByHUMwKAUhqGFk3EkJYUVsyAHCUQgk?e=0LBHq6" ]
   },
   {
@@ -2631,19 +2694,19 @@
     "sündmus": "Tarbariitus 2025 festival",
     "koht": "Tartu, Rock & Roll",
     "esineja": [
-      { "nimi": "Aš-Šur (EE)" },
-      { "nimi": "Protocol F40.1 (LT)" },
-      { "nimi": "Morok (UA)" },
-      { "nimi": "Death Kommander (CH, SCO, EE)" },
-      { "nimi": "Karachay (EE)" },
-      { "nimi": "Vortex Sutra (UK)" },
-      { "nimi": "Sõjaruun (EE)" },
-      { "nimi": "Victimarum (FI)" },
-      { "nimi": "Uguns (LV)" },
-      { "nimi": "Dispyt (FI)" },
-      { "nimi": "Goatsmegma (EE)" },
-      { "nimi": "Perditus (AU)" },
-      { "nimi": "Severoth (UA)" }
+      { "nimi": "Aš-Šur (EE)", "kuupäev": "2025-10-10" },
+      { "nimi": "Protocol F40.1 (LT)", "kuupäev": "2025-10-10" },
+      { "nimi": "Morok (UA)", "kuupäev": "2025-10-10" },
+      { "nimi": "Death Kommander (CH, SCO, EE)", "kuupäev": "2025-10-10" },
+      { "nimi": "Karachay (EE)", "kuupäev": "2025-10-11" },
+      { "nimi": "Vortex Sutra (UK)", "kuupäev": "2025-10-11" },
+      { "nimi": "Sõjaruun (EE)", "kuupäev": "2025-10-11" },
+      { "nimi": "Victimarum (FI)", "kuupäev": "2025-10-11" },
+      { "nimi": "Uguns (LV)", "kuupäev": "2025-10-11" },
+      { "nimi": "Dispyt (FI)", "kuupäev": "2025-10-11" },
+      { "nimi": "Goatsmegma (EE)", "kuupäev": "2025-10-11" },
+      { "nimi": "Perditus (AU)", "kuupäev": "2025-10-11" },
+      { "nimi": "Severoth (UA)", "kuupäev": "2025-10-11" }
     ],
     "märkmed": [
       "Tarbatiirus \"raskemuusika\" festival Tartu Rock & Roll klubis nii Heaven (üleval) kui ka Hell (all) saalides. <b>13</b> esinejat!",
@@ -3011,7 +3074,7 @@
       { "nimi": "Pagansarv", "kuupäev": "2026-07-18" },
       { "nimi": "Kosmikud", "kuupäev": "2026-07-19" }
     ],
-    "märkmed": "Tore festival Käbliku Pruulikojas. Kavas olnud esinejal Monkey3 (CH) esinesid paraku mingid lennutranspordi probleemid, aga õnneks leidsid korraldajad kiirelt asendusansambli Kosmikud (kellel oli samal päeval varem esinemine Ostrova festivalil) - kiitus! Meenus eelmise aasta esimese päeva lõpetus :)",
+    "märkmed": "Taaskord järgmine tore festival Käbliku Pruulikojas. Kavas olnud esinejal Monkey3 (CH) esinesid paraku mingid lennutranspordi probleemid, aga õnneks leidsid korraldajad kiirelt asendusansambli Kosmikud (kellel oli samal päeval varem esinemine Ostrova festivalil) - kiitus! Meenus eelmise aasta esimese päeva lõpetus :)",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCCIRct439USIUecT_XfvHpAfNIDb5vIiScL6dyKmPyjsA?e=Mti2XT" ]
   }
 ]
