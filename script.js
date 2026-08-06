@@ -146,7 +146,7 @@ fetch("events.json")
         }
 
         const festival = isFestivalEvent(ev);
-        const badge    = festival ? `<span class="badge-festival">festival</span>` : "";
+        const badge    = festival ? `<span class="badge-festival">fest</span>` : "";
 
         const kuupäevTekst = ev.algus === ev.lõpp
           ? formatDate(ev.algus)
