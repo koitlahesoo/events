@@ -2347,14 +2347,17 @@
     "algus": "2025-03-22",
     "lõpp": "2025-03-22",
     "sündmus": "Kontsert: Karachay, Moor, Tenebrae Aeternum",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Karachay" },
-      { "nimi": "Moor" },
-      { "nimi": "Tenebrae Aeternum" }
+      { "nimi": "Moor (GER)" },
+      { "nimi": "Tenebrae Aeternum (FIN/SWI)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sündmuse lehte ei leiagi, aga viimane bänd kajastas oma lehel plakatiga: <a href=https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573>https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573</a>",
+      "Sakslaste „Moor“ meeldis mulle väga, sai ka CD plaat soetatud."
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA9QXxHZ0ETSZsj1F0H1H_DAU-vZtrKVsmYX7JsANTfQsM?e=uhvqAy" ]
   },
   {
     "id": "2025-07",
@@ -2430,7 +2433,7 @@
     "algus": "2025-06-12",
     "lõpp": "2025-06-12",
     "sündmus": "Kontsert: Pedigree, Vendetta FM, Soulfly",
-    "koht": "Tallinn",
+    "koht": "Tallinn, Helitehas",
     "esineja": [
       { "nimi": "Pedigree" },
       { "nimi": "Vendetta FM" },
@@ -2774,6 +2777,7 @@
     ],
     "märkmed": [
       "„The Dark Journey“ - rännak läbi pimedaima öö.",
+      "Numentol oli nunnu särk, sai soetatud endale üks :).",
       "Sündmuse FB leht, kust on pärit järgnev info: <a href=https://fb.me/e/32dhmlInv>https://fb.me/e/32dhmlInv</a>",
       "",
       "<em>Teekond algab bändiga Numento, kelle agressiivne extreme metal’i saund, kandle tekitatud kõhe atmosfäär ja vokalisti Katri virtuoossus mõjuvad nii lummavalt kui ka painavalt.</em>",
@@ -2865,7 +2869,10 @@
     "esineja": [
       { "nimi": "the Belka" }
     ],
-    "märkmed": "Klubi Rock & Roll teeb ja the Belka jõuab oma 31. sünnipäeva tähistamisega ka Tartusse. Kaua oodatud kontsert kõikide the Belka sõprade poolt. \nSündmuse FB leht: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
+    "märkmed": [
+      "Sündmuse FB leht: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
+      "<em>Klubi Rock & Roll teeb ja the Belka jõuab oma 31. sünnipäeva tähistamisega ka Tartusse. Kaua oodatud kontsert kõikide the Belka sõprade poolt.</em>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD5EguOuNxGT7_cg5oZABaZAalQfX9Q-pmMf_d4vtEB_UY?e=QCVHAb" ]
   },
   {
@@ -2906,7 +2913,10 @@
       { "nimi": "DVNE (UK)" },
       { "nimi": "Igorrr (FR)" }
     ],
-    "märkmed": "<em>Žanriteülene loominguline plahvatus, Gautier Serre ehk Igorrr tutvustab oma sisemaailma</em>. \nSündmuse FB leht: <a href=https://fb.me/e/1TvARgwznE>https://fb.me/e/1TvARgwznE</a>",
+    "märkmed": [
+      "Sündmuse FB leht: <a href=https://fb.me/e/1TvARgwznE>https://fb.me/e/1TvARgwznE</a>",
+      "<em>Žanriteülene loominguline plahvatus, Gautier Serre ehk Igorrr tutvustab oma sisemaailma</em>."
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAOYlRuXko-QrOmpM_smBRKAaI5raTMDgf8MZi8VAooFTM?e=8XNZrV" ]
   },
   {
@@ -2947,7 +2957,10 @@
       { "nimi": "Epica" },
       { "nimi": "Amaranthe" }
     ],
-    "märkmed": "Amaranthe ja Epica ühendasid tuuriga „Arcane Dimensions“ jõud, <em>õhtu täis enneolematut energiat, rõkkavaid meloodiaid ja grandioosset sümfooniat</em>. \nSündmuse FB leht: <a href=https://fb.me/e/8JEWYFeQi>https://fb.me/e/8JEWYFeQi</a>",
+    "märkmed": [
+      "Amaranthe ja Epica ühendasid tuuriga „Arcane Dimensions“ jõud, <em>õhtu täis enneolematut energiat, rõkkavaid meloodiaid ja grandioosset sümfooniat</em>.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/8JEWYFeQi>https://fb.me/e/8JEWYFeQi</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCF2MiGiefFQ7wGZA6P5yTmAUjtXq4uh11W9r2TPDoLsTE?e=CDqZL5" ]
   },
   {
@@ -2990,7 +3003,10 @@
       { "nimi": "The Rumours" },
       { "nimi": "Powersolo" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/clox1XNHv>https://fb.me/e/clox1XNHv</a> \n<em>Neljandat korda toimuv Jarfest toob Tartusse kolm välisartisti Taanist, Ameerika Ühendriikidest ja Soomest. Kohalikku skeenet esindavad Ihamaru, Hiiumaa ja Viljandi bändid.</em>",
+    "märkmed": [
+      "Sündmuse FB leht: <a href=https://fb.me/e/clox1XNHv>https://fb.me/e/clox1XNHv</a>",
+      "<em>Neljandat korda toimuv Jarfest toob Tartusse kolm välisartisti Taanist, Ameerika Ühendriikidest ja Soomest. Kohalikku skeenet esindavad Ihamaru, Hiiumaa ja Viljandi bändid.</em>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBcy469W8Z5Q56aaVdWmI2jAR6L8WP3eB5KkDcaI32x7Q0?e=ZAADYG" ]
   },
   {
@@ -3050,7 +3066,10 @@
       { "nimi": "Goresoerd", "kuupäev": "2026-07-04" },
       { "nimi": "Vader (POL)", "kuupäev": "2026-07-05" }
     ],
-    "märkmed": "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Freakangel 04.07 \n\nÜks väga hea ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/</a> ",
+    "märkmed": [
+      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Freakangel 04.07.",
+      "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDUZmIw0fBsQZ4iy6kiEBuOAR2PDzG9tp5lMVjveIu0hKM?e=fIaG2J" ]
   },
   {
