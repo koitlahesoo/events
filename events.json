@@ -1741,10 +1741,10 @@
     "id": "2023-03",
     "algus": "2023-05-06",
     "lõpp": "2023-05-06",
-    "sündmus": "Kontsert: HVNTA, DND",
+    "sündmus": "Kontsert: Hvnta, DND",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "HVNTA" },
+      { "nimi": "Hvnta (Hunta)" },
       { "nimi": "DND" }
     ],
     "märkmed": "",
@@ -2060,8 +2060,8 @@
     "esineja": [
       { "nimi": "Põhja-Tallinn" }
     ],
-    "märkmed": "Juhtusin Põhja-Tallinnas jalutades sellisele tasuta sündmusele nagu \"Rapacross fest\", kus esines Põhja-Tallinn.",
-    "pildid": [ "" ]
+    "märkmed": "Juhtusin Põhja-Tallinnas jalutades sellisele tasuta sündmusele nagu „Rapacross fest“, kus esines Põhja-Tallinn.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCvJ9ZqnDqZRoRDCxaQmYzEAeXfvrz1PXMnKXY7rz0_9wE?e=b2lZLU" ]
   },
   {
     "id": "2024-14",
@@ -2070,10 +2070,33 @@
     "sündmus": "Hard Rock Laager 2024 festival",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Valdis", "kuupäev": "2024-06-28" },
+      { "nimi": "Humanity", "kuupäev": "2024-06-28" },
+      { "nimi": "Tankist", "kuupäev": "2024-06-28" },
+      { "nimi": "Goresoerd", "kuupäev": "2024-06-28" },
+      { "nimi": "Hvnta (Hunta)", "kuupäev": "2024-06-28" },
+      { "nimi": "Kosmikud", "kuupäev": "2024-06-28" },
+      { "nimi": "The Brains (CAN)", "kuupäev": "2024-06-28" },
+      { "nimi": "Batushka (POL)", "kuupäev": "2024-06-29" },
+      { "nimi": "Teravmoon", "kuupäev": "2024-06-29" },
+      { "nimi": "Elukas", "kuupäev": "2024-06-29" },
+      { "nimi": "Külmking", "kuupäev": "2024-06-29" },
+      { "nimi": "Sons of Stan", "kuupäev": "2024-06-29" },
+      { "nimi": "Wyrm Sub Terra", "kuupäev": "2024-06-29" },
+      { "nimi": "Pagansarv", "kuupäev": "2024-06-29" },
+      { "nimi": "Redneck Rampage", "kuupäev": "2024-06-29" },
+      { "nimi": "Mört", "kuupäev": "2024-06-29" },
+      { "nimi": "Freakangel", "kuupäev": "2024-06-29" },
+      { "nimi": "Carpathian Forest (NOR)", "kuupäev": "2024-06-29" },
+      { "nimi": "Horror Dance Squad", "kuupäev": "2024-06-29" },
+      { "nimi": "Hypocrisy (SWE)", "kuupäev": "2024-06-30" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Nihilistikrypt 28.06, Deceitome 29.06 ",
+      "Sündmuse FB leht, kus võib ka erinevaid jäädvustusi leida: <a href=https://fb.me/e/6OhMXZH6M>https://fb.me/e/6OhMXZH6M</a>",
+      "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/</a> "
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCX-U-h6x0eSJ305lbapvktAZtJ3UvXdNYTfOzZ5t9_czI?e=kchuoL" ]
   },
   {
     "id": "2024-15",
@@ -2084,8 +2107,8 @@
     "esineja": [
       { "nimi": "Singer Vinger" }
     ],
-    "märkmed": "Singer Vinger esines \"Sisevete festival\" sündmusel Luunja sadamas.",
-    "pildid": [ "" ]
+    "märkmed": "„Sisevete festival“ Luunja sadamas - õhtu kütab kuumaks legendaarne Singer Vinger! Esines ka Vikat, aga tolle nägemiseks jäin ma hilja pääle. \nSündmuse FB leht: <a href=https://fb.me/e/2lreYwHlS>https://fb.me/e/2lreYwHlS</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC9QqC_yAz_QaaMyZMdUeyUAarZomNAzC4tdmg1iaVqQLI?e=NPu544" ]
   },
   {
     "id": "2024-16",
@@ -2097,8 +2120,12 @@
       { "nimi": "Kukerpillid" },
       { "nimi": "Mahavok" }
     ],
-    "märkmed": "\"Emajõe festival\" sündmusel esinesid Tartus ka Kukerpillid ja Mahavok.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Emajõe festival“ ja Tartu 2024 raames esinesid Tartus Kukerpillid Emajõel laeva pääl ja Mahavok Autovabaduse Puiesteel.",
+      "Emajõe festival 2024 FB leht: <a href=https://fb.me/e/4J79uFg9F>https://fb.me/e/4J79uFg9F</a>",
+      "Mahavok kontserdi kohta on ka eraldi FB leht: <a href=https://fb.me/e/3R6ZsYi9K>https://fb.me/e/3R6ZsYi9K</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBec1KG9lrKTqVaa1QBmqnqAcX14VA8vxsgFFPA3X9Zdis?e=yPZMFg" ]
   },
   {
     "id": "2024-17",
@@ -2109,8 +2136,8 @@
     "esineja": [
       { "nimi": "Hauser" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Rebel with a Cello“ tuur - 2Cellos liige Stjepan Hauser esineb suvel Euroopa kultuuripealinnas Tartus. \nSündmuse FB leht: <a href=https://fb.me/e/QUJrsVGK>https://fb.me/e/QUJrsVGK</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBsDg2qoHaHRaxiGoSBHQCfAVQMs2wHrnvT-SAHG3xFjKg?e=qqfXhi" ]
   },
   {
     "id": "2024-18",
@@ -2119,22 +2146,35 @@
     "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2024 festival",
     "koht": "Palutaja, Põlvamaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Raisk", "kuupäev": "2024-07-12" },
+      { "nimi": "Intrepid", "kuupäev": "2024-07-12" },
+      { "nimi": "Fix", "kuupäev": "2024-07-12" },
+      { "nimi": "Ocean Districts", "kuupäev": "2024-07-12" },
+      { "nimi": "Kannabinõid", "kuupäev": "2024-07-13" },
+      { "nimi": "Hetero", "kuupäev": "2024-07-13" },
+      { "nimi": "Wolfredt", "kuupäev": "2024-07-13" },
+      { "nimi": "Surrogoat", "kuupäev": "2024-07-13" },
+      { "nimi": "Mört", "kuupäev": "2024-07-13" },
+      { "nimi": "Zorg", "kuupäev": "2024-07-13" },
+      { "nimi": "Dagamba", "kuupäev": "2024-07-14" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Tore festival toredas õhkkonnas toreda seltskonnaga. Teine päev jäi Crashdaf olude sunnil vahele (tuli tööl väljakutse). Nüüd asja kirja pannes avastasin, et koos DJ-ga oli kokku 13 esinejat! Huvitav number, mida näiteks ka Tartu Tarbariitus on kasutanud :) \nSündmuse FB leht: <a href=https://fb.me/e/56vsE2UQO>https://fb.me/e/56vsE2UQO</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBXLa7-B-R9RLMV3_yo2VYuAX0EuF9C-ujTQUr7p1Fl1fU?e=cY7bir" ]
   },
-   {
+  {
     "id": "2024-19",
     "algus": "2024-07-20",
     "lõpp": "2024-07-20",
     "sündmus": "Ostrova festival 2024",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Räpina Jack" },
+      { "nimi": "Heidy Tamme + Horoskoop" },
+      { "nimi": "Koit Toome" },
+      { "nimi": "Trad.Attack!" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Taaskord 2-päevane festival, kus ma jõudsin ainult teine päev käia. Ka sääl jäiva Tsibihärblaseq kaemata. Sündmuse FB leht: <a href=https://fb.me/e/1XsZXu74I>https://fb.me/e/1XsZXu74I</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAvnL7VRWl8RZNioo7Hs9GpAbUTlLvVTXUz6ATcF-y8P0I?e=WsC8rg" ]
   },
  {
     "id": "2024-20",
@@ -2146,8 +2186,8 @@
       { "nimi": "erinevad esinejad..." },
       { "nimi": "Winny Puhh" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Tartu 2024 raames toimunud sündmus. Paganama palju rahvast oli, pidi päris kaugelt kaema (sellest üle zoom-itud pildid). Esimese poole lavastusest oli ka teles saade, mu piltide all on interneti link selle tekstidele (kui veebilehte pole ära kaotatud). Winny Puhh esinemise kohta ei tea, et seda oleks salvestatud.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCollNqxe8EQavFtu1zVnq7AY_1ipV0tzhevaHgaE08GqY?e=vEzZ5i" ]
   },
   {
     "id": "2024-21",
@@ -2158,8 +2198,8 @@
     "esineja": [
       { "nimi": "2 Quick Start" }
     ],
-    "märkmed": "Esineja Võru 240 sünnipäeval",
-    "pildid": [ "" ]
+    "märkmed": "Käisin Võrus, linnal oli 240 aastapäev, pakuti tasuta kontserti :)",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDWJQP9izAkToDSkCQ4kbrhAadJg6ODpWyKuxlWU_5zOtI?e=zhMy2H" ]
   },
   {
     "id": "2024-22",
@@ -2587,7 +2627,7 @@
       { "nimi": "DND", "kuupäev": "2025-07-13" }
     ],
     "märkmed": [
-      "Käbliku pruulikoja tore festival meeldivas õhkkonnas ja seltskonnas. Lubati suurt tormi, eemal ümbruses oli küll taevas kaetud tohutute pilvemassiividega, aga sündmuskohal polnud hullu midagi, elasime kenasti üle! :)",
+      "Käbliku pruulikoja tore festival meeldivas õhkkonnas ja seltskonnas. Lubati suurt tormi, sel aastal jäin esimest korda ka ööseks ja kinnitasin telgi suurte armatuurrauast tehtud vaiadega hästi kindlalt maa külge. Õhtul oli eemal ümbruses küll taevas kaetud tohutute pilvemassiividega, aga sündmuskohal polnud hullu midagi, elasime kenasti üle! :)",
       "Kavas oli ka Marco Tasane - selle elasin samuti üle, ma lihtsalt ei käind toda kaemas. :D",
       "Sündmuse FB leht: <a href=https://fb.me/e/9r9i6NSab>https://fb.me/e/9r9i6NSab</a>, sääl arutelus ka mõningaid piltjäädvustusi."
     ],
