@@ -2483,7 +2483,7 @@
       { "nimi": "Pale Alison" },
       { "nimi": "Bloodfeather" }
     ],
-    "märkmed": "„METALCALYPSE“ FB leht: <a href=https://fb.me/e/JL8t8lOWV>https://fb.me/e/JL8t8lOWV</a>",
+    "märkmed": "METALCALYPSE FB leht: <a href=https://fb.me/e/JL8t8lOWV>https://fb.me/e/JL8t8lOWV</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAr0mBHdBi3TpKRh8EukrMbAW3r6qm-MVIHIfuf9UYxZeg?e=Ci7c3S" ]
   },
   {
@@ -2711,7 +2711,12 @@
       { "nimi": "Perditus (AU)", "kuupäev": "2025-10-11" },
       { "nimi": "Severoth (UA)", "kuupäev": "2025-10-11" }
     ],
-    "märkmed": "",
+    "märkmed": [
+      "Tarbatiirus \"raskemuusika\" festival Tartu Rock & Roll klubis nii Heaven (üleval) kui ka Hell (all) saalides. <strong>13</strong> esinejat!",
+      "",
+      "Sündmuse FB leht: <a href=https://fb.me/e/4rHi3r0uv>https://fb.me/e/4rHi3r0uv</a>",
+      ""
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBp-lv1I3pWQY8uG2cbmWySARvHHx1nPgOE6MZrmvwwD6g?e=80jIZj" ]
   },
   {
@@ -2802,7 +2807,7 @@
       { "nimi": "Valem Vale" },
       { "nimi": "DND" }
     ],
-    "märkmed": "DND \"Sügis helges toonis\" tuur ja sõprusbändid. \nSündmuse FB leht: <a href=https://fb.me/e/8PusCMBNF>https://fb.me/e/8PusCMBNF</a>",
+    "märkmed": "DND „Sügis helges toonis“ tuur ja sõprusbändid. \nSündmuse FB leht: <a href=https://fb.me/e/8PusCMBNF>https://fb.me/e/8PusCMBNF</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBD873UeSzQRojoID6sqCyMAS1L4QvWPTyc3_eb5yu7WjU?e=ULWu5j" ]
   },
   {
@@ -2816,7 +2821,7 @@
       { "nimi": "Lutharo" },
       { "nimi": "Alestorm" }
     ],
-    "märkmed": "\"Thunderfisting Europe 2025\" tuur \nSündmuse FB leht: <a href=https://fb.me/e/3rixKeZHF>https://fb.me/e/3rixKeZHF</a>",
+    "märkmed": "„Thunderfisting Europe 2025“ tuur \nSündmuse FB leht: <a href=https://fb.me/e/3rixKeZHF>https://fb.me/e/3rixKeZHF</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBVjMFb4xIMSpsRz9lBOfQ4AeTiMlmz_W2Gq5pnHP6xG7w?e=x9g1PZ" ]
   },
   {
@@ -2853,7 +2858,7 @@
     "esineja": [
       { "nimi": "Terminaator" }
     ],
-    "märkmed": "Sai sõpradega üle hulga aja \"Püssikas\" käidud. \nSündmuse FB leht: <a href=https://fb.me/e/3KF5TpKEW>https://fb.me/e/3KF5TpKEW</a>",
+    "märkmed": "Sai sõpradega üle hulga aja „Püssikas“ käidud. \nSündmuse FB leht: <a href=https://fb.me/e/3KF5TpKEW>https://fb.me/e/3KF5TpKEW</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCzRSE12A3pQbO1DKK-YruOAQD5HkwPvNHOjsF6Wskh50M?e=8uBu6q" ]
   },
   {
@@ -2868,7 +2873,7 @@
       { "nimi": "Tuvipoeg" },
       { "nimi": "Kurjam" }
     ],
-    "märkmed": "Kodulinna kontert \"Taliharajafest\". \nSündmuse FB leht: <a href=https://fb.me/e/45nAQe6X0>https://fb.me/e/45nAQe6X0</a>",
+    "märkmed": "Kodulinna kontert „Taliharajafest“. \nSündmuse FB leht: <a href=https://fb.me/e/45nAQe6X0>https://fb.me/e/45nAQe6X0</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDYkzT8Rmf0RYaInYIFKog8ARngJcZuQ7WKcFJaUwx1hEs?e=ePXlu3" ]
   },
   {
@@ -2896,7 +2901,7 @@
       { "nimi": "Liis Lemsalu" },
       { "nimi": "Ines" }
     ],
-    "märkmed": "Käisin naisega naistepäeva kontserdil \"Kolm muusat\".",
+    "märkmed": "Käisin naisega naistepäeva kontserdil „Kolm muusat“.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA652BjMS8XSJv7VYqSGV4eAcJb8O7qU_BJ7DGFcdwN5jc?e=QoKtOL" ]
   },
   {
@@ -2979,7 +2984,7 @@
       { "nimi": "Dramamama" },
       { "nimi": "ZZ Top" }
     ],
-    "märkmed": "ZZ Top \"The Big One!\" tuuri kontsert Tartu Lauluväljakul, soendas Dramamama, kelle ridades astus lavale ka Laur Joamets.",
+    "märkmed": "ZZ Top „The Big One!“ tuuri kontsert Tartu Lauluväljakul, soendas Dramamama, kelle ridades astus lavale ka Laur Joamets.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCGR8B1szsPQJIvqYORGpcpAWULTciDhY7seK9ejMKbl-Q?e=OjI31q" ]
   },
   {
