@@ -2361,7 +2361,7 @@
     "algus": "2025-04-06",
     "lõpp": "2025-04-06",
     "sündmus": "Kontsert: Nouvelle Vague",
-    "koht": "Tallinn",
+    "koht": "Tallinn, Alexela kontserdimaja",
     "esineja": [
       { "nimi": "Nouvelle Vague" }
     ],
@@ -2373,14 +2373,14 @@
     "algus": "2025-04-11",
     "lõpp": "2025-04-11",
     "sündmus": "Kontsert: Shrapnelle, Puberteet, J.M.K.E",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Shrapnelle" },
       { "nimi": "Puberteet" },
       { "nimi": "J.M.K.E" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "J.M.K.E. 39",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBhR6TmEFp7RYmM_MBWOyKrAXNTIQ3vAELeakedj36TM0I?e=QSwrED" ]
   },
   {
     "id": "2025-09",
@@ -2394,24 +2394,24 @@
       { "nimi": "The Satones" },
       { "nimi": "Zahir" },
       { "nimi": "Pedigree" },
-      { "nimi": "Peter Pan Speedrock" }
+      { "nimi": "Peter Pan Speedrock (NL)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/5POxeTVPE>https://fb.me/e/5POxeTVPE</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCAbVexp894Ta3EXOzc4yVjAdGmCI5MrIvlbk_J8L8LFRw?e=x04cka" ]
   },
   {
     "id": "2025-10",
     "algus": "2025-06-02",
     "lõpp": "2025-06-02",
     "sündmus": "Kontsert: Unprocessed, Jinjer, In Flames",
-    "koht": "Tallinn",
+    "koht": "Tallinn, Noblessneri Valukoda",
     "esineja": [
       { "nimi": "Unprocessed" },
       { "nimi": "Jinjer" },
       { "nimi": "In Flames" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/5m5JNv4di>https://fb.me/e/5m5JNv4di</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD1p-y1SBX4Q7FoYMt6hoy_AWJVyb0Fot7IQa4BvOHJehk?e=xojrPF" ]
   },
   {
     "id": "2025-11",
@@ -2422,8 +2422,8 @@
     "esineja": [
       { "nimi": "Lõõtsanoobid" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Sai käidud Viljandis ja Hansapäevade raames oli tasuta kontsert.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDULsOIeBkOTZEfJtQny4yXATJMQ7sMh54vgS6AYzzCm5A?e=RkV7yv" ]
   },
   {
     "id": "2025-12",
@@ -2451,24 +2451,7 @@
     "esineja": [
       { "nimi": "Halestorm" }
     ],
-    "märkmed": [
-      "Halestorm esines kahes osas - esimene sett oli akustiline, ning teine korralik rokisett! Ja no küll see Lzzy Hale on ikka vägeva häälematerjaliga varustatud - kohati ajas peaaegu kananaha ihule, VÕIMAS!!! :) ",
-      "FB leht: <a href=https://fb.me/e/2C8V6o5fl>https://fb.me/e/2C8V6o5fl</a>",
-      "",
-      "Jäin kontserdiga nii rahule, et vaim tuli pääle ning üritasin ühe inglise keelse salmikese kokku panna:",
-      "<em>Lzzy, thanks to your parents</em>",
-      "<em>from who you were born.</em>",
-      "<em>Also I want to thank you</em>",
-      "<em>for making the band Halestorm.</em>",
-      "<em>And thanks to the rock god and nature</em>",
-      "<em>for your voice so full of power.</em>",
-      "<em>Your singing gives us goosebumps</em>",
-      "<em>from the soundwaves coming over.</em>",
-      "<em>At noon the sun shines on you</em>",
-      "<em>at night there shines the moon,</em>",
-      "<em>everything that helps you</em>",
-      "<em>to create the songs so good!</em>"
-    ],
+    "märkmed": "",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCz-Tt956S5SId-7NG988WZAcoBaDbyFbXjHXrRfhXhn7Y?e=HrW97g" ]
   },
   {
@@ -2711,27 +2694,7 @@
       { "nimi": "Perditus (AU)", "kuupäev": "2025-10-11" },
       { "nimi": "Severoth (UA)", "kuupäev": "2025-10-11" }
     ],
-    "märkmed": [
-      "Tarbatiirus \"raskemuusika\" festival Tartu Rock & Roll klubis nii Heaven (üleval) kui ka Hell (all) saalides. <strong>13</strong> esinejat!",
-      "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/4rHi3r0uv>https://fb.me/e/4rHi3r0uv</a>",
-      "",
-      "Oli \"tungiv soovitus\" jätta telefonid tasku ja jäädvustusi mitte teha. Ma ikka proovisin mõned klõpsud igast bändist teha, et nimi ja pilt kokku viia. Et pilt ja heli kokku viia, tuleb netis surfata :)",
-      "Ma siis ka surfasin ja FB arutelus oli viide, et Gronn Gronnland on n-ö \"ametlik\" jäädvustaja ning paraja otsimise pääle (takkajärele seda infot kokku pannes tuli päris palju tema ajaloos tagasi kerida) leidsingi selle sündmuse jäädvustusi, millest proovin järgnevalt nimekirja koostada.",
-      "Aš-Šur: pildid <a href=https://www.facebook.com/photo/?fbid=3067988513382504&set=pcb.3067992646715424>https://www.facebook.com/photo/?fbid=3067988513382504&set=pcb.3067992646715424</a>, video <a href=https://youtu.be/w0VAc_1vcVc>https://youtu.be/w0VAc_1vcVc</a> (Live in Fontaine Palace, Liepāja 2025)",
-      "Protocol F40.1: pildid <a href=https://www.facebook.com/photo/?fbid=3067993110048711&set=pcb.3067999230048099>https://www.facebook.com/photo/?fbid=3067993110048711&set=pcb.3067999230048099</a>",
-      "Morok: video <a href=https://youtu.be/vPwoT3Yw0wE>https://youtu.be/vPwoT3Yw0wE</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3068000356714653&set=pcb.3068006323380723>https://www.facebook.com/photo/?fbid=3068000356714653&set=pcb.3068006323380723</a>",
-      "Death Kommander: video <a href=https://youtu.be/ME_1iDDcDbI>https://youtu.be/ME_1iDDcDbI</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3068008310047191&set=pcb.3068011306713558>https://www.facebook.com/photo/?fbid=3068008310047191&set=pcb.3068011306713558</a>",
-      "Karachay: video <a href=https://youtu.be/G2Y93xZbxTA>https://youtu.be/G2Y93xZbxTA</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069394829908539&set=pcb.3069397509908271>https://www.facebook.com/photo/?fbid=3069394829908539&set=pcb.3069397509908271</a>",
-      "Vortex Sutra: pildid <a href=https://www.facebook.com/photo/?fbid=3069399053241450&set=pcb.3069400763241279>https://www.facebook.com/photo/?fbid=3069399053241450&set=pcb.3069400763241279</a>",
-      "Sõjaruun: video <a href=https://youtu.be/XVZO59opUfM>https://youtu.be/XVZO59opUfM</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069401309907891&set=pcb.3069404393240916>https://www.facebook.com/photo/?fbid=3069401309907891&set=pcb.3069404393240916</a>",
-      "Victimarum: video <a href=https://youtu.be/gs4ugL9J_Hs>https://youtu.be/gs4ugL9J_Hs</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069405246574164&set=pcb.3069409606573728>https://www.facebook.com/photo/?fbid=3069405246574164&set=pcb.3069409606573728</a>",
-      "Uguns: pildid <a href=https://www.facebook.com/photo/?fbid=3069410566573632&set=pcb.3069413086573380>https://www.facebook.com/photo/?fbid=3069410566573632&set=pcb.3069413086573380</a>",
-      "Dispyt: video <a href=https://youtu.be/SiPAR2qgXVI>https://youtu.be/SiPAR2qgXVI</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069415059906516&set=pcb.3069417416572947>https://www.facebook.com/photo/?fbid=3069415059906516&set=pcb.3069417416572947</a>",
-      "Goatsmegma: video <a href=https://youtu.be/gGE7DWZ7xcU>https://youtu.be/gGE7DWZ7xcU</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069418313239524&set=pcb.3069421466572542>https://www.facebook.com/photo/?fbid=3069418313239524&set=pcb.3069421466572542</a>",
-      "Perditus: video <a href=https://youtu.be/0EmZ-rTPmco>https://youtu.be/0EmZ-rTPmco</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo/?fbid=3069424719905550&set=pcb.3069428343238521>https://www.facebook.com/photo/?fbid=3069424719905550&set=pcb.3069428343238521</a>",
-      "Severoth: video <a href=https://youtu.be/_rqCWFW1YgI>https://youtu.be/_rqCWFW1YgI</a> (Tarbariitus), pildid <a href=https://www.facebook.com/photo?fbid=3069428976571791&set=pcb.3069432966571392>https://www.facebook.com/photo?fbid=3069428976571791&set=pcb.3069432966571392</a>"
-    ],
+    "märkmed": "",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBp-lv1I3pWQY8uG2cbmWySARvHHx1nPgOE6MZrmvwwD6g?e=80jIZj" ]
   },
   {
