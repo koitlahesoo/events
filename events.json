@@ -536,7 +536,7 @@
     "id": "2015-05",
     "algus": "2015-07-17",
     "lõpp": "2015-07-17",
-    "sündmus": "Ostrova festival 2015",
+    "sündmus": "Ostrova festival 2015 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -1331,7 +1331,7 @@
     "id": "2020-05",
     "algus": "2020-07-17",
     "lõpp": "2020-07-17",
-    "sündmus": "Ostrova festival 2020",
+    "sündmus": "Ostrova festival 2020 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -1448,7 +1448,7 @@
     "id": "2021-05",
     "algus": "2021-07-16",
     "lõpp": "2021-07-17",
-    "sündmus": "Ostrova festival 2021",
+    "sündmus": "Ostrova festival 2021 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." },
@@ -1774,20 +1774,41 @@
       { "nimi": "Of Virtue" },
       { "nimi": "Three Days Grace" }
     ],
-    "märkmed": "Meenub, et kontsert oli välja müüdud ja oli suht kitsas ning palav ja ei jäändki väga muud üle, kui asja \"posti tagant\" kaeda nigu see Helitehase eripära on.",
+    "märkmed": "Meenub, et kontsert oli välja müüdud ja oli suht kitsas ning palav ja ei jäändki väga muud üle, kui asja „posti tagant“ kaeda nigu see Helitehase eripära on.",
     "pildid": [ "" ]
   },
   {
     "id": "2023-06",
-    "algus": "2023-06-29",
+    "algus": "2023-06-30",
     "lõpp": "2023-07-02",
     "sündmus": "Hard Rock Laager 2023 festival",
     "koht": "Vana-Vigala",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Projektorn", "kuupäev": "2023-06-30" },
+      { "nimi": "Hetero", "kuupäev": "2023-06-30" },
+      { "nimi": "Wiiralt", "kuupäev": "2023-06-30" },
+      { "nimi": "Sociasylum", "kuupäev": "2023-06-30" },
+      { "nimi": "the Abbey (FIN)", "kuupäev": "2023-06-30" },
+      { "nimi": "DND", "kuupäev": "2023-06-30" },
+      { "nimi": "Memoriam (UK)", "kuupäev": "2023-06-30" },
+      { "nimi": "Herald", "kuupäev": "2023-06-30" },
+      { "nimi": "UUHAI (MNG)", "kuupäev": "2023-07-01" },
+      { "nimi": "Räpina Jack", "kuupäev": "2023-07-01" },
+      { "nimi": "Louie Digman", "kuupäev": "2023-07-01" },
+      { "nimi": "Nuclear Monarch", "kuupäev": "2023-07-01" },
+      { "nimi": "Ferum", "kuupäev": "2023-07-01" },
+      { "nimi": "Estoner", "kuupäev": "2023-07-01" },
+      { "nimi": "Ocean Districts", "kuupäev": "2023-07-01" },
+      { "nimi": "Metsatöll", "kuupäev": "2023-07-01" },
+      { "nimi": "Surgent", "kuupäev": "2023-07-01" },
+      { "nimi": "Arch Enemy (SWE)", "kuupäev": "2023-07-02" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "...",
+      "...",
+      "Sündmuse FB leht, kus arutelus ka leidub pilta-värka: <a href=https://fb.me/e/2BApNxlZ3>https://fb.me/e/2BApNxlZ3</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDyrcI1raF3TaWADmyZMKxUAaQ6sqN1PKb2rWDGSwp3TV4?e=EFrL21" ]
   },
   {
     "id": "2023-07",
@@ -1796,22 +1817,36 @@
     "sündmus": "Käbliku Beer Camp & Rock'N'Roll 2023 festival",
     "koht": "Palutaja, Põlvamaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "The Satones", "kuupäev": "2023-07-14" },
+      { "nimi": "Sibyl Vane", "kuupäev": "2023-07-14" },
+      { "nimi": "Recycle Bin", "kuupäev": "2023-07-14" },
+      { "nimi": "J.M.K.E.", "kuupäev": "2023-07-14" },
+      { "nimi": "Metsatöll", "kuupäev": "2023-07-15" },
+      { "nimi": "Karmid Torud", "kuupäev": "2023-07-15" },
+      { "nimi": "Tankist", "kuupäev": "2023-07-15" },
+      { "nimi": "Sõpruse Puiestee", "kuupäev": "2023-07-15" },
+      { "nimi": "Herald", "kuupäev": "2023-07-15" },
+      { "nimi": "Reverend Beat-Man", "kuupäev": "2023-07-15" },
+      { "nimi": "Forgotten Sunrise", "kuupäev": "2023-07-15" },
+      { "nimi": "Mahavok", "kuupäev": "2023-07-16" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Jõudsin ka lõpuks sellele toredale festivalile (ja hakkasin ka edaspidi käima). \nSündmuse FB leht: <a href=https://fb.me/e/18PikIJbq>https://fb.me/e/18PikIJbq</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAljQRgWEZERZweCbAvTs43AQOO_lH4ghTTDrV3gjTUGRA?e=cFkwoK" ]
   },
   {
     "id": "2023-08",
     "algus": "2023-07-22",
     "lõpp": "2023-07-22",
-    "sündmus": "Ostrova festival 2023",
+    "sündmus": "Ostrova festival 2023 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Urissaare Rantšo House Band" },
+      { "nimi": "Dagö" },
+      { "nimi": "Justament" },
+      { "nimi": "Traffic" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Muidu kahepäevane festival, aga ma jõudsin teise päeva viimaseid esinejaid näha. \nSündmuse FB leht: <a href=https://fb.me/e/2RlgnXliW>https://fb.me/e/2RlgnXliW</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBKTWfj4tTWQ7dAZOIJPUIuAdEoJzCDfg-G3w4KnFraGGc?e=FRn1W8" ]
   },
   {
     "id": "2023-09",
@@ -1866,7 +1901,7 @@
       { "nimi": "Metsatöll" },
       { "nimi": "Eesti Rahvusmeeskoor" }
     ],
-    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres (tasuta!). Oli rahvast, oli õhta ja pilvine (pildid hämaruses üsna udused), taustal täitis taevast vahel äiskevalgus. \nSündmuse FB leht: <a href=https://fb.me/e/1pQlqnCch>https://fb.me/e/1pQlqnCch</a>",
+    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres (tasuta!). Oli rahvast, oli õhta ja pilvine (pildid hämaruses üsna udused), kohati kõuekuma taustal taevast täitis. \nSündmuse FB leht: <a href=https://fb.me/e/1pQlqnCch>https://fb.me/e/1pQlqnCch</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCdrlztIEgcSJJ4FRTv8x-eAWNQJugKk7AVKS0mxKafpNk?e=gqkxN7" ]
   },
   {
@@ -2228,7 +2263,7 @@
     "id": "2024-19",
     "algus": "2024-07-20",
     "lõpp": "2024-07-20",
-    "sündmus": "Ostrova festival 2024",
+    "sündmus": "Ostrova festival 2024 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "Räpina Jack" },
