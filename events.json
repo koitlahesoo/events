@@ -1820,10 +1820,29 @@
     "sündmus": "Punk & Rock 2023 festival",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Koopaorav", "kuupäev": "2023-07-28" },
+      { "nimi": "Vikat", "kuupäev": "2023-07-28" },
+      { "nimi": "Aknool", "kuupäev": "2023-07-28" },
+      { "nimi": "Puberteet", "kuupäev": "2023-07-28" },
+      { "nimi": "Tüse Asi", "kuupäev": "2023-07-29" },
+      { "nimi": "Nahakiin", "kuupäev": "2023-07-29" },
+      { "nimi": "Räpina Jack", "kuupäev": "2023-07-29" },
+      { "nimi": "Psychoterror", "kuupäev": "2023-07-29" },
+      { "nimi": "The Belka", "kuupäev": "2023-07-29" },
+      { "nimi": "Evestus", "kuupäev": "2023-07-29" },
+      { "nimi": "Interpid", "kuupäev": "2023-07-29" },
+      { "nimi": "Punkentsefaliit", "kuupäev": "2023-07-30" },
+      { "nimi": "Rattlecan Paintjob", "kuupäev": "2023-07-30" },
+      { "nimi": "Slava Bogu", "kuupäev": "2023-07-30" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb.",
+      "Esimene õhta pidin ma ühele teisele sündmusele suunduma ja jäid nägemata Kurjam, Inokentijs Märpls, Sõpruse Puiestee. Ei jõudnud see õhta ka UG aftekale, kus esinesid M?nnivardad, NO Ei, Eterniit. Teine päiv sai kõik kaedu ja ka järelpeol käidu.",
+      "Selle sündmuse mälestustes olen piltidele lisaks kogunud ka mõned veebilingid, kus salvestusi selle kontserdi esinejatest.",
+      "",
+      "Sündmuse FB leht, kus ka viiteid teistele piltidele jms: <a href=https://fb.me/e/12l5Wbtri>https://fb.me/e/12l5Wbtri</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAV5MdlVN4AS4M9U9ALAxxXAbvxZX0Pm0QOZZpcWijV1ZM?e=BnhDcH" ]
   },
   {
     "id": "2023-10",
@@ -1834,8 +1853,8 @@
     "esineja": [
       { "nimi": "Fix" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Ühel kenal augustiõhtul sai käidud Tartu Lauluväljakul vanameisterid kaemas!",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAiqty_1jgNQ7-81_jjW-q1AYAKRPaQBgmwe55foo0PQi8?e=w4fEBU" ]
   },
   {
     "id": "2023-11",
@@ -1847,8 +1866,8 @@
       { "nimi": "Metsatöll" },
       { "nimi": "Eesti Rahvusmeeskoor" }
     ],
-    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres.",
-    "pildid": [ "" ]
+    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres (tasuta!). Oli rahvast, oli õhta ja pilvine (pildid hämaruses üsna udused), taustal täitis taevast vahel äiskevalgus. \nSündmuse FB leht: <a href=https://fb.me/e/1pQlqnCch>https://fb.me/e/1pQlqnCch</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCdrlztIEgcSJJ4FRTv8x-eAWNQJugKk7AVKS0mxKafpNk?e=gqkxN7" ]
   },
   {
     "id": "2023-12",
@@ -1860,8 +1879,13 @@
       { "nimi": "Permanent Blue" },
       { "nimi": "Indrek Patte" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Indrek Patte, kes on mu tuttava tuttav, plaadi IN esitluskontsert, külaliseks Permanent Blue.",
+      "Mul sai kohe 2 õhtut järjest klubis Tapper käidud. Täiendavalt saab meeleolu kohta lugeda järgnevas Sirenia jt. kontserdi mälestustes, lühidalt võin öelda, et see kontsert meeldis mulle! :)",
+      "",
+      "Selle sündmuse FB leht: <a href=https://fb.me/e/1gXuxH8BW>https://fb.me/e/1gXuxH8BW</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC3o6FFsGh7RYGoc3ywvC62AdAq7BL1rEvFZjjjI-QFXdo?e=XikKea" ]
   },
   {
     "id": "2023-13",
@@ -1870,29 +1894,66 @@
     "sündmus": "Kontsert: Sirenia, Amberian Dawn, Dark Sarah, Rexoria",
     "koht": "Tallinn, Tapper",
     "esineja": [
-      { "nimi": "Rexoria" },
-      { "nimi": "Dark Sarah" },
-      { "nimi": "Amberian Dawn" },
-      { "nimi": "Sirenia" }
+      { "nimi": "Rexoria (SWE)" },
+      { "nimi": "Dark Sarah (FIN)" },
+      { "nimi": "Amberian Dawn (FIN)" },
+      { "nimi": "Sirenia (NOR)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Symphonic Metal Nights“ sündmuse FB leht: <a href=https://fb.me/e/19pIQFLzz>https://fb.me/e/19pIQFLzz</a>",
+      "",
+      "",
+      "Oli meeleolukas kontsert ja ma panin kirja mõned mälestused sellest.",
+      "",
+      "Kõigepealt mainin, et võtsin Tapper klubi külastuse kahel järjestikusel õhtul ette ja eelmine päev kuulasin Indrek Patte muusikalisi kunstiteoseid, mis mu kuulmismeelele ka väga meelt mööda oli!",
+      "Ja koht on normaalne - kõik samal tasandil ja joogi ning nänni leti äärde oli saalis toimuv kenasti ära kosta.",
+      "Ja rahvast oli normaalselt - saal täidetud, aga sai kenasti liikuda.",
+      "",
+      "",
+      "Sellest konsast alustan infoga, et esimese bändi Rexoria teine kidramees oli oma kätt vigastanud ja sündi taga olek oli neile eriolukord - aga vot tahtmine esineda on nii suur et leidsid sellise lahenduse olukorrale, et taidles süntesaatori taga ühe käega.",
+      "Muist asju nii neil kui teistel bändidel tuli fono pealt - see ehk oli ainus veidi häiriv asi sel konsal.",
+      "",
+      "",
+      "Aga lisaks heale muusikale sai ka muudsorti meelelahutust ja oli aru saada, et esinejad ise ka nautisid ja tundsid kontserdist rõõmu.",
+      "",
+      "Mõned mälestused esinejatest:",
+      "",
+      "Rexoria ajal käis „lind“ laval taidlemas :)",
+      "",
+      "Dark Sarah bändil on lugu „Warning Sign“ ja nende esinemise ajal tormasid esimese bändi liikmed lavale „ohu märgi“ plakatitega :)",
+      "",
+      "Amberian Dawn - see on juba selle pärast eriline, et minu nimi nimes sees (tõlkes u „Merevaigu Koit“) ja eks need ABBA laulude kaverid on ka omamoodi lahedad :)",
+      "",
+      "Sirenia tegi hea musa taustal sellist pulli, et kidramees tuli keset lugu lavalt rahva sekka ringi tuiama :)",
+      "",
+      "",
+      "Ja see lõpp - kõigepealt teadmiseks, et Tallinas oli nende Euroopa tuuri viimane kontsert ja ehk ka seetõttu oli neil n-ö teistmoodi hingamine, aga jah, kõige lõpus, peale kõikide korraldajate jm tänamist pandi diskens peale ja kõik bändid tulid lavale ning tants ja trall läks lahti! :)",
+      "",
+      "",
+      "Vaatamata asjaolule, et kontsert oli pühapäeva õhtul ja tuli öösel Tallinnast Tartu tagasi sõita, jäin nädalavahetusega igati rahule!",
+      ""
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCrzu-YtNJnSLALqz94cKgPAcEg6_lhJwNgOdRVgGBjJiA?e=eMbTYy" ]
   },
   {
     "id": "2023-14",
     "algus": "2023-10-21",
     "lõpp": "2023-10-21",
     "sündmus": "Kontsert: Vihan Muna, Redneck Ramapge, Kumikameli, Zorg, Sharpnelle",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll ja Hell",
     "esineja": [
-      { "nimi": "Vihan Muna" },
+      { "nimi": "Vihan Muna (FIN)" },
       { "nimi": "Redneck Ramapge" },
-      { "nimi": "Kumikameli" },
+      { "nimi": "Kumikameli (FIN)" },
       { "nimi": "Zorg" },
       { "nimi": "Sharpnelle" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kaks ühes üritust - töllerdasin Rock & Roll klubi „Hell“ ja „Heaven“ vahel, kus olid justkui eraldi sündmused, aga sai samas majas üles-alla mõlemal käidud.",
+      "Rock & Roll Zorg ja Redneck Rampage FB leht: <a href=https://fb.me/e/bp81a8OIC>https://fb.me/e/bp81a8OIC</a>",
+      "Hell soome pungi ja Sharpnelle FB leht: <a href=https://fb.me/e/46MhsbFMa>https://fb.me/e/46MhsbFMa</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAEfbxJt5zORZj01WGo29q_ARY_mmb23ZOUitfHR9LtG8E?e=VLFNc6" ]
   },
   
   {
