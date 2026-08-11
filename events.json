@@ -1730,8 +1730,11 @@
     "esineja": [
       { "nimi": "Manowar" }
     ],
-    "märkmed": "Sel kontserdil oli jube turvade poolt jälgimine, et keegi ei teeks mingeid jäädvustusi. Ma mõne \"keelatud võtte\" sain ikka mälestuseks, kuskilt netist ka üks videoklipike.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sel kontserdil oli jube turvade poolt jälgimine, et keegi ei teeks mingeid jäädvustusi. Ma mõne „keelatud võtte“ sain ikka mälestuseks, kuskilt netist ka üks videoklipike.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/aGHzduvhV>https://fb.me/e/aGHzduvhV</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD10TWv2GUUQa7_hFH6xgO0ATid1qkcWGKB9eqsAo5mZ1s?e=jLtSXX" ]
   },
   {
     "id": "2023-02",
@@ -1743,28 +1746,28 @@
       { "nimi": "The Iron Maidens" },
       { "nimi": "Accept" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Too Mean To Die“ tuur. \nSündmuse FB leht: <a href=https://fb.me/e/5sCfDgsOO>https://fb.me/e/5sCfDgsOO</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD40A-sjyrHTbFh6ABsEg88ATW_8M7Vzhl-pRp_-Oc5P60?e=aCiRMF" ]
   },
   {
     "id": "2023-03",
     "algus": "2023-05-06",
     "lõpp": "2023-05-06",
     "sündmus": "Kontsert: Hvnta, DND",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Hvnta (Hunta)" },
       { "nimi": "DND" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Tulede Säras 10!“ tuur.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgByDa_KfEJLSqVRvTxaPVWxAZMrd0nTp6AUmQnMg1h0GeQ?e=ZbDrW8" ]
   },
   {
     "id": "2023-04",
     "algus": "2023-05-26",
     "lõpp": "2023-05-27",
     "sündmus": "foRest festival",
-    "koht": "Läti",
+    "koht": "Läti, Jaunsvirlauka",
     "esineja": [
       { "nimi": "Kārlis Rudra Jirgens", "kuupäev": "2023-05-26" },
       { "nimi": "Māra Dagne", "kuupäev": "2023-05-26" },
@@ -1784,7 +1787,7 @@
       { "nimi": "NYOS (FIN)", "kuupäev": "2023-05-28" }
     ],
     "märkmed": [
-      "Üks sõber kutsus Läti tripile. Esimene õhtu käisime looduses ringi ja ööbisime ühe tuttava rattamatkaseltskonnaga ühe kena järvekese ääres. Siis sai nemad oma teed edasi saadetud, ise aga suundusime Brīvdabas festivāls „Forest“ sündmusele.",
+      "Üks sõber kutsus Läti tripile. Esimene õhtu käisime looduses ringi ja ööbisime ühe tuttava rattamatkaseltskonnaga ühe kena järvekese ääres. Siis sai nemad oma teed edasi saadetud, ise aga suundusime Brīvdabas festivāls „Forest“ sündmusele Jaunsvirlauka vallas Jelgava piirkonnas.",
       "Osutus igati kenaks kontserdiks Läti looduses! Parajalt pisike, sõbralik seltskond, hää muusika - mõnus lõõgastus.",
       "Peamiselt esinesid Läti bändid, oli päris huvitavaid artiste, kellest muidu midagi kuulnud ei ole. Meitelt oli külaliseks Talbot, kelle kaudu vahest sõber selle ürituse avastaski, lisaks üks Soome bänd. Meenub veel, et öö oli üsna jahe ja magasin halvasti, teise päeva jäädvustused on veidi „auklikud“ - küllap proovisin siis veel pisut puhata :). Üliselt oli sündmus ikka üpris „kohalik“ ja kõigest hästi aru ei saanud, mis toimub, aga üritasin mingi veebi kava ja otsingute põhjal kuidagi oma piltidele nimed juurde saada, loodetavasti väga mööda ei pane... Kui vigu leiate, andke aga teada!",
       "",
