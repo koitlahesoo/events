@@ -1634,91 +1634,102 @@
     "sündmus": "Kontsert: Lea Dali Lioni mälestuskontsert",
     "koht": "Tartu, Eesti Rahva Muuseum",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
       { "nimi": "erinevad esinejad..." }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sündmuse FB leht: <a href=https://fb.me/e/33xuQ2UkU>https://fb.me/e/33xuQ2UkU</a>",
+      "Oi, see oli ilus! Ostsin ka raamatu. Loe ka FB lehelt kirjeldust, esinejate väljavõte:",
+      "Kontserdil astuvad üles Marek Sadam, Jarek Kasar, Teele Viira, Laura Prits, Tanja Mihhailova-Saar, Katre Randmaa-Tamm. Pillidel musitseerivad Lea sõbrad Henno Kelp, Roland Puusepp, Elmar Liitmaa, Are Jaama, Tarmo Sillaots, Virgo Veldi, Hele-Riin Uib ja Martin Trudnikov"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBmCYaL-8rGRbMRjy6ah-nxASTnr8meLqHtqTO-20sGlZ0?e=EDV02K" ]
   },
   {
     "id": "2022-08",
-    "algus": "2022-10-07",
-    "lõpp": "2022-10-07",
+    "algus": "2022-10-06",
+    "lõpp": "2022-10-06",
     "sündmus": "Kontsert: The Cure, The Twilight Sad",
-    "koht": "Läti",
+    "koht": "Läti, Riia, Arēna Rīga",
     "esineja": [
       { "nimi": "The Twilight Sad" },
       { "nimi": "The Cure" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kuigi sai soetatud suisa VIP tsooni pilet, jäi lava siiski veidi kaugeks. Aga kontserdiga jäin muidu küll rahule ja meite seltskond oli ka väga tore! VIP tsooni hüvedest - omaette sissepääs, oli õhku ja avarust, polnud suuri õllesabasid. Käisime sõpradega korra ka üldalal, kus nänni müüdi - seal oli meeletu rahvamass ja trügimine ja ma ei hakanudki leti äärde tungima ning taandusin teistpidi oma alale tagasi.",
+      "Üks leid netist FB-st mõne parema kvaliteediga pildiga: <a href=https://www.facebook.com/groups/616491763215911/permalink/1187478019450613/>https://www.facebook.com/groups/616491763215911/permalink/1187478019450613/</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCESBAJf4ToQJy-JpW0JNJRAQsNsTWxmnUKOxnvi-PWExM?e=AklFa4" ]
   },
   {
     "id": "2022-09",
     "algus": "2022-10-08",
     "lõpp": "2022-10-08",
     "sündmus": "Kontsert: Planespotters, КИНО laulud - Janno Reim ja Stanislav Bulganin",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Planespotters" },
       { "nimi": "Janno Reim" },
       { "nimi": "Stanislav Bulganin (Stas)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Legendaarse ansambli КИНО muusikat esitavad koos bändiga Janno Reim ja Stanislav Bulganin. Soojendab Planespotters. Endal sai nii Stasi kui Tulvikuga tutvust soojendatud.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/3CB0iPDke>https://fb.me/e/3CB0iPDke</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgChEsCFJMiGQKZf1zrFs2nvAVSJa-qm0wQc6GKGEsRI2Yo?e=ADPfsy" ]
   },
   {
     "id": "2022-10",
     "algus": "2022-10-22",
     "lõpp": "2022-10-22",
     "sündmus": "Kontsert: Jaxy, Dramamama",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Jaxy" },
       { "nimi": "Dramamama" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Dramamama albumi „Doomsday Tango“ esitlus. Külalisesinejana astub üle aastate lavale ansambel Jaxy. Just viimane oli mulle paras nostalgialaks! \nSündmuse FB leht: <a href=https://fb.me/e/2Uth1FxkM>https://fb.me/e/2Uth1FxkM</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCZaxw6yVUfTZaJnGpP20epAclq4WcNpmeMFTtoSi7hTOI?e=2Yhuud" ]
   },
   {
     "id": "2022-11",
     "algus": "2022-11-18",
     "lõpp": "2022-11-18",
     "sündmus": "Kontsert: Koopaorav, Velikije Luki (40)",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Koopaorav" },
       { "nimi": "Velikije Luki" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Velikije Luki 40 - Tartu põleb, toetab kohalik Koopaorav. \nSündmuse FB leht: <a href=https://fb.me/e/2kVKJuppV>https://fb.me/e/2kVKJuppV</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC0u5saEC5hS6Kpd6wqExCOAbJbWMJHGUttcVPPhu-gg08?e=5wJebd" ]
   },
   {
     "id": "2022-12",
     "algus": "2022-11-25",
     "lõpp": "2022-11-25",
     "sündmus": "Kontsert: Tora Bora, August Urr",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Tora Bora" },
       { "nimi": "August Urr" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sündmuse FB leht: <a href=https://fb.me/e/2xVs2lvjq>https://fb.me/e/2xVs2lvjq</a>",
+      "Lõpuks Tartus kaua oodatud folk-punk ans. Pärnust, toetamas Tartu luulerokk. Käisin taas sõpru kaemas!"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA7re83kfANQKke5fjQS5HZAbiC6trzc-9m017ZFoqovnE?e=FelJTQ" ]
   },
   {
     "id": "2022-13",
     "algus": "2022-12-02",
     "lõpp": "2022-12-02",
     "sündmus": "Kontsert: YE, Elephants From Neptune",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "YE" },
       { "nimi": "Elephants From Neptune" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Elephants From Neptune albumi „Boogieland“ esitluskontsert. Soojendaja venekeelne YE oli ka päris mõnusa vaibiga, tublid noored! \nSündmuse FB leht: <a href=https://fb.me/e/2W0WWSFHX>https://fb.me/e/2W0WWSFHX</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAov83CU43mQ5Hvy-rUcfYxAe1-uW38rbSQr2NpUlvPAQ8?e=GHTg4U" ]
   },
 
   {
@@ -2882,7 +2893,7 @@
     "algus": "2025-10-05",
     "lõpp": "2025-10-05",
     "sündmus": "Kontsert: Simple Plan, The Offspring",
-    "koht": "Riia, Xiaomi Arena (Arena Riga)",
+    "koht": "Riia, Xiaomi Arena (Arēna Rīga)",
     "esineja": [
       { "nimi": "Simple Plan" },
       { "nimi": "The Offspring" }
