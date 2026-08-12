@@ -1610,10 +1610,31 @@
     "sündmus": "Punk & Rock festival 2022",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Keskkool", "kuupäev": "2022-07-22" },
+      { "nimi": "Slava Bogu", "kuupäev": "2022-07-22" },
+      { "nimi": "Tankist", "kuupäev": "2022-07-22" },
+      { "nimi": "Mört", "kuupäev": "2022-07-22" },
+      { "nimi": "Kurjam", "kuupäev": "2022-07-22" },
+      { "nimi": "Sibyl Vane", "kuupäev": "2022-07-22" },
+      { "nimi": "Loits", "kuupäev": "2022-07-22" },
+      { "nimi": "...", "kuupäev": "2022-07-23" },
+      { "nimi": "SS Robot", "kuupäev": "2022-07-23" },
+      { "nimi": "Rattlecan Paintjob", "kuupäev": "2022-07-23" },
+      { "nimi": "Punkentsefaliit", "kuupäev": "2022-07-23" },
+      { "nimi": "Pööloy Gläänz", "kuupäev": "2022-07-23" },
+      { "nimi": "Desert Queen", "kuupäev": "2022-07-23" },
+      { "nimi": "Redneck Rampage", "kuupäev": "2022-07-23" },
+      { "nimi": "Pedigree", "kuupäev": "2022-07-23" },
+      { "nimi": "J.M.K.E.", "kuupäev": "2022-07-23" },
+      { "nimi": "...", "kuupäev": "2022-07-24" },
+      { "nimi": "Teravmoon", "kuupäev": "2022-07-24" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Järjekordne kodulinna tore festival, kus lisaks muusika nautimisele on ka kamraadidega kena kohtuda!",
+      "Mul on ka mõned jäädvustused aftekatelt Underground klubis. Puudu on teise päeva alustaja Paranarkar.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/28v7Vx7Gv>https://fb.me/e/28v7Vx7Gv</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAzBAL3VcNGR4VPSNQPKGQtAUi0Kj4hSV5jf-sT9MS3Ym4?e=zSeerw" ]
   },
   {
     "id": "2022-06",
@@ -1624,8 +1645,11 @@
     "esineja": [
       { "nimi": "Ewert and The Two Dragons" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Autovabaduse puiestee “Tartu 2024 esitleb” kontsertsarja lõpetab Ewert and The Two Dragons. TASUTA! :)",
+      "Sündmuse FB leht: <a href=https://fb.me/e/3vftFLmvz>https://fb.me/e/3vftFLmvz</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC5IAntiDcBTrN9HVjLP0yBAZI6Dg9wkJRhY5cGv_nV30Y?e=71rgLz" ]
   },
   {
     "id": "2022-07",
@@ -1654,7 +1678,7 @@
       { "nimi": "The Cure" }
     ],
     "märkmed": [
-      "Kuigi sai soetatud suisa VIP tsooni pilet, jäi lava siiski veidi kaugeks. Aga kontserdiga jäin muidu küll rahule ja meite seltskond oli ka väga tore! VIP tsooni hüvedest - omaette sissepääs, oli õhku ja avarust, polnud suuri õllesabasid. Käisime sõpradega korra ka üldalal, kus nänni müüdi - seal oli meeletu rahvamass ja trügimine ja ma ei hakanudki leti äärde tungima ning taandusin teistpidi oma alale tagasi.",
+      "Kuigi sai soetatud suisa VIP tsooni pilet, jäi lava siiski veidi kaugeks. Aga kontserdiga jäin muidu küll rahule ja meite seltskond oli ka väga tore! VIP tsooni hüvedest - omaette sissepääs, oli õhku ja avarust, polnud suuri õllesabasid. Käisime sõpradega korra ka üldalal, kus nänni müüdi - seal oli meeletu rahvamass ja trügimine ja ma ei hakanudki leti äärde tungima ning taandusin teistpidi tagasi oma alale.",
       "Üks leid netist FB-st mõne parema kvaliteediga pildiga: <a href=https://www.facebook.com/groups/616491763215911/permalink/1187478019450613/>https://www.facebook.com/groups/616491763215911/permalink/1187478019450613/</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCESBAJf4ToQJy-JpW0JNJRAQsNsTWxmnUKOxnvi-PWExM?e=AklFa4" ]
