@@ -1324,7 +1324,7 @@
     "esineja": [
       { "nimi": "erinevad esinejad..." }
     ],
-    "märkmed": "",
+    "märkmed": "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb.",
     "pildid": [ "" ]
   },
   {
@@ -1456,12 +1456,16 @@
     "sündmus": "Ostrova festival 2021 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Fööniks", "kuupäev": "2021-07-16" },
+      { "nimi": "Propeller", "kuupäev": "2021-07-16" },
+      { "nimi": "Karl-Erik Taukar Band", "kuupäev": "2021-07-16" },
+      { "nimi": "NOËP", "kuupäev": "2021-07-17" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sai käidud Ostrovas osaliselt ühel päeval. Minu pildid ja nimekiri sellest, mida mina nägin.",
+      "Täislist sündmuse FB lehel: <a href=https://fb.me/e/23aJHY0gya>https://fb.me/e/23aJHY0gya</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgByR3knrOuPQ6yNpYAUoiVmAfiGqdr8X6o27FyZQelTHPM?e=GFdtMe" ]
   },
   {
     "id": "2021-06",
@@ -1470,104 +1474,135 @@
     "sündmus": "Punk & Rock festival 2021",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "C.C", "kuupäev": "2021-07-23" },
+      { "nimi": "Nirvaana", "kuupäev": "2021-07-23" },
+      { "nimi": "Sold", "kuupäev": "2021-07-23" },
+      { "nimi": "August Urr", "kuupäev": "2021-07-23" },
+      { "nimi": "Kurjam", "kuupäev": "2021-07-23" },
+      { "nimi": "Kosmikud", "kuupäev": "2021-07-23" },
+      { "nimi": "Osilian", "kuupäev": "2021-07-24" },
+      { "nimi": "Bloodfeather", "kuupäev": "2021-07-24" },
+      { "nimi": "Sküllfükk SS", "kuupäev": "2021-07-24" },
+      { "nimi": "Psychoterror", "kuupäev": "2021-07-24" },
+      { "nimi": "Teravmoon", "kuupäev": "2021-07-24" },
+      { "nimi": "SS Robot", "kuupäev": "2021-07-24" },
+      { "nimi": "Talbot", "kuupäev": "2021-07-24" },
+      { "nimi": "Mandoterror", "kuupäev": "2021-07-24" },
+      { "nimi": "Pööloy Gläänz", "kuupäev": "2021-07-25" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb.",
+      "Sai taas käidud ja semudega suheldud ja muusikat nauditud. Kavas olnud Swamp Mine on mul kuidagi vahele jäänud. Teise päeva õhtul on Undergroundi aftekalt aga lisaks Pööloy Gläänz.",
+      "",
+      "Sündmuse FB leht: <a href=https://fb.me/e/1EI1Kc3kn>https://fb.me/e/1EI1Kc3kn</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA7Mrp4rK-dR6wOSdiOvPGkAVDN8xYehLORk4EnrUzxwqs?e=pIVHOK" ]
   },
   {
     "id": "2021-07",
     "algus": "2021-08-14",
     "lõpp": "2021-08-14",
     "sündmus": "Kontsert: Gunnar Graps 70",
-    "koht": "Vasula, Tartumaa",
+    "koht": "Tartumaa, Vasula",
     "esineja": [
-      { "nimi": "erinevad esinejad..." },
-      { "nimi": "" },
-      { "nimi": "" }
+      { "nimi": "Kolumbus Kris" },
+      { "nimi": "Ornament trib. Vol 4" },
+      { "nimi": "Fööniks" }
     ],
-    "märkmed": "Gunnar Grapsi juubeli - mälestuskontsert Vasulas Amme jõe ääres (kus on toimunud ka \"Amme Rock\").",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Gunnar Grapsi juubeli - mälestuskontsert Vasulas Amme jõe ääres (kus on toimunud ka „Amme Rock“).",
+      "Üks sündmust kajastav leid internetist (Õhtuleht): <a href=https://www.ohtuleht.ee/1041168/galerii-gunnar-graps-70-malestusohtu-vasulas-kogunesid-rokisobrad-ja-grapsi-austajad>https://www.ohtuleht.ee/1041168/galerii-gunnar-graps-70-malestusohtu-vasulas-kogunesid-rokisobrad-ja-grapsi-austajad</a>",
+      "Kultuurikava info: <a href=https://www.kultuurikava.ee/event/gunnar-graps-70>https://www.kultuurikava.ee/event/gunnar-graps-70</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBK5qX2RTIqR6aaiypeiADSAZXqKhRJQaLq8VhRWJN3Usw?e=ScO3g6" ]
   },
   {
     "id": "2021-08",
     "algus": "2021-08-19",
     "lõpp": "2021-08-19",
     "sündmus": "Kontsert: Trad.Attack!",
-    "koht": "Tartu",
+    "koht": "Tartumaa, Nõo",
     "esineja": [
-      { "nimi": "" },
-      { "nimi": "" },
       { "nimi": "Trad.Attack!" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Nõo valla 30 aastapäeval esines Trad.Attack! Järgmine päev mängisid nad Tartus ERM-i juures, aga ma arvan, et see oli väiksema rahvamassi tõttu palju mõnusam sündmus.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCG1H1ZTg_eRYvg-_GBxdg1AaGJi7Lc3gjcCKlTpNjBYvQ?e=7aXt7u" ]
   },
   {
     "id": "2021-09",
     "algus": "2021-08-28",
     "lõpp": "2021-08-28",
     "sündmus": "Kontsert: Stas ja Tõun, Metsatöll (Tulede öö)",
-    "koht": "Tartumaa",
+    "koht": "Tartumaa, Koosa ja Vasula",
     "esineja": [
       { "nimi": "Stas (Stanislav Bulganin)" },
-      { "nimi": "Tõun" },
+      { "nimi": "Tõun (Tõnu Timm)" },
       { "nimi": "Metsatöll" }
     ],
-    "märkmed": "Tulede öö raames sai isegi 2 eri kontserti käidud, Stas ja Tõun nägin paraku ainult lõppu, Metsatöllu sai veidi rohkem kaedud.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Tulede öö raames sai isegi 2 eri kontserti käidud, Stas ja Tõun nägin paraku ainult lõppu, Metsatöllu sai veidi rohkem kaedud.",
+      "",
+      "Stas ja Tõun kontserdi FB leht: <a href=https://fb.me/e/2CXt5m9Ko>https://fb.me/e/2CXt5m9Ko</a>",
+      "Metsatöll kontserdi FB leht: <a href=https://fb.me/e/1GFjqOj0s>https://fb.me/e/1GFjqOj0s</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDb5aLvNmH1R6Xvdz6isUIsAWiF-FPLPbc1I4jCPv9OaWY?e=rLZ6AR" ]
   },
   {
     "id": "2021-10",
     "algus": "2021-11-05",
     "lõpp": "2021-11-05",
     "sündmus": "Kontsert: Torabora, Sõpruse Puiestee",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Torabora" },
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Luulelised tekstid ja rännakule viiv muusika. \nSündmuse FB leht: <a href=https://fb.me/e/XJ0xKYia>https://fb.me/e/XJ0xKYia</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB14lqnzwGTSpSgt6Vk8TP4AXqEF3UgVdYlHnGPgwcOncc?e=5ItdXb" ]
   },
   {
     "id": "2022-01",
     "algus": "2022-01-07",
     "lõpp": "2022-01-07",
     "sündmus": "Kontsert: Hilisejad, КИНО laulud - Janno Reim ja Stanislav Bulganin",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Hilisejad" },
       { "nimi": "Janno Reim" },
       { "nimi": "Stanislav Bulganin (Stas)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Ansambel КИНО lugusid esitab bänd koosseisus: Janno Reim, Stansislav Bulganin, Jaan Aruväli, Mati Sütt.",
+      "Õhtule lisab värvi Tartu hämaratest prooviruumidest pärit luulelised meloodiad ansambliga Hilisejad.",
+      "",
+      "Sündmuse FB leht: <a href=https://fb.me/e/46HBOzIwU>https://fb.me/e/46HBOzIwU</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDjhGpCrqIzSJDt_NjEZ90UASXXJYyTE8qmujSephXV1z4?e=nWGWhe" ]
   },
   {
     "id": "2022-02",
     "algus": "2022-03-19",
     "lõpp": "2022-03-19",
     "sündmus": "Kontsert: Torabora, August Urr",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Torabora" },
       { "nimi": "August Urr" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Folk N Roll & sõbrad mängimas „luulerokki“. \nSündmuse FB leht: <a href=https://fb.me/e/3bmLrlMqU>https://fb.me/e/3bmLrlMqU</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCAVz_Epl0HTp_i1p8B3FpFAYoFGcbwAUn5Vmk6vzFr7PM?e=f9lRWq" ]
   },
   {
     "id": "2022-03",
     "algus": "2022-05-19",
     "lõpp": "2022-05-19",
     "sündmus": "Kontsert: Toomas Vanem",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Toomas Vanem" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Toomas Vanem Kvartett, kitarristiga liituvad Henno Kelp bassil, Andrus Lillepea trummidel ja Runno Tamra klahvpillidel. \nSündmuse FB leht: <a href=https://fb.me/e/3sARuq7EW>https://fb.me/e/3sARuq7EW</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCOBuCdBFFTSbdpoBj5CHXcAZ5z-3VTjq9ERbo2Ywrv85E?e=FTUjpR" ]
   },
   {
     "id": "2022-04",
