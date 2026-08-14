@@ -1204,28 +1204,34 @@
     "algus": "2019-10-11",
     "lõpp": "2019-10-11",
     "sündmus": "Kontsert: Wrupk Urei, Ans. Andur, Diversicolor",
-    "koht": "Tartu",
+    "koht": "Tartu, Armastuse saal",
     "esineja": [
       { "nimi": "Wrupk Urei" },
       { "nimi": "Ans. Andur" },
       { "nimi": "Diversicolor" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Diversicolor esitleb debüütplaati + Ans. Andur & Wrupk Urei Aparaaditehase Armastuse saalis. Lisainfona anti teada, et „NÄITLEJA HAIGESTUMISE TÕTTU esineb täna Ans. Anduri asemel lihtsalt Andur. Kavas on Ans. Anduri kaverid.“. Ma panin ikka ajalukku Ans. kirja :).",
+      "Sündmuse FB leht: <a href=https://fb.me/e/cMFAYRyd8>https://fb.me/e/cMFAYRyd8</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBBGJ0nZ1NPTYJDlV0DJp7QAa05Qla9R9I0DC7j6atKWE8?e=KOA0wa" ]
   },
   {
     "id": "2019-14",
     "algus": "2019-11-14",
     "lõpp": "2019-11-14",
     "sündmus": "Kontsert: Paul Neitsov, Silvia Ilves, Aapo Ilves",
-    "koht": "Tartu",
+    "koht": "Tartu, Eesti Rahva Muuseum",
     "esineja": [
       { "nimi": "Paul Neitsov" },
       { "nimi": "Silvia Ilves" },
       { "nimi": "Aapo Ilves" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sai käidud Neitsovi kontserdil „Pärdist Metallicani“ ja mõni üksik jäädvustus mälestuseks tehtud.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/ozRtF93gS>https://fb.me/e/ozRtF93gS</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBp9NvVvW_TTI-2DGfhdqFxAaIcLN0uHYDCNZCr5PFNe5I?e=GNd43u" ]
   },
   {
     "id": "2019-15",
@@ -3425,5 +3431,20 @@
     ],
     "märkmed": "Taaskord järgmine tore festival Käbliku Pruulikojas. Kavas olnud esinejal Monkey3 (CHE) esinesid paraku mingid lennutranspordi probleemid, aga õnneks leidsid korraldajad kiirelt asendusansambli Kosmikud (kellel oli samal päeval varem esinemine Ostrova festivalil) - kiitus! Meenus eelmise aasta esimese päeva lõpetus :)",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCCIRct439USIUecT_XfvHpAfNIDb5vIiScL6dyKmPyjsA?e=Mti2XT" ]
+  },
+  {
+    "id": "2026-15",
+    "algus": "2026-08-01",
+    "lõpp": "2026-08-01",
+    "sündmus": "Kontsert: Zetod - XXXIII Seto Kuningriik",
+    "koht": "Mikitamäe, Setomaa",
+    "esineja": [
+      { "nimi": "Zetod" }
+    ],
+    "märkmed": [
+      "Sai käidud Seto Kuningriigi päival. Ennemb kirmaski sai ka paraati kaetu ja jäädvustatu.",
+      "FB nukake: <a href=https://fb.me/e/oqNwN4pyD>https://fb.me/e/oqNwN4pyD</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDunpA88c2sRJ8ycWLIEKhGAeDt1EJyYvhe6TZLDeMpsMo?e=gCFGSs" ]
   }
 ]
