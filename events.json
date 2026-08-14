@@ -1264,30 +1264,37 @@
     "märkmed": "",
     "pildid": [ "" ]
   },
+
   {
     "id": "2020-01",
     "algus": "2020-01-18",
     "lõpp": "2020-01-18",
-    "sündmus": "Kontsert: Pia Fraus, Liis Ring",
-    "koht": "Tartu",
+    "sündmus": "Kontsert: Liis Ring, Pia Fraus",
+    "koht": "Tartu, Armastuse saal",
     "esineja": [
       { "nimi": "Liis Ring" },
       { "nimi": "Pia Fraus" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Aparaaditehase Armastuse saalis Pia Fraus „Empty Parks Tour“.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/4QtQPPk5d>https://fb.me/e/4QtQPPk5d</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCQCChTIDclR4aKcBH6IrpXAUJRLIpLMbdLeHmuao8aav0?e=KDlnxk" ]
   },
   {
     "id": "2020-02",
     "algus": "2020-02-21",
     "lõpp": "2020-02-21",
     "sündmus": "Kontsert: Meelis Sarv",
-    "koht": "Tartu",
+    "koht": "Tartu, Emajõe pruulikoda",
     "esineja": [
       { "nimi": "Meelis Sarv" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Oli „Eesti Vabariigi eelpidu“, käisin koos sõber Känkariga Sarve kaemas. :)",
+      "Sündmuse FB leht: <a href=https://fb.me/e/bnRo4Calq>https://fb.me/e/bnRo4Calq</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAqpORJ1fqZTqMJiFOJl2hpAW3ZzDPltrthcvn7bCCNtaM?e=2Ju70f" ]
   },
   {
     "id": "2020-03",
@@ -1299,7 +1306,7 @@
       { "nimi": "Sküllfükk SS", "kuupäev": "2020-07-03" },
       { "nimi": "Kolmteist", "kuupäev": "2020-07-03" },
       { "nimi": "Intrepid", "kuupäev": "2020-07-03" },
-      { "nimi": "Hunta", "kuupäev": "2020-07-03" },
+      { "nimi": "Hunta (Hvnta)", "kuupäev": "2020-07-03" },
       { "nimi": "Val Tvoar feat. C-Jam", "kuupäev": "2020-07-03" },
       { "nimi": "Tharaphita", "kuupäev": "2020-07-03" },
       { "nimi": "Goresoerd", "kuupäev": "2020-07-03" },
@@ -1312,7 +1319,11 @@
       { "nimi": "Forgotten Sunrise", "kuupäev": "2020-07-04" },
       { "nimi": "Metsatöll", "kuupäev": "2020-07-04" }
     ],
-    "märkmed": "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival! \nLisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07",
+    "märkmed": [
+      "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival!",
+      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07.",
+      "Sündmuse FB leht, seal arutelus võib vast leida viiteud ka mu poolt jäädvustamata osale: <a href=https://fb.me/e/2lXMNEopr>https://fb.me/e/2lXMNEopr</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
   },
   {
@@ -1322,10 +1333,25 @@
     "sündmus": "Punk & Rock festival 2020",
     "koht": "Tartu",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Intrepid", "kuupäev": "2020-07-10" },
+      { "nimi": "Tora Bora", "kuupäev": "2020-07-10" },
+      { "nimi": "Alice Tisler", "kuupäev": "2020-07-10" },
+      { "nimi": "Deformation", "kuupäev": "2020-07-10" },
+      { "nimi": "Horror Dance Squad", "kuupäev": "2020-07-10" },
+      { "nimi": "Herald", "kuupäev": "2020-07-10" },
+      { "nimi": "J.M.K.E.", "kuupäev": "2020-07-10" },
+      { "nimi": "Eterniit", "kuupäev": "2020-07-11" },
+      { "nimi": "Koffin", "kuupäev": "2020-07-11" },
+      { "nimi": "Redneck Rampage", "kuupäev": "2020-07-11" },
+      { "nimi": "Kurjam", "kuupäev": "2020-07-11" },
+      { "nimi": "Freakangel", "kuupäev": "2020-07-11" },
+      { "nimi": "Winny Puhh", "kuupäev": "2020-07-11" }
     ],
-    "märkmed": "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb. Esimese päeva alustaja Sitaharakas jäi mul nägemata. Teine päev ei näind Koopaorav punti ja Eterniit sai kaadrid ainult lõpetusest.",
+      "Sündmuse FB leht, seal arutelus ka teiste piltide ja videote viiteid: <a href=https://fb.me/e/aFW3XPZQZ>https://fb.me/e/aFW3XPZQZ</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCPBKYp0by5RbKc6VuAV1tYAX4QA6sddIHdwwLHWHcfEvE?e=FgZh9y" ]
   },
   {
     "id": "2020-05",
@@ -1334,21 +1360,33 @@
     "sündmus": "Ostrova festival 2020 (osa)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Henrik Hinrikus ja Sander Kahu" },
+      { "nimi": "SK!VE" },
+      { "nimi": "Dagö" },
+      { "nimi": "Herald" },
+      { "nimi": "Contra" },
+      { "nimi": "Terminaator" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Tore festival Setomaal Ostrova külas, toimub juba 10. korda. Muidu kahepäevane festival, ma käisin seekord ainult ühel päeval.",
+      "Sündmuse FB leht, kus on lisainfot ja viiteid „päris“ piltidele: <a href=https://fb.me/e/4gJDwug8h>https://fb.me/e/4gJDwug8h</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCHWRlxUcIyQrjKQplIGBR5AV9S1bMUSmkLo7kbhX_4JuA?e=h3bXf9" ]
   },
   {
     "id": "2020-06",
     "algus": "2020-08-19",
     "lõpp": "2020-08-19",
-    "sündmus": "Kontsert: Nikns Suns",
+    "sündmus": "Kontsert: Nikns Suns (Emajõe suvekontserdid)",
     "koht": "Tartu",
     "esineja": [
       { "nimi": "Nikns Suns" }
     ],
-    "märkmed": "",
+    "märkmed": [
+      "„Emajõe suvekontserdid“ sündmus Tartus Kaarsilla otsa juures Jannseni ja Koidula mälestusväljakul. Kontserdile eelnes Aleksei Turovski loeng.",
+      "Suvekontserdite sündmuse koduleht on ajaloohämarusse kadunud, väike viide mingi aeg oli veel Tiigi Seltsimaja lehel: <a href=https://tiigiseltsimaja.tartu.ee/olnud/2020/08/emajoe-suvekontsert-19-augustil-2020/>https://tiigiseltsimaja.tartu.ee/olnud/2020/08/emajoe-suvekontsert-19-augustil-2020/</a>",
+      "Üks netis leitud video: <a href=https://youtu.be/KbTRHl75mBw?si=uZoSKriGbqn7md-z>https://youtu.be/KbTRHl75mBw?si=uZoSKriGbqn7md-z</a>"
+    ],
     "pildid": [ "" ]
   },
   {
@@ -1359,10 +1397,10 @@
     "koht": "Võru",
     "esineja": [
       { "nimi": "Jaan Sööt" },
-      { "nimi": "Tõun" }
+      { "nimi": "Tõun (Tõnu Timm)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Võru Koreli pargi avamisel esinesid Jaan Sööt ja Tõnu Timm.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAgGnzw0d6qSbS2eXBXfTniAXwxUebgUso5BGCkb04IDQY?e=uWu22Q" ]
   },
   {
     "id": "2020-08",
@@ -1373,9 +1411,13 @@
     "esineja": [
       { "nimi": "Reigo Ahven Trio" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Emajõe suvekontserdid“ viimasel kontserdil esines Reigo Ahven Tartu Sõpruse silla all Emajõe ääres.",
+      "Suvekontserdite sündmuse koduleht on ajaloohämarusse kadunud, väike viide mingi aeg oli veel Tiigi Seltsimaja lehel: <a href=https://tiigiseltsimaja.tartu.ee/olnud/2020/09/emajoe-suvekontsert-2-septembril-2020/>https://tiigiseltsimaja.tartu.ee/olnud/2020/09/emajoe-suvekontsert-2-septembril-2020/</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBhTDHbnNwPT5VJPMSywwk0AVh74UGCnq_QaJgD1JsF208?e=To3bKu" ]
   },
+
   {
     "id": "2021-01",
     "algus": "2021-07-02",
