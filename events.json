@@ -1232,37 +1232,41 @@
     "algus": "2019-11-16",
     "lõpp": "2019-11-16",
     "sündmus": "Kontsert: Pööloy Gläänz ja Contra",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
-      { "nimi": "Pööloy Gläänz" }
+      { "nimi": "Pööloy Gläänz" },
+      { "nimi": "Contra (Margus Konnula)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Pööloy Gläänz 30 + Contra Tartus. Sündmuse FB leht: <a href=https://fb.me/e/7nYa3C3qV>https://fb.me/e/7nYa3C3qV</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCI7GxQRsEiTaK66Nw5krrRAZzcw22u-mSrxdQ41b99m5Q?e=cPdSqT" ]
   },
   {
     "id": "2019-16",
     "algus": "2019-11-23",
     "lõpp": "2019-11-23",
     "sündmus": "Kontsert: ToraBora, Sõpruse Puiestee",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "ToraBora" },
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Sügisromantika“ kontsert. Sündmuse FB leht: <a href=https://fb.me/e/4NjvIkH8Y>https://fb.me/e/4NjvIkH8Y</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgALyx_SWlCuR6mJXYMI4y2oAQJtJDA6fPj4953Lb-8r-qI?e=i787cg" ]
   },
   {
     "id": "2019-17",
     "algus": "2019-12-30",
     "lõpp": "2019-12-30",
-    "sündmus": "Kontsert: Terminaator",
-    "koht": "Tartu",
+    "sündmus": "Kontsert: Terminaator - aastalõpukontsert",
+    "koht": "Tartu, Eesti Rahva Muuseum",
     "esineja": [
       { "nimi": "Terminaator" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Aastalõpukontsert ERM-is, mõned udused kaadrid said mälestuseks ja meenutuseks tehtud.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/6jkcQG4xB>https://fb.me/e/6jkcQG4xB</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA8iB_vy_NESLq-aVYaGo_BAetjGUIbCWmBoxfxeY1q0Qk?e=4eI0xr" ]
   },
 
   {
@@ -1387,7 +1391,7 @@
       "Suvekontserdite sündmuse koduleht on ajaloohämarusse kadunud, väike viide mingi aeg oli veel Tiigi Seltsimaja lehel: <a href=https://tiigiseltsimaja.tartu.ee/olnud/2020/08/emajoe-suvekontsert-19-augustil-2020/>https://tiigiseltsimaja.tartu.ee/olnud/2020/08/emajoe-suvekontsert-19-augustil-2020/</a>",
       "Üks netis leitud video: <a href=https://youtu.be/KbTRHl75mBw?si=uZoSKriGbqn7md-z>https://youtu.be/KbTRHl75mBw?si=uZoSKriGbqn7md-z</a>"
     ],
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC2WstL4N_hSpfjG9O9bUTGAfMKoNXF-OVfyebCzS7i2W8?e=jtLXFn" ]
   },
   {
     "id": "2020-07",
@@ -3165,7 +3169,7 @@
     "id": "2025-35",
     "algus": "2025-12-28",
     "lõpp": "2025-12-28",
-    "sündmus": "Kontsert: Vennaskond - Aastalõpukontsert",
+    "sündmus": "Kontsert: Vennaskond - aastalõpukontsert",
     "koht": "Tartu, Eesti Rahva Muuseum",
     "esineja": [
       { "nimi": "Vennaskond" }
