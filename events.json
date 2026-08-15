@@ -1025,51 +1025,55 @@
     "algus": "2018-11-23",
     "lõpp": "2018-11-23",
     "sündmus": "Kontsert: Sõpruse Puiestee",
-    "koht": "Tartu",
+    "koht": "Tartu, Aparaaditehas, Armastuse saal",
     "esineja": [
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Mustale Merele“ albumi 15 aastat. Sündmuse FB leht: <a href=https://fb.me/e/4LOZJnUcQ>https://fb.me/e/4LOZJnUcQ</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDc8adaRN3ISLOXLBhHbBsJASYJSlq3QKUIE2td2zxfBHU?e=XL8HRw" ]
   },
   {
     "id": "2018-18",
     "algus": "2018-12-08",
     "lõpp": "2018-12-08",
     "sündmus": "Kontsert: Kurjam, Wunda-Ment, VPJ",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
-      { "nimi": "VPJ" },
+      { "nimi": "VPJ (Vanaema Pööras Jooma" },
       { "nimi": "Wunda-Ment" },
       { "nimi": "Kurjam" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Kurioosum“ punkõhtu Rokikas. Sündmuse FB leht: <a href=https://fb.me/e/8A6jHEXwN>https://fb.me/e/8A6jHEXwN</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRbYXDLd8USq8-BvZ_aMwDAdjzOehAdds6z-HlwUjg7V8?e=iuHQbx" ]
   },
+
   {
     "id": "2019-01",
     "algus": "2019-01-05",
     "lõpp": "2019-01-05",
     "sündmus": "Kontsert: Rockin' Lady & her Rivertown Boys",
-    "koht": "Tartu",
+    "koht": "Tartu, Underground",
     "esineja": [
       { "nimi": "Rockin' Lady & her Rivertown Boys" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Rockabilly Night Tartu Underground baaris.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDI3ErRc5L9QZ7KjJWjCWYaAaqU2P4m9knMHKlCt-7tsm8?e=8yBI2r" ]
   },
   {
     "id": "2019-02",
     "algus": "2019-01-12",
     "lõpp": "2019-01-12",
     "sündmus": "Kontsert: Mockingbird, The Doors Tribute",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Mockingbird" },
-      { "nimi": "The Doors Tribute" }
+      { "nimi": "The Doors Tribe" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Eesti oma The Doorsi tribüütgrupp, Taavi Petrson jt. Toetab Mockingbird.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/5G0CCnOKw>https://fb.me/e/5G0CCnOKw</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDgjUjrwK9VSJfo-F-Ly0n0Ab2t0wX5RLcYFtWaEeMoND0?e=eRXElo" ]
   },
   {
     "id": "2019-03",
