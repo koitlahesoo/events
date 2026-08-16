@@ -771,88 +771,98 @@
     "algus": "2017-08-30",
     "lõpp": "2017-08-30",
     "sündmus": "Kontsert: ToraBora",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi, Magasini Tänava Suvila",
     "esineja": [
       { "nimi": "ToraBora" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kontsert Genialistide Klubi kõrval Magasini Tänava Suvilas.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/6i2f34slk>https://fb.me/e/6i2f34slk</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAtwyripEd2SZ89qrPWvEmXAaadUPSUb1Qo1cDwCHLr2n4?e=L1mUqr" ]
   },
   {
     "id": "2017-06",
     "algus": "2017-10-07",
     "lõpp": "2017-10-07",
     "sündmus": "Kontsert: Sibyl Vane, DND",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Sibyl Vane" },
       { "nimi": "DND" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "DND albumi „Kõikide haiguste ravi“ esitlus.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/6hpRdSAfa>https://fb.me/e/6hpRdSAfa</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAk2SxIEyLtR4TiGEV6MJAQAY-CtAE0Q7kcTMFmhiy7uzU?e=6GLjrr" ]
   },
   {
     "id": "2017-07",
     "algus": "2017-11-10",
     "lõpp": "2017-11-10",
     "sündmus": "Kontsert: Viikate, Kosmikud",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Viikate" },
       { "nimi": "Kosmikud" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/78Nm8O4Lc>https://fb.me/e/78Nm8O4Lc</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBRK1m1VpcTSov96GFPL3q3ATLVNPp24Lc5AKjhY65vYxs?e=711sVO" ]
   },
   {
     "id": "2017-08",
     "algus": "2017-11-17",
     "lõpp": "2017-11-17",
     "sündmus": "Kontsert: Tintura, Nikns Suns",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Tintura" },
       { "nimi": "Nikns Suns" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Urjoh, hunti!“ plaadi esitlus. Sündmuse FB leht: <a href=https://fb.me/e/5SEKcQSdF>https://fb.me/e/5SEKcQSdF</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCSHJ6PPHn8S7xtTg3PUcjfAeIAmOy05Y_Mnfk6VMNk_so?e=LRT0kR" ]
   },
+
   {
     "id": "2018-01",
     "algus": "2018-02-09",
     "lõpp": "2018-02-09",
     "sündmus": "Kontsert: Wunda-Ment, Kurjam",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Wunda-Ment" },
       { "nimi": "Kurjam" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Olid muidu erinevad esinejad, ma olen keskendunud oma sõprade pundile, Kurjam kah vaid paar lavatagust pilti.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/4PS4CYeXn>https://fb.me/e/4PS4CYeXn</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAwzuM4WG1LT6GpGkE6j91mAT1uHo8GFftZy-y0CWSUN24?e=en21fs" ]
   },
   {
     "id": "2018-02",
     "algus": "2018-02-10",
     "lõpp": "2018-02-10",
     "sündmus": "Kontsert: Pia Fraus",
-    "koht": "Tartu",
+    "koht": "Tartu, Uus Teater",
     "esineja": [
       { "nimi": "Pia Fraus" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Field Ceremony“ albumi tuur. Sündmuse FB leht: <a href=https://fb.me/e/4WXPbC3LQ>https://fb.me/e/4WXPbC3LQ</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA2FGTLad9oQ5NFFEu8U9d8AfOo6UgX5ww3S3ux21YJfHc?e=vXc7bb" ]
   },
   {
     "id": "2018-03",
     "algus": "2018-03-23",
-    "lõpp": "2018-03-23",
+    "lõpp": "2018-03-24",
     "sündmus": "Kontsert: Singer Vinger (laeval)",
     "koht": "Tallinn - Stockholm",
     "esineja": [
       { "nimi": "Singer Vinger" }
     ],
-    "märkmed": "Singer Vinger kontsert Rootsi kruiisi laeval",
-    "pildid": [ "" ]
+    "märkmed": "Singer Vinger kontsert Rootsi kruiisi laeval.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBHCmjQ163jRor5DZjnozJZAcWzPaOdooS6YV5kto4gn_0?e=76jcQH" ]
   },
   {
     "id": "2018-04",
@@ -864,33 +874,33 @@
       { "nimi": "Wunda-Ment" },
       { "nimi": "Redneck Rampage" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Kontsert kunagises UG-s.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBEZq-t6hZXS4li8fKFFScpATC8zOkhbz_CLp2OyUpqqm4?e=d0MzZv" ]
   },
   {
     "id": "2018-05",
     "algus": "2018-05-19",
     "lõpp": "2018-05-19",
     "sündmus": "Kontsert: ToraBora",
-    "koht": "Tartu",
+    "koht": "Tartu, Rebase sadam",
     "esineja": [
       { "nimi": "ToraBora" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Karlova perapäev“ lõpetuseks lõkkeõhtu Rebase sadamas. Sõbrad taas laval ja publikus, minagi kohal! Väike info sündmuse kohta netiavarusest: <a href=https://www.karlova.ee/karlova-paevad/karlova-paevad-2018-kava/laupaev-19-mai-perepaev>https://www.karlova.ee/karlova-paevad/karlova-paevad-2018-kava/laupaev-19-mai-perepaev</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBPnbfk-J0_QamhiNqWu7lFAfS-1p8MpTjhCsw6i1gRLvI?e=9j8d68" ]
   },
   {
     "id": "2018-06",
     "algus": "2018-05-26",
     "lõpp": "2018-05-26",
     "sündmus": "Kontsert: Iron Maiden, Killswitch Engage",
-    "koht": "Tallinn",
+    "koht": "Tallinn, Saku Suurhall (nüüd Unibet Arena)",
     "esineja": [
       { "nimi": "Killswitch Engage" },
       { "nimi": "Iron Maiden" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "„Legacy of the Beast“ tuur. Sündmuse FB leht: <a href=https://fb.me/e/7e6nmpWK9>https://fb.me/e/7e6nmpWK9</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBv_sLbsz5HTIRQIA71jX6yAYqD_2xuBgU03BVgFFuS5MQ?e=PwHrIf" ]
   },
   {
     "id": "2018-07",
