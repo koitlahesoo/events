@@ -894,134 +894,179 @@
   },
   {
     "id": "2018-07",
+    "algus": "2018-06-08",
+    "lõpp": "2018-06-08",
+    "sündmus": "Kontsert: Teine Eino",
+    "koht": "Tartu, Emajõe pruulikoda",
+    "esineja": [
+      { "nimi": "Teine Eino" }
+    ],
+    "märkmed": [
+      "Ma ise pilte ei teinud, olin laval. Aga panin siiski sündmuse kirja, vahest leian kuskilt kedagi, kes mõne jäädvustuse tegi ja saan oma kogusse mõne mälestuse juurde!",
+      "Sündmuse FB leht: <a href=https://fb.me/e/2BxtIgY9y>https://fb.me/e/2BxtIgY9y</a>"
+    ],
+    "pildid": [ "" ]
+  },  {
+    "id": "2018-08",
     "algus": "2018-06-23",
     "lõpp": "2018-06-23",
     "sündmus": "Kontsert: Üllar Jörberg, Kolumbus Kris (Nõo jaanipidu)",
-    "koht": "Tartu",
+    "koht": "Tartumaa, Nõo",
     "esineja": [
       { "nimi": "Üllar Jörberg" },
       { "nimi": "Kolumbus Kris" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
-  },
-  {
-    "id": "2018-08",
-    "algus": "2018-07-06",
-    "lõpp": "2018-07-06",
-    "sündmus": "Amme Rock festival 2018",
-    "koht": "Tartumaa, Vasula",
-    "esineja": [
-      { "nimi": "erinevad esinejad..." }
-    ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Maakaitsepäeva lõpus toimus Nõos jaanipäeva tähistamine jaanitule ja kotserdiga. Sündmuse FB leht: <a href=https://fb.me/e/7odjVAoWz>https://fb.me/e/7odjVAoWz</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCpZj488NeqRq4VsbY28SAXAQQ6YFLfbFk_4hRriB5KmZg?e=muOgeA" ]
   },
   {
     "id": "2018-09",
+    "algus": "2018-07-06",
+    "lõpp": "2018-07-08",
+    "sündmus": "Amme Rock festival 2018",
+    "koht": "Tartumaa, Vasula",
+    "esineja": [
+      { "nimi": "Rebound (FIN)", "kuupäev": "2020-07-06" },
+      { "nimi": "Köömes", "kuupäev": "2020-07-06" },
+      { "nimi": "James ja Hannu", "kuupäev": "2020-07-06" },
+      { "nimi": "The Drillz", "kuupäev": "2020-07-06" },
+      { "nimi": "Private Eyes Project (FIN)", "kuupäev": "2020-07-07" },
+      { "nimi": "Reds'Cool", "kuupäev": "2020-07-07" },
+      { "nimi": "Vanemõde", "kuupäev": "2020-07-07" },
+      { "nimi": "Louie Digman Orchestra", "kuupäev": "2020-07-08" }
+    ],
+    "märkmed": [
+      "Taaskord äge TASUTA festival Amme jõe ääres, kus enamasti enamus Tartu tuttavaid karvaseid ja sulelisi on kohal. Sedapuhku kahekümnes juubel!",
+      "Eelnevat arvestades jääb üle imestada vaid, et kuidas ma ise sinna nii vähe kordi kohale sain? ;)",
+      "Aga tookord olin ma isegi nii tubli, et tegin sündmuse lehele mõningaid postitusi, FB leht: <a href=https://fb.me/e/7Y9rXmZmH>https://fb.me/e/7Y9rXmZmH</a>",
+      "Takkajärele meenutusi kirja pannes jääb segaseks, et millega täpsemalt oli tegu „James ja Hannu“ nime kandva kollektiivi puhul - nett annab seda otsides mingi klaveriduo vastuseks?! :)"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAUpMBi8YBzSoYanjFLDa6yAUxhb0X1ip8whmGAb09ehVA?e=sR5TUL" ]
+  },
+  {
+    "id": "2018-10",
     "algus": "2018-07-16",
     "lõpp": "2018-07-16",
     "sündmus": "Kontsert: Volbeat, Guns'N'Roses",
     "koht": "Tallinn, Lauluväljak",
     "esineja": [
-      { "nimi": "Volbeat" },
-      { "nimi": "Guns'N'Roses" }
+      { "nimi": "Volbeat (DNK)" },
+      { "nimi": "Guns'N'Roses (USA)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Guns N’ Rosesi taasühinemisturnee „Not In This Lifetime“.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/didhK3CjI>https://fb.me/e/didhK3CjI</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD-IvDBtmEdTrRCsQfTRZvAAYm9p_mcNn5xrhHMJHJuTcg?e=HNX0bJ" ]
   },
   {
-    "id": "2018-10",
+    "id": "2018-11",
     "algus": "2018-07-21",
     "lõpp": "2018-07-21",
     "sündmus": "Kontsert: Rock in Haapsalu - Colours of Bubbles, Sibyl Vane, 2Cellos",
     "koht": "Haapsalu",
     "esineja": [
-      { "nimi": "Colours of Bubbles" },
+      { "nimi": "Colours of Bubbles (LTU)" },
       { "nimi": "Sibyl Vane" },
-      { "nimi": "2Cellos" }
+      { "nimi": "2Cellos (HRV)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
-  },
-  {
-    "id": "2018-11",
-    "algus": "2018-08-18",
-    "lõpp": "2018-08-18",
-    "sündmus": "Kontsert: Ihaste päev - Taul, ToraBora",
-    "koht": "Tartu",
-    "esineja": [
-      { "nimi": "Taul" },
-      { "nimi": "ToraBora" }
+    "märkmed": [
+      "„The Score World“ tuuri raames tuleb 2Cellos „Rock in Haapsalu“ kotserdile. Toetavad Colours of Bubbles ja Sibyl Vane (ja The Ilves Sisters, kes esines eraldi laval lossi ees, kuid keda ma ei jäädvustanud).",
+      "Sündmuse FB leht: <a href=https://fb.me/e/2QmiSySYt>https://fb.me/e/2QmiSySYt</a>",
+      "err kajastus ja galerii: <a href=https://eeter.err.ee/848356/galerii-2cellos-meelitas-publiku-haapsalu-lossihoovi>https://eeter.err.ee/848356/galerii-2cellos-meelitas-publiku-haapsalu-lossihoovi</a>"
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgASIBXyG43fTKJBDNcpfS8TAYKBHxFh4ekA8ThmoXkjJ6s?e=IcOaha" ]
   },
   {
     "id": "2018-12",
+    "algus": "2018-08-18",
+    "lõpp": "2018-08-18",
+    "sündmus": "Kontsert: Ihaste päev - Taul, ToraBora",
+    "koht": "Tartu, Ihaste",
+    "esineja": [
+      { "nimi": "Anu Taul, Tarmo Noormaa" },
+      { "nimi": "ToraBora" }
+    ],
+    "märkmed": [
+      "Ihaste päeva tasuta kontsert, korraldaja Ihaste Selts.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/8aaFC1WxV>https://fb.me/e/8aaFC1WxV</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDNmfwtkr5_TaxRwJcwG5upAZN9GbNhajYQ_xbCMpUvQyA?e=nimPY1" ]
+  },
+  {
+    "id": "2018-13",
     "algus": "2018-09-14",
     "lõpp": "2018-09-14",
     "sündmus": "Kontsert: Vennaskond, Bläh",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Bläh" },
       { "nimi": "Vennaskond" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
-  },
-  {
-    "id": "2018-13",
-    "algus": "2018-09-15",
-    "lõpp": "2018-09-15",
-    "sündmus": "Kontsert: S.E.K.S",
-    "koht": "Tartu",
-    "esineja": [
-      { "nimi": "S.E.K.S" }
+    "märkmed": [
+      "Suvelõpp Punk-Rock kontsert Rokikas.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/944PCnbuI>https://fb.me/e/944PCnbuI</a>"
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgClQWf4mB0NSIVggYVEOEvFAWmshuKfVCYI2D_JquVqzuY?e=GRY4Os" ]
   },
   {
     "id": "2018-14",
+    "algus": "2018-09-15",
+    "lõpp": "2018-09-15",
+    "sündmus": "Kontsert: S.E.K.S.",
+    "koht": "Tartu, Sõbra Pesa",
+    "esineja": [
+      { "nimi": "S.E.K.S. (Sünkroonujujad Endisest Kastepiisa Seltsimajast)" }
+    ],
+    "märkmed": [
+      "Ühelt sündmuselt teisele - peale Vennaskonna kontserti astusime sõpradega Sõbra Pesa pubist läbi ja seal toimus järgmine kontsert!",
+      "Sündmuse FB leht: <a href=https://fb.me/e/h9zTzT5WA>https://fb.me/e/h9zTzT5WA</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD59uhCBzJvRqOBVFc_2Fk4AarXBvY64cojihsrBNbtsVk?e=3bV1bX" ]
+  },
+  {
+    "id": "2018-15",
     "algus": "2018-09-28",
     "lõpp": "2018-09-28",
     "sündmus": "Kontsert: Pööloy Gläänz",
-    "koht": "Tartu",
+    "koht": "Tartu, Underground",
     "esineja": [
       { "nimi": "Pööloy Gläänz" }
     ],
     "märkmed": "",
-    "pildid": [ "" ]
-  },
-  {
-    "id": "2018-15",
-    "algus": "2018-11-09",
-    "lõpp": "2018-11-09",
-    "sündmus": "Kontsert: Metro Luminal 30",
-    "koht": "Tartu",
-    "esineja": [
-      { "nimi": "Metro Luminal" }
-    ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCAZ4ijXa7HTqaNWmlKb7TpATiKxU2ChRtj9YMXb8L6oOQ?e=9XwTGi" ]
   },
   {
     "id": "2018-16",
-    "algus": "2018-11-10",
-    "lõpp": "2018-11-10",
-    "sündmus": "Kontsert: Herald, Crimson Day, Mad Road",
-    "koht": "Tartu",
+    "algus": "2018-11-09",
+    "lõpp": "2018-11-09",
+    "sündmus": "Kontsert: Metro Luminal 30",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
-      { "nimi": "Mad Road" },
-      { "nimi": "Crimson Day" },
-      { "nimi": "Herald" }
+      { "nimi": "Metro Luminal" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "METRO LUMINAL 30 - juubelituur ja uue plaadi „Üheksast viieni“ esitluskontsert. Solist Robin Juhkental.",
+      "Sündmuse FB leht: https://fb.me/e/6jneheKub"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCHYsAddXkgTZeadR59F5fEAXUEz3SReScHqGAJomxa17o?e=BFOgfg" ]
   },
   {
     "id": "2018-17",
+    "algus": "2018-11-10",
+    "lõpp": "2018-11-10",
+    "sündmus": "Kontsert: Herald, Crimson Day, Mad Road",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Mad Road" },
+      { "nimi": "Crimson Day (FIN)" },
+      { "nimi": "Herald" }
+    ],
+    "märkmed": "„Tunnel Vision Tour 2018“, sündmuse FB leht: <a href=https://fb.me/e/4Qr4JRx6B>https://fb.me/e/4Qr4JRx6B</a>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDkpUzzcyQ4T742EZULBHGkASIpj0hEFeLjXIx0LDsfrPY?e=VFU17I" ]
+  },
+  {
+    "id": "2018-18",
     "algus": "2018-11-23",
     "lõpp": "2018-11-23",
     "sündmus": "Kontsert: Sõpruse Puiestee",
@@ -1033,7 +1078,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDc8adaRN3ISLOXLBhHbBsJASYJSlq3QKUIE2td2zxfBHU?e=XL8HRw" ]
   },
   {
-    "id": "2018-18",
+    "id": "2018-19",
     "algus": "2018-12-08",
     "lõpp": "2018-12-08",
     "sündmus": "Kontsert: Kurjam, Wunda-Ment, VPJ",
