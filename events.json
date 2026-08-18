@@ -536,7 +536,7 @@
     "id": "2015-05",
     "algus": "2015-07-17",
     "lõpp": "2015-07-17",
-    "sündmus": "Ostrova festival 2015 (osa)",
+    "sündmus": "Ostrova festival 2015 (osaliselt 1 päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "erinevad esinejad..." }
@@ -714,18 +714,22 @@
     "märkmed": "",
     "pildid": [ "" ]
   },
+
   {
     "id": "2017-01",
-    "algus": "2017-01-01",
-    "lõpp": "2017-01-01",
-    "sündmus": "Kontsert: DND, SibylVane",
-    "koht": "Tartu",
+    "algus": "2017-05-20",
+    "lõpp": "2017-05-20",
+    "sündmus": "Kontsert: DND, Sibyl Vane",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "DND" },
-      { "nimi": "SibylVane" }
+      { "nimi": "Sibyl Vane" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Sibyl Vane'i plaadiesitlus + DND",
+      "Sündmuse FB leht: <a href=https://fb.me/e/9Mxk6eOOV>https://fb.me/e/9Mxk6eOOV</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAo_47JnuG8SqD6Ca6KR9P3AZn-vxI2T8wjCsGWAa1yQwE?e=HzaxOH" ]
   },
   {
     "id": "2017-02",
@@ -738,7 +742,10 @@
       { "nimi": "Puberteet" },
       { "nimi": "SS Robot" }
     ],
-    "märkmed": "Klubi Rock & Roll hooaja lõpukas. \nSündmuse FB leht: <a href=https://fb.me/e/9Gh5OBr5t>https://fb.me/e/9Gh5OBr5t</a>",
+    "märkmed": [
+      "Klubi Rock & Roll hooaja lõpukas.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/9Gh5OBr5t>https://fb.me/e/9Gh5OBr5t</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCc8eQztpJ1S50qga1b_3tOAW6odcQd_5Qv1FeE3pP_MI0?e=a5pOnr" ]
   },
   {
@@ -748,23 +755,36 @@
     "sündmus": "Kontsert: Rammstein",
     "koht": "Tallinn, Lauluväljak",
     "esineja": [
-      { "nimi": "Mustasch" },
-      { "nimi": "Rammstein" }
+      { "nimi": "Mustasch (SWE)" },
+      { "nimi": "Rammstein (DEU)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Rammstein Tallinnas. Soojendaja Mustasch, lisasin oma piltide alla ka neilt kunagi ammu saadud autogrammidega pildi, oli vist Rakvere Green Christmas sündmusel. ",
+      "Sündmuse FB leht: <a href=https://fb.me/e/5ommLM8Gz>https://fb.me/e/5ommLM8Gz</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAA1tDyWtA3T65jEDSDJ_H4AR3GCcafAWFRT1otx2onf5I?e=jIR0JZ" ]
   },
   {
     "id": "2017-04",
     "algus": "2017-07-14",
     "lõpp": "2017-07-14",
-    "sündmus": "Positivus Festival 2017",
+    "sündmus": "Positivus Festival 2017 (osaliselt 1 päev)",
     "koht": "Läti",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Margaret Glaspy (USA)" },
+      { "nimi": "Nothing But Thieves (GBR)" },
+      { "nimi": "Chris Noah (LVA)" },
+      { "nimi": "Cigarettes After Sex (USA)" },
+      { "nimi": "Polifauna (LVA)" },
+      { "nimi": "Maxïmo Park (GBR)" },
+      { "nimi": "JP Cooper (GBR)" },
+      { "nimi": "Pixies (USA)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Jõudsin käia Positivuse festivalil 1. päeval. Läksime sõpradega peamiselt eesmärgiga Pixies ära näha, aga esinejate list oli vägev - kasvõi minu osaliselt nähtu hulgas 2 Läti artisti ja teised US v UK bändid!",
+      "Sündmuse FB leht: <a href=https://fb.me/e/6hWeb1PE2>https://fb.me/e/6hWeb1PE2</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBsi8-lENetQIBjC6jT7AkqASEg_wpwopgUlWtM4VifviM?e=VkFqAj" ]
   },
   {
     "id": "2017-05",
@@ -1436,7 +1456,7 @@
     "id": "2020-05",
     "algus": "2020-07-17",
     "lõpp": "2020-07-17",
-    "sündmus": "Ostrova festival 2020 (osa)",
+    "sündmus": "Ostrova festival 2020 (osaliselt 1 päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "Henrik Hinrikus ja Sander Kahu" },
@@ -1584,7 +1604,7 @@
     "id": "2021-05",
     "algus": "2021-07-16",
     "lõpp": "2021-07-17",
-    "sündmus": "Ostrova festival 2021 (osa)",
+    "sündmus": "Ostrova festival 2021 (osaliselt 1 päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "Fööniks", "kuupäev": "2021-07-16" },
@@ -2077,7 +2097,7 @@
     "id": "2023-08",
     "algus": "2023-07-22",
     "lõpp": "2023-07-22",
-    "sündmus": "Ostrova festival 2023 (osa)",
+    "sündmus": "Ostrova festival 2023 (osaliselt 2. päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "Urissaare Rantšo House Band" },
@@ -2503,7 +2523,7 @@
     "id": "2024-19",
     "algus": "2024-07-20",
     "lõpp": "2024-07-20",
-    "sündmus": "Ostrova festival 2024 (osa)",
+    "sündmus": "Ostrova festival 2024 (osaliselt 2. päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
       { "nimi": "Räpina Jack" },
