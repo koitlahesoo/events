@@ -570,8 +570,11 @@
       { "nimi": "Superliustik" },
       { "nimi": "Her Memorial Discourse (HMD)" }
     ],
-    "märkmed": "Tartu Underground Festivali (T.U.F.) klubi Rock & Roll hooaja avapidu. \nSündmuse FB kodukas: <a href=https://fb.me/e/imgCEcKq7>https://fb.me/e/imgCEcKq7</a>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Tartu Underground Festivali (T.U.F.) klubi Rock & Roll hooaja avapidu.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/imgCEcKq7>https://fb.me/e/imgCEcKq7</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC-m72H6dYpSaj62ALd-mujAUPwPamOGgacdFZIL7n02UQ?e=JZgX5F" ]
   },
   {
     "id": "2015-08",
@@ -583,34 +586,40 @@
       { "nimi": "Sõpruse Puiestee" },
       { "nimi": "Seitsmes Meel" }
     ],
-    "märkmed": "Seitsmes Meel ja Sõpruse Puiestee klubis Rock & Roll. \nSündmuse FB kodukas: <a href=https://fb.me/e/46etmh7pS>https://fb.me/e/46etmh7pS</a>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Seitsmes Meel ja Sõpruse Puiestee klubis Rock & Roll.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/46etmh7pS>https://fb.me/e/46etmh7pS</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBLaP9T-RDjQov5tObAo-Q8AcbN4zCGVH0SxV0kakn-cw0?e=4sKwnl" ]
   },
   {
     "id": "2015-09",
     "algus": "2015-11-07",
     "lõpp": "2015-11-07",
     "sündmus": "Kontsert: Herald, Ulguränd, Ferrum Fidem",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Ferrum Fidem" },
       { "nimi": "Ulguränd" },
       { "nimi": "Herald" }
     ],
-    "märkmed": "Heraldi albumi tuur \"Masin veereb üle eesti\". \nSündmuse FB kodukas: <a href=https://fb.me/e/3KOoaQtlK>https://fb.me/e/3KOoaQtlK</a>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Heraldi albumi tuur „Masin veereb üle eesti“.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/3KOoaQtlK>https://fb.me/e/3KOoaQtlK</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAJfkdF5U4zSK2q9ZK0knvbAWgb5cldH3pLQREMhO1Dtt8?e=JMImuj" ]
   },
   {
     "id": "2015-10",
     "algus": "2015-11-20",
     "lõpp": "2015-11-20",
     "sündmus": "Kontsert: G-litter",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide klubi",
     "esineja": [
-      { "nimi": "G-litter" }
+      { "nimi": "G-litter (FIN)" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "Jazz Lessons #15 - Helsinki jazz-folk-funk-disco ansambel G-Litter.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC0pMRcx1NTQrpsrI4fHJ-7Af-Ctbr5eKZYyU1igUdXzGI?e=jVfkIA" ]
   },
   {
     "id": "2016-01",
@@ -623,47 +632,62 @@
       { "nimi": "Ziggy Wild" },
       { "nimi": "Winny Puhh" }
     ],
-    "märkmed": "ROAD BEAST MC juubelimöll. \nSündmuse FB kodukas: <a href=https://fb.me/e/6kPpQKM07>https://fb.me/e/6kPpQKM07</a>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "ROAD BEAST MC juubelimöll rokikas.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6kPpQKM07>https://fb.me/e/6kPpQKM07</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAzCw6LpcqtQ6UsTI7aDSCnAckYQZRVFw_XiU_Pw8iU6Qw?e=1oEPpG" ]
   },
   {
     "id": "2016-02",
     "algus": "2016-04-01",
     "lõpp": "2016-04-01",
     "sündmus": "Kontsert: Wunda-Ment, The Belka",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Wunda-Ment" },
       { "nimi": "The Belka" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "The Belka vinüülplaadi „Mehega II Planeedilt esitlus“.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/793pgvDfo>https://fb.me/e/793pgvDfo</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCcemcQgkHnRq6NCqpK9sp7Ab25IBUpUkR7aSrBo55Yx24?e=mMoFYn" ]
   },
   {
     "id": "2016-03",
     "algus": "2016-05-14",
     "lõpp": "2016-05-14",
     "sündmus": "Kontsert: Teine Eino, Kumikameli, J.M.K.E",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Teine Eino" },
       { "nimi": "Kumikameli" },
       { "nimi": "J.M.K.E" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Kuuskümpi punki!“",
+      "Seekord olen saand ka paar udukogu enda esinemisest, sai vist telo kellelegi antud jäädvustamiseks. Villu on jäädvustatud lava taga :).",
+      "Sündmuse FB leht: <a href=https://fb.me/e/5H1G2x5NU>https://fb.me/e/5H1G2x5NU</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBxyWwwxwFyQYrwJErUkutsAWmXZXgx-tXwYplbfYIELT0?e=bbpLc1" ]
   },
   {
     "id": "2016-04",
     "algus": "2016-07-05",
     "lõpp": "2016-07-05",
-    "sündmus": "Kontsert: Black Sabbath - The End",
-    "koht": "Riia",
+    "sündmus": "Kontsert: Rival Sons, Black Sabbath - The End",
+    "koht": "Riia, Arēna Rīga",
     "esineja": [
-      { "nimi": "Black Sabbath" }
+      { "nimi": "Rival Sons (USA)" },
+      { "nimi": "Black Sabbath (GBR)" }
     ],
-    "märkmed": "Black Sabbath - The End tuur",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Black Sabbath - „The End“ tuur, sain ka enda nähtud bändide hulka selle gigandi kirja! Soojendas - vist, panin hiljem infot kirja, kui mälu hästi enam suursündmuse väiksemat alguosa detailselt ei mäletanud - Rival Sons, mõned udukogud olen ka algusest jäädvustanud.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/lRcgsH4ll>https://fb.me/e/lRcgsH4ll</a>",
+      "Veel veebileht: <a href=https://www.fbi.lv/en/event/black-sabbath-05-07-2016.ev-652/black-sabbath-uzstashanos-iesildiis-amerikanju-rokgrupa-rival-sons-article.621/>https://www.fbi.lv/en/event/black-sabbath-05-07-2016.ev-652/black-sabbath-uzstashanos-iesildiis-amerikanju-rokgrupa-rival-sons-article.621/</a> - sellelt sain takkajärele info soojendaja kohta."
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD8LKoqyfijRLDMgrmMNYeDAYT2bi_z6OYFdHwfQFDYp2k?e=lA6dAT" ]
   },
   {
     "id": "2016-05",
@@ -674,45 +698,51 @@
     "esineja": [
       { "nimi": "Nikns Suns" }
     ],
-    "märkmed": "Nikns Suns kontsert Tallinna merepäevadel",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Nikns Suns kontsert Tallinna merepäevadel. Sai kaetud laevu ja pärast seda mõnusat folk-rokki!",
+      "Sündmuse FB leht: <a href=https://fb.me/e/7poqOz3lx>https://fb.me/e/7poqOz3lx</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDN2ebCjW3KSoLWXTlf9weYAcL1ZoXNTrSANHTfSz5MU1E?e=WUIUSF" ]
   },
   {
     "id": "2016-06",
     "algus": "2016-10-08",
     "lõpp": "2016-10-08",
     "sündmus": "Kontsert: Nevesis",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Nevesis" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "FB leht: <a href=https://fb.me/e/81M1RaChW>https://fb.me/e/81M1RaChW</a> - selle järgi oli sündmus 7.10, aga põhimürgel algas pääle südaööd ja ma olen pannud kuupäeva oma (uduste) jäädvustuste põhjal.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBtTKwCpEf9SI3WxjlNFxZnAZag4TUhR2eLHIJ1KOc_qWw?e=CISfHX" ]
   },
   {
     "id": "2016-07",
     "algus": "2016-10-22",
     "lõpp": "2016-10-22",
     "sündmus": "Kontsert: Pantokraator, X-Panda",
-    "koht": "Tartu",
+    "koht": "Tartu, Eesti Rahva Muuseum",
     "esineja": [
       { "nimi": "Pantokraator" },
       { "nimi": "X-Panda" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": [
+      "X-Panda „Reflections“ plaadiesitluskontsert, külalisena Pantokraator.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/7aKyQAmun>https://fb.me/e/7aKyQAmun</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB5tHv5ro7SSKHItzJmnFXXAanXNaKBSiw16n_qn8dHfoI?e=4x3Lud" ]
   },
   {
     "id": "2016-08",
     "algus": "2016-11-25",
     "lõpp": "2016-11-25",
     "sündmus": "Kontsert: Wunda-Ment",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Wunda-Ment" }
     ],
-    "märkmed": "",
-    "pildid": [ "" ]
+    "märkmed": "FB leht: <a href=https://fb.me/e/4yv0TjtkD>https://fb.me/e/4yv0TjtkD</a> - kirjade järgi esinesid ka Harjabakter ja Psychoterror, mul on mälestuseks tehtud vaid mõned udused jäädvustused oma semude bändist.",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBbDKDEa9mESIz-77usPhSDAZGzZPGHFbM8uvbGG2FrrTQ?e=TvMj28" ]
   },
 
   {
@@ -812,7 +842,7 @@
       { "nimi": "DND" }
     ],
     "märkmed": [
-      "DND albumi „Kõikide haiguste ravi“ esitlus.",
+      "DND albumi „Kõikide haiguste ravi“ esitlus + Sibyl Vane (mais oli teistpidi :)).",
       "Sündmuse FB leht: <a href=https://fb.me/e/6hpRdSAfa>https://fb.me/e/6hpRdSAfa</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAk2SxIEyLtR4TiGEV6MJAQAY-CtAE0Q7kcTMFmhiy7uzU?e=6GLjrr" ]
