@@ -199,7 +199,10 @@
       { "nimi": "DND" },
       { "nimi": "Crystal Cloisters" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em> \nAjalukku tagasi vaadates on kõige rohkem kahju, et \"Liqui Fuzz\" enam ei tegutse...",
+    "märkmed": [
+      "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Ajalukku tagasi vaadates on kõige rohkem kahju, et „Liqui Fuzz“ enam ei tegutse - meenub, et see jättis ülihea mulje..."
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCtZMNAORWWSYsp9h86JpN-Acko_HsIfisZFyKbKUQ3MLo?e=ybRfDz" ]
   },
   {
@@ -279,7 +282,7 @@
       { "nimi": "Reds'Cool" },
       { "nimi": "Kolumbus Kris" }
     ],
-    "märkmed": "Äge TASUTA festival Amme jõe ääres. Enamus Tartu tuttavaid karvaseid ja sulelisi on tavaliselt kohal. \nMingi vana telefonirisuga tehtud piltide kvaliteet jätab soovida, aga vähmalt on mälestused jäädvustatud. \nSündmus ise oli 2 päevane ja esines erinevaid artiste, mul on mainitud ainult enda jäädvustused. Keskel olev Reds'Cool peaks olema Peterburist pärit klassikalise hard rock'i ansambel. \n\nKunagine sündmuse FB leht: <a href=https://www.facebook.com/events/607326632624950>https://www.facebook.com/events/607326632624950</a>",
+    "märkmed": "Äge TASUTA festival Amme jõe ääres. Enamus Tartu tuttavaid karvaseid ja sulelisi on tavaliselt kohal. \nMingi vana telefonirisuga tehtud piltide kvaliteet jätab soovida, aga vähmalt on mälestused jäädvustatud. \nSündmus ise oli 2 päevane ja esines erinevaid artiste, mul on mainitud ainult enda jäädvustused. Keskel olev Reds'Cool peaks olema Peterburist pärit klassikalise hard rock'i ansambel. \n\nKunagine sündmuse FB kodukas: <a href=https://www.facebook.com/events/607326632624950>https://www.facebook.com/events/607326632624950</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA2OWPxn7tKQY7bvy6N8ItvARjLSqbVu8rYwvFBvuSqhI8?e=di9J93" ]
   },
   {
@@ -529,8 +532,11 @@
       { "nimi": "Vanemõde" },
       { "nimi": "Six Feet Club" }
     ],
-    "märkmed": "Kui ise Teine Einoga laval olin, siis ei saand endal neist-meist pilte tehtud. Hea, kui leiaks mõnelt pealtvaatajalt mälestuskaadreid!?!",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kui ise Teine Einoga laval olin, siis ei saand endal neist-meist pilte tehtud. Hea, kui leiaks mõnelt pealtvaatajalt mälestuskaadreid!?!",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4ZcazP5sF>https://fb.me/e/4ZcazP5sF</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAp2UAnzdLLTp6_kdVrM1r5Ad4fTRAmNgLBLR0cqbwTGpo?e=6R3kGi" ]
   },
   {
     "id": "2015-05",
@@ -539,10 +545,18 @@
     "sündmus": "Ostrova festival 2015 (osaliselt 1 päev)",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Mäeotsa Kapell" },
+      { "nimi": "Johnny Salamander ja bänd (LVA)" },
+      { "nimi": "Nikns Suns" },
+      { "nimi": "Traffic" },
+      { "nimi": "Seto Miihi Summ" },
+      { "nimi": "Metsatöll" }
     ],
-    "märkmed": "Tore festival Setomaal Ostrova külas. Muidu kahepäevane festival, ma käisin seekord ainult ühel päeval.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Tore festival Setomaal Ostrova külas. Muidu kahepäevane festival, ma käisin seekord ainult ühel päeval.",
+      "Sündmuse FB kodukas, kus arutelus võib ka leida mõningaid pilte: <a href=https://fb.me/e/4XaNvEZTA>https://fb.me/e/4XaNvEZTA</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCf0omKlPpjT57rT2eYecpFAU8YaKCwn5Z3VdfhGfMYkHw?e=KEeyE6" ]
   },
   {
     "id": "2015-06",
@@ -554,7 +568,7 @@
       { "nimi": "Nikns Suns" }
     ],
     "märkmed": "Sai käidud Viljandi Folk festivalil ainult ühel kontserdil, aga see kontsert oli hää!",
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDFmh6glukOQIExHT-bW1CFAbAkC4vvyAn6mBbXGWihWHU?e=Nh6Bxx" ]
   },
   {
     "id": "2015-07",
@@ -621,6 +635,7 @@
     "märkmed": "Jazz Lessons #15 - Helsinki jazz-folk-funk-disco ansambel G-Litter.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC0pMRcx1NTQrpsrI4fHJ-7Af-Ctbr5eKZYyU1igUdXzGI?e=jVfkIA" ]
   },
+
   {
     "id": "2016-01",
     "algus": "2016-02-13",
@@ -650,7 +665,7 @@
     ],
     "märkmed": [
       "The Belka vinüülplaadi „Mehega II Planeedilt esitlus“.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/793pgvDfo>https://fb.me/e/793pgvDfo</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/793pgvDfo>https://fb.me/e/793pgvDfo</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCcemcQgkHnRq6NCqpK9sp7Ab25IBUpUkR7aSrBo55Yx24?e=mMoFYn" ]
   },
@@ -668,7 +683,7 @@
     "märkmed": [
       "„Kuuskümpi punki!“",
       "Seekord olen saand ka paar udukogu enda esinemisest, sai vist telo kellelegi antud jäädvustamiseks. Villu on jäädvustatud lava taga :).",
-      "Sündmuse FB leht: <a href=https://fb.me/e/5H1G2x5NU>https://fb.me/e/5H1G2x5NU</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/5H1G2x5NU>https://fb.me/e/5H1G2x5NU</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBxyWwwxwFyQYrwJErUkutsAWmXZXgx-tXwYplbfYIELT0?e=bbpLc1" ]
   },
@@ -684,7 +699,7 @@
     ],
     "märkmed": [
       "Black Sabbath - „The End“ tuur, sain ka enda nähtud bändide hulka selle gigandi kirja! Soojendas - vist, panin hiljem infot kirja, kui mälu hästi enam suursündmuse väiksemat alguosa detailselt ei mäletanud - Rival Sons, mõned udukogud olen ka algusest jäädvustanud.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/lRcgsH4ll>https://fb.me/e/lRcgsH4ll</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/lRcgsH4ll>https://fb.me/e/lRcgsH4ll</a>",
       "Veel veebileht: <a href=https://www.fbi.lv/en/event/black-sabbath-05-07-2016.ev-652/black-sabbath-uzstashanos-iesildiis-amerikanju-rokgrupa-rival-sons-article.621/>https://www.fbi.lv/en/event/black-sabbath-05-07-2016.ev-652/black-sabbath-uzstashanos-iesildiis-amerikanju-rokgrupa-rival-sons-article.621/</a> - sellelt sain takkajärele info soojendaja kohta."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD8LKoqyfijRLDMgrmMNYeDAYT2bi_z6OYFdHwfQFDYp2k?e=lA6dAT" ]
@@ -700,7 +715,7 @@
     ],
     "märkmed": [
       "Nikns Suns kontsert Tallinna merepäevadel. Sai kaetud laevu ja pärast seda mõnusat folk-rokki!",
-      "Sündmuse FB leht: <a href=https://fb.me/e/7poqOz3lx>https://fb.me/e/7poqOz3lx</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7poqOz3lx>https://fb.me/e/7poqOz3lx</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDN2ebCjW3KSoLWXTlf9weYAcL1ZoXNTrSANHTfSz5MU1E?e=WUIUSF" ]
   },
@@ -713,7 +728,7 @@
     "esineja": [
       { "nimi": "Nevesis" }
     ],
-    "märkmed": "FB leht: <a href=https://fb.me/e/81M1RaChW>https://fb.me/e/81M1RaChW</a> - selle järgi oli sündmus 7.10, aga põhimürgel algas pääle südaööd ja ma olen pannud kuupäeva oma (uduste) jäädvustuste põhjal.",
+    "märkmed": "FB kodukas: <a href=https://fb.me/e/81M1RaChW>https://fb.me/e/81M1RaChW</a> - selle järgi oli sündmus 7.10, aga põhimürgel algas pääle südaööd ja ma olen pannud kuupäeva oma (uduste) jäädvustuste põhjal.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBtTKwCpEf9SI3WxjlNFxZnAZag4TUhR2eLHIJ1KOc_qWw?e=CISfHX" ]
   },
   {
@@ -728,7 +743,7 @@
     ],
     "märkmed": [
       "X-Panda „Reflections“ plaadiesitluskontsert, külalisena Pantokraator.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/7aKyQAmun>https://fb.me/e/7aKyQAmun</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7aKyQAmun>https://fb.me/e/7aKyQAmun</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB5tHv5ro7SSKHItzJmnFXXAanXNaKBSiw16n_qn8dHfoI?e=4x3Lud" ]
   },
@@ -741,7 +756,7 @@
     "esineja": [
       { "nimi": "Wunda-Ment" }
     ],
-    "märkmed": "FB leht: <a href=https://fb.me/e/4yv0TjtkD>https://fb.me/e/4yv0TjtkD</a> - kirjade järgi esinesid ka Harjabakter ja Psychoterror, mul on mälestuseks tehtud vaid mõned udused jäädvustused oma semude bändist.",
+    "märkmed": "FB kodukas: <a href=https://fb.me/e/4yv0TjtkD>https://fb.me/e/4yv0TjtkD</a> - kirjade järgi esinesid ka Harjabakter ja Psychoterror, mul on mälestuseks tehtud vaid mõned udused jäädvustused oma semude bändist.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBbDKDEa9mESIz-77usPhSDAZGzZPGHFbM8uvbGG2FrrTQ?e=TvMj28" ]
   },
 
@@ -757,7 +772,7 @@
     ],
     "märkmed": [
       "Sibyl Vane'i plaadiesitlus + DND",
-      "Sündmuse FB leht: <a href=https://fb.me/e/9Mxk6eOOV>https://fb.me/e/9Mxk6eOOV</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/9Mxk6eOOV>https://fb.me/e/9Mxk6eOOV</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAo_47JnuG8SqD6Ca6KR9P3AZn-vxI2T8wjCsGWAa1yQwE?e=HzaxOH" ]
   },
@@ -774,7 +789,7 @@
     ],
     "märkmed": [
       "Klubi Rock & Roll hooaja lõpukas.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/9Gh5OBr5t>https://fb.me/e/9Gh5OBr5t</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/9Gh5OBr5t>https://fb.me/e/9Gh5OBr5t</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCc8eQztpJ1S50qga1b_3tOAW6odcQd_5Qv1FeE3pP_MI0?e=a5pOnr" ]
   },
@@ -790,7 +805,7 @@
     ],
     "märkmed": [
       "Rammstein Tallinnas. Soojendaja Mustasch, lisasin oma piltide alla ka neilt kunagi ammu saadud autogrammidega pildi, oli vist Rakvere Green Christmas sündmusel. ",
-      "Sündmuse FB leht: <a href=https://fb.me/e/5ommLM8Gz>https://fb.me/e/5ommLM8Gz</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/5ommLM8Gz>https://fb.me/e/5ommLM8Gz</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAA1tDyWtA3T65jEDSDJ_H4AR3GCcafAWFRT1otx2onf5I?e=jIR0JZ" ]
   },
@@ -812,7 +827,7 @@
     ],
     "märkmed": [
       "Jõudsin käia Positivuse festivalil 1. päeval. Läksime sõpradega peamiselt eesmärgiga Pixies ära näha, aga esinejate list oli vägev - kasvõi minu osaliselt nähtu hulgas 2 Läti artisti ja teised US v UK bändid!",
-      "Sündmuse FB leht: <a href=https://fb.me/e/6hWeb1PE2>https://fb.me/e/6hWeb1PE2</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6hWeb1PE2>https://fb.me/e/6hWeb1PE2</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBsi8-lENetQIBjC6jT7AkqASEg_wpwopgUlWtM4VifviM?e=VkFqAj" ]
   },
@@ -827,7 +842,7 @@
     ],
     "märkmed": [
       "Kontsert Genialistide Klubi kõrval Magasini Tänava Suvilas.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/6i2f34slk>https://fb.me/e/6i2f34slk</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6i2f34slk>https://fb.me/e/6i2f34slk</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAtwyripEd2SZ89qrPWvEmXAaadUPSUb1Qo1cDwCHLr2n4?e=L1mUqr" ]
   },
@@ -843,7 +858,7 @@
     ],
     "märkmed": [
       "DND albumi „Kõikide haiguste ravi“ esitlus + Sibyl Vane (mais oli teistpidi :)).",
-      "Sündmuse FB leht: <a href=https://fb.me/e/6hpRdSAfa>https://fb.me/e/6hpRdSAfa</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6hpRdSAfa>https://fb.me/e/6hpRdSAfa</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAk2SxIEyLtR4TiGEV6MJAQAY-CtAE0Q7kcTMFmhiy7uzU?e=6GLjrr" ]
   },
@@ -857,7 +872,7 @@
       { "nimi": "Viikate" },
       { "nimi": "Kosmikud" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/78Nm8O4Lc>https://fb.me/e/78Nm8O4Lc</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/78Nm8O4Lc>https://fb.me/e/78Nm8O4Lc</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBRK1m1VpcTSov96GFPL3q3ATLVNPp24Lc5AKjhY65vYxs?e=711sVO" ]
   },
   {
@@ -870,7 +885,7 @@
       { "nimi": "Tintura" },
       { "nimi": "Nikns Suns" }
     ],
-    "märkmed": "„Urjoh, hunti!“ plaadi esitlus. Sündmuse FB leht: <a href=https://fb.me/e/5SEKcQSdF>https://fb.me/e/5SEKcQSdF</a>",
+    "märkmed": "„Urjoh, hunti!“ plaadi esitlus. Sündmuse FB kodukas: <a href=https://fb.me/e/5SEKcQSdF>https://fb.me/e/5SEKcQSdF</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCSHJ6PPHn8S7xtTg3PUcjfAeIAmOy05Y_Mnfk6VMNk_so?e=LRT0kR" ]
   },
 
@@ -886,7 +901,7 @@
     ],
     "märkmed": [
       "Olid muidu erinevad esinejad, ma olen keskendunud oma sõprade pundile, Kurjam kah vaid paar lavatagust pilti.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/4PS4CYeXn>https://fb.me/e/4PS4CYeXn</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4PS4CYeXn>https://fb.me/e/4PS4CYeXn</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAwzuM4WG1LT6GpGkE6j91mAT1uHo8GFftZy-y0CWSUN24?e=en21fs" ]
   },
@@ -899,7 +914,7 @@
     "esineja": [
       { "nimi": "Pia Fraus" }
     ],
-    "märkmed": "„Field Ceremony“ albumi tuur. Sündmuse FB leht: <a href=https://fb.me/e/4WXPbC3LQ>https://fb.me/e/4WXPbC3LQ</a>",
+    "märkmed": "„Field Ceremony“ albumi tuur. Sündmuse FB kodukas: <a href=https://fb.me/e/4WXPbC3LQ>https://fb.me/e/4WXPbC3LQ</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA2FGTLad9oQ5NFFEu8U9d8AfOo6UgX5ww3S3ux21YJfHc?e=vXc7bb" ]
   },
   {
@@ -949,7 +964,7 @@
       { "nimi": "Killswitch Engage" },
       { "nimi": "Iron Maiden" }
     ],
-    "märkmed": "„Legacy of the Beast“ tuur. Sündmuse FB leht: <a href=https://fb.me/e/7e6nmpWK9>https://fb.me/e/7e6nmpWK9</a>",
+    "märkmed": "„Legacy of the Beast“ tuur. Sündmuse FB kodukas: <a href=https://fb.me/e/7e6nmpWK9>https://fb.me/e/7e6nmpWK9</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBv_sLbsz5HTIRQIA71jX6yAYqD_2xuBgU03BVgFFuS5MQ?e=PwHrIf" ]
   },
   {
@@ -963,7 +978,7 @@
     ],
     "märkmed": [
       "Ma ise pilte ei teinud, olin laval. Aga panin siiski sündmuse kirja, vahest leian kuskilt kedagi, kes mõne jäädvustuse tegi ja saan oma kogusse mõne mälestuse juurde!",
-      "Sündmuse FB leht: <a href=https://fb.me/e/2BxtIgY9y>https://fb.me/e/2BxtIgY9y</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/2BxtIgY9y>https://fb.me/e/2BxtIgY9y</a>"
     ],
     "pildid": [ "" ]
   },  {
@@ -976,7 +991,7 @@
       { "nimi": "Üllar Jörberg" },
       { "nimi": "Kolumbus Kris" }
     ],
-    "märkmed": "Maakaitsepäeva lõpus toimus Nõos jaanipäeva tähistamine jaanitule ja kotserdiga. Sündmuse FB leht: <a href=https://fb.me/e/7odjVAoWz>https://fb.me/e/7odjVAoWz</a>",
+    "märkmed": "Maakaitsepäeva lõpus toimus Nõos jaanipäeva tähistamine jaanitule ja kotserdiga. Sündmuse FB kodukas: <a href=https://fb.me/e/7odjVAoWz>https://fb.me/e/7odjVAoWz</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCpZj488NeqRq4VsbY28SAXAQQ6YFLfbFk_4hRriB5KmZg?e=muOgeA" ]
   },
   {
@@ -998,7 +1013,7 @@
     "märkmed": [
       "Taaskord äge TASUTA festival Amme jõe ääres, kus enamasti enamus Tartu tuttavaid karvaseid ja sulelisi on kohal. Sedapuhku kahekümnes juubel!",
       "Eelnevat arvestades jääb üle imestada vaid, et kuidas ma ise sinna nii vähe kordi kohale sain? ;)",
-      "Aga tookord olin ma isegi nii tubli, et tegin sündmuse lehele mõningaid postitusi, FB leht: <a href=https://fb.me/e/7Y9rXmZmH>https://fb.me/e/7Y9rXmZmH</a>",
+      "Aga tookord olin ma isegi nii tubli, et tegin sündmuse lehele mõningaid postitusi, FB kodukas: <a href=https://fb.me/e/7Y9rXmZmH>https://fb.me/e/7Y9rXmZmH</a>",
       "Takkajärele meenutusi kirja pannes jääb segaseks, et millega täpsemalt oli tegu „James ja Hannu“ nime kandva kollektiivi puhul - nett annab seda otsides mingi klaveriduo vastuseks?! :)"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAUpMBi8YBzSoYanjFLDa6yAUxhb0X1ip8whmGAb09ehVA?e=sR5TUL" ]
@@ -1015,7 +1030,7 @@
     ],
     "märkmed": [
       "Guns N’ Rosesi taasühinemisturnee „Not In This Lifetime“.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/didhK3CjI>https://fb.me/e/didhK3CjI</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/didhK3CjI>https://fb.me/e/didhK3CjI</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD-IvDBtmEdTrRCsQfTRZvAAYm9p_mcNn5xrhHMJHJuTcg?e=HNX0bJ" ]
   },
@@ -1032,7 +1047,7 @@
     ],
     "märkmed": [
       "„The Score World“ tuuri raames tuleb 2Cellos „Rock in Haapsalu“ kotserdile. Toetavad Colours of Bubbles ja Sibyl Vane (ja The Ilves Sisters, kes esines eraldi laval lossi ees, kuid keda ma ei jäädvustanud).",
-      "Sündmuse FB leht: <a href=https://fb.me/e/2QmiSySYt>https://fb.me/e/2QmiSySYt</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/2QmiSySYt>https://fb.me/e/2QmiSySYt</a>",
       "err kajastus ja galerii: <a href=https://eeter.err.ee/848356/galerii-2cellos-meelitas-publiku-haapsalu-lossihoovi>https://eeter.err.ee/848356/galerii-2cellos-meelitas-publiku-haapsalu-lossihoovi</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgASIBXyG43fTKJBDNcpfS8TAYKBHxFh4ekA8ThmoXkjJ6s?e=IcOaha" ]
@@ -1049,7 +1064,7 @@
     ],
     "märkmed": [
       "Ihaste päeva tasuta kontsert, korraldaja Ihaste Selts.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/8aaFC1WxV>https://fb.me/e/8aaFC1WxV</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/8aaFC1WxV>https://fb.me/e/8aaFC1WxV</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDNmfwtkr5_TaxRwJcwG5upAZN9GbNhajYQ_xbCMpUvQyA?e=nimPY1" ]
   },
@@ -1065,7 +1080,7 @@
     ],
     "märkmed": [
       "Suvelõpp Punk-Rock kontsert Rokikas.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/944PCnbuI>https://fb.me/e/944PCnbuI</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/944PCnbuI>https://fb.me/e/944PCnbuI</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgClQWf4mB0NSIVggYVEOEvFAWmshuKfVCYI2D_JquVqzuY?e=GRY4Os" ]
   },
@@ -1080,7 +1095,7 @@
     ],
     "märkmed": [
       "Ühelt sündmuselt teisele - peale Vennaskonna kontserti astusime sõpradega Sõbra Pesa pubist läbi ja seal toimus järgmine kontsert!",
-      "Sündmuse FB leht: <a href=https://fb.me/e/h9zTzT5WA>https://fb.me/e/h9zTzT5WA</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/h9zTzT5WA>https://fb.me/e/h9zTzT5WA</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD59uhCBzJvRqOBVFc_2Fk4AarXBvY64cojihsrBNbtsVk?e=3bV1bX" ]
   },
@@ -1107,7 +1122,7 @@
     ],
     "märkmed": [
       "METRO LUMINAL 30 - juubelituur ja uue plaadi „Üheksast viieni“ esitluskontsert. Solist Robin Juhkental.",
-      "Sündmuse FB leht: https://fb.me/e/6jneheKub"
+      "Sündmuse FB kodukas: https://fb.me/e/6jneheKub"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCHYsAddXkgTZeadR59F5fEAXUEz3SReScHqGAJomxa17o?e=BFOgfg" ]
   },
@@ -1122,7 +1137,7 @@
       { "nimi": "Crimson Day (FIN)" },
       { "nimi": "Herald" }
     ],
-    "märkmed": "„Tunnel Vision Tour 2018“, sündmuse FB leht: <a href=https://fb.me/e/4Qr4JRx6B>https://fb.me/e/4Qr4JRx6B</a>",
+    "märkmed": "„Tunnel Vision Tour 2018“, sündmuse FB kodukas: <a href=https://fb.me/e/4Qr4JRx6B>https://fb.me/e/4Qr4JRx6B</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDkpUzzcyQ4T742EZULBHGkASIpj0hEFeLjXIx0LDsfrPY?e=VFU17I" ]
   },
   {
@@ -1134,7 +1149,7 @@
     "esineja": [
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "„Mustale Merele“ albumi 15 aastat. Sündmuse FB leht: <a href=https://fb.me/e/4LOZJnUcQ>https://fb.me/e/4LOZJnUcQ</a>",
+    "märkmed": "„Mustale Merele“ albumi 15 aastat. Sündmuse FB kodukas: <a href=https://fb.me/e/4LOZJnUcQ>https://fb.me/e/4LOZJnUcQ</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDc8adaRN3ISLOXLBhHbBsJASYJSlq3QKUIE2td2zxfBHU?e=XL8HRw" ]
   },
   {
@@ -1148,7 +1163,7 @@
       { "nimi": "Wunda-Ment" },
       { "nimi": "Kurjam" }
     ],
-    "märkmed": "„Kurioosum“ punkõhtu Rokikas. Sündmuse FB leht: <a href=https://fb.me/e/8A6jHEXwN>https://fb.me/e/8A6jHEXwN</a>",
+    "märkmed": "„Kurioosum“ punkõhtu Rokikas. Sündmuse FB kodukas: <a href=https://fb.me/e/8A6jHEXwN>https://fb.me/e/8A6jHEXwN</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRbYXDLd8USq8-BvZ_aMwDAdjzOehAdds6z-HlwUjg7V8?e=iuHQbx" ]
   },
 
@@ -1176,7 +1191,7 @@
     ],
     "märkmed": [
       "Eesti oma The Doorsi tribüütgrupp, Taavi Petrson jt. Toetab Mockingbird.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/5G0CCnOKw>https://fb.me/e/5G0CCnOKw</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/5G0CCnOKw>https://fb.me/e/5G0CCnOKw</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDgjUjrwK9VSJfo-F-Ly0n0Ab2t0wX5RLcYFtWaEeMoND0?e=eRXElo" ]
   },
@@ -1190,7 +1205,7 @@
       { "nimi": "Keldriline heli" },
       { "nimi": "Väntorel" }
     ],
-    "märkmed": "ETK Legendid: Väntorel / Keldriline Heli koostöös Otsa kooli noortega taaselustasid tükikese ajalugu. Sündmuse FB leht: <a href=https://fb.me/e/kwf0NPlXj>https://fb.me/e/kwf0NPlXj</a>",
+    "märkmed": "ETK Legendid: Väntorel / Keldriline Heli koostöös Otsa kooli noortega taaselustasid tükikese ajalugu. Sündmuse FB kodukas: <a href=https://fb.me/e/kwf0NPlXj>https://fb.me/e/kwf0NPlXj</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDPwT2mrb3DQ7dblddQ7_S_AQy5CK7xPEC9kx6cU7k9XOE?e=ntysdP" ]
   },
   {
@@ -1215,7 +1230,7 @@
       { "nimi": "Square" },
       { "nimi": "Toonelised" }
     ],
-    "märkmed": "Square albumi „Vaibub kaja“ esitluskontsert. Sündmuse FB leht: <a href=https://fb.me/e/aOc7vZYqt>https://fb.me/e/aOc7vZYqt</a>",
+    "märkmed": "Square albumi „Vaibub kaja“ esitluskontsert. Sündmuse FB kodukas: <a href=https://fb.me/e/aOc7vZYqt>https://fb.me/e/aOc7vZYqt</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCUIxIYofT7TIhRNZM8Wb8NASaE0sp3xu_GJ5fP3aNulvI?e=dePQPd" ]
   },
   {
@@ -1252,7 +1267,7 @@
       { "nimi": "Sõpruse Puiestee" },
       { "nimi": "DND" }
     ],
-    "märkmed": "„Selle suve algus“ kontsert. Sündmuse FB leht: <a href=https://fb.me/e/24hUhWJP04>https://fb.me/e/24hUhWJP04</a>",
+    "märkmed": "„Selle suve algus“ kontsert. Sündmuse FB kodukas: <a href=https://fb.me/e/24hUhWJP04>https://fb.me/e/24hUhWJP04</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCf5uMywmYESbyhz_51dRrzAa0_YaDilPyvJyqxITmSHeY?e=3ggLTZ" ]
   },
   {
@@ -1268,7 +1283,7 @@
     ],
     "märkmed": [
       "„This House Is Not For Sale“ tuur, Bon Jovi toetavad Santa Cruz Soomest ja meite Terminaator.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/4626QYlZ7>https://fb.me/e/4626QYlZ7</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4626QYlZ7>https://fb.me/e/4626QYlZ7</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBq-KVBJHoZQIon58T1jIjLAWxF8oMEKhHaQDwPKZ-oUCU?e=1Xt5J0" ]
   },
@@ -1283,7 +1298,7 @@
     ],
     "märkmed": [
       "Kontsert Genialistide Klubi kõrval Magasini Tänava Suvilas. Sõbrad tulivad taas kokku meeleolukaks õhtuks!",
-      "Sündmuse FB leht: <a href=https://fb.me/e/7fVGcrsF2>https://fb.me/e/7fVGcrsF2</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7fVGcrsF2>https://fb.me/e/7fVGcrsF2</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAj3vPENKz3SLMq1tX-WElNATMX4B-pTL1F24Hkka64lZI?e=qNJ3wX" ]
   },
@@ -1300,7 +1315,7 @@
     ],
     "märkmed": [
       "„WorldWired Tour“ Tartus Eesti Rahva Muuseumi taga Raadi lennuväljal. Kuskilt olen saand ka Metallica konsa audio, mis ka piltide alla lisatud.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/bPpQ2M4no>https://fb.me/e/bPpQ2M4no</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/bPpQ2M4no>https://fb.me/e/bPpQ2M4no</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCBsaFUVs2sSK5HVNnzoayFAaDuMeElmHXR_QfjXNSybrE?e=AIGcrk" ]
   },
@@ -1331,7 +1346,7 @@
     ],
     "märkmed": [
       "Diversicolor esitleb debüütplaati + Ans. Andur & Wrupk Urei Aparaaditehase Armastuse saalis. Lisainfona anti teada, et „NÄITLEJA HAIGESTUMISE TÕTTU esineb täna Ans. Anduri asemel lihtsalt Andur. Kavas on Ans. Anduri kaverid.“. Ma panin ikka ajalukku Ans. kirja :).",
-      "Sündmuse FB leht: <a href=https://fb.me/e/cMFAYRyd8>https://fb.me/e/cMFAYRyd8</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/cMFAYRyd8>https://fb.me/e/cMFAYRyd8</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBBGJ0nZ1NPTYJDlV0DJp7QAa05Qla9R9I0DC7j6atKWE8?e=KOA0wa" ]
   },
@@ -1348,7 +1363,7 @@
     ],
     "märkmed": [
       "Sai käidud Neitsovi kontserdil „Pärdist Metallicani“ ja mõni üksik jäädvustus mälestuseks tehtud.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/ozRtF93gS>https://fb.me/e/ozRtF93gS</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/ozRtF93gS>https://fb.me/e/ozRtF93gS</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBp9NvVvW_TTI-2DGfhdqFxAaIcLN0uHYDCNZCr5PFNe5I?e=GNd43u" ]
   },
@@ -1362,7 +1377,7 @@
       { "nimi": "Pööloy Gläänz" },
       { "nimi": "Contra (Margus Konnula)" }
     ],
-    "märkmed": "Pööloy Gläänz 30 + Contra Tartus. Sündmuse FB leht: <a href=https://fb.me/e/7nYa3C3qV>https://fb.me/e/7nYa3C3qV</a>",
+    "märkmed": "Pööloy Gläänz 30 + Contra Tartus. Sündmuse FB kodukas: <a href=https://fb.me/e/7nYa3C3qV>https://fb.me/e/7nYa3C3qV</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCI7GxQRsEiTaK66Nw5krrRAZzcw22u-mSrxdQ41b99m5Q?e=cPdSqT" ]
   },
   {
@@ -1375,7 +1390,7 @@
       { "nimi": "ToraBora" },
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "„Sügisromantika“ kontsert. Sündmuse FB leht: <a href=https://fb.me/e/4NjvIkH8Y>https://fb.me/e/4NjvIkH8Y</a>",
+    "märkmed": "„Sügisromantika“ kontsert. Sündmuse FB kodukas: <a href=https://fb.me/e/4NjvIkH8Y>https://fb.me/e/4NjvIkH8Y</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgALyx_SWlCuR6mJXYMI4y2oAQJtJDA6fPj4953Lb-8r-qI?e=i787cg" ]
   },
   {
@@ -1389,7 +1404,7 @@
     ],
     "märkmed": [
       "Aastalõpukontsert ERM-is, mõned udused kaadrid said mälestuseks ja meenutuseks tehtud.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/6jkcQG4xB>https://fb.me/e/6jkcQG4xB</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6jkcQG4xB>https://fb.me/e/6jkcQG4xB</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA8iB_vy_NESLq-aVYaGo_BAetjGUIbCWmBoxfxeY1q0Qk?e=4eI0xr" ]
   },
@@ -1406,7 +1421,7 @@
     ],
     "märkmed": [
       "Aparaaditehase Armastuse saalis Pia Fraus „Empty Parks Tour“.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/4QtQPPk5d>https://fb.me/e/4QtQPPk5d</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4QtQPPk5d>https://fb.me/e/4QtQPPk5d</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCQCChTIDclR4aKcBH6IrpXAUJRLIpLMbdLeHmuao8aav0?e=KDlnxk" ]
   },
@@ -1421,7 +1436,7 @@
     ],
     "märkmed": [
       "Oli „Eesti Vabariigi eelpidu“, käisin koos sõber Känkariga Sarve kaemas. :)",
-      "Sündmuse FB leht: <a href=https://fb.me/e/bnRo4Calq>https://fb.me/e/bnRo4Calq</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/bnRo4Calq>https://fb.me/e/bnRo4Calq</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAqpORJ1fqZTqMJiFOJl2hpAW3ZzDPltrthcvn7bCCNtaM?e=2Ju70f" ]
   },
@@ -1451,7 +1466,7 @@
     "märkmed": [
       "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival!",
       "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07.",
-      "Sündmuse FB leht, seal arutelus võib vast leida viiteud ka mu poolt jäädvustamata osale: <a href=https://fb.me/e/2lXMNEopr>https://fb.me/e/2lXMNEopr</a>"
+      "Sündmuse FB kodukas, seal arutelus võib vast leida viiteud ka mu poolt jäädvustamata osale: <a href=https://fb.me/e/2lXMNEopr>https://fb.me/e/2lXMNEopr</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
   },
@@ -1478,7 +1493,7 @@
     ],
     "märkmed": [
       "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb. Esimese päeva alustaja Sitaharakas jäi mul nägemata. Teine päev ei näind Koopaorav punti ja Eterniit sai kaadrid ainult lõpetusest.",
-      "Sündmuse FB leht, seal arutelus ka teiste piltide ja videote viiteid: <a href=https://fb.me/e/aFW3XPZQZ>https://fb.me/e/aFW3XPZQZ</a>"
+      "Sündmuse FB kodukas, seal arutelus ka teiste piltide ja videote viiteid: <a href=https://fb.me/e/aFW3XPZQZ>https://fb.me/e/aFW3XPZQZ</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCPBKYp0by5RbKc6VuAV1tYAX4QA6sddIHdwwLHWHcfEvE?e=FgZh9y" ]
   },
@@ -1498,7 +1513,7 @@
     ],
     "märkmed": [
       "Tore festival Setomaal Ostrova külas, toimub juba 10. korda. Muidu kahepäevane festival, ma käisin seekord ainult ühel päeval.",
-      "Sündmuse FB leht, kus on lisainfot ja viiteid „päris“ piltidele: <a href=https://fb.me/e/4gJDwug8h>https://fb.me/e/4gJDwug8h</a>"
+      "Sündmuse FB kodukas, kus on lisainfot ja viiteid „päris“ piltidele: <a href=https://fb.me/e/4gJDwug8h>https://fb.me/e/4gJDwug8h</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCHWRlxUcIyQrjKQplIGBR5AV9S1bMUSmkLo7kbhX_4JuA?e=h3bXf9" ]
   },
@@ -1579,7 +1594,7 @@
       "COVID järelkaja, ainult Eesti esinejad.",
       "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/ht06VizGD>https://fb.me/e/ht06VizGD</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/ht06VizGD>https://fb.me/e/ht06VizGD</a>",
       "Üks hea ülevaade internetiavarustest - jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/</a> "
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC_rueyDaiiSqoAckxLvmjmAXgbhlcQPK5V4XDD5AJCAmw?e=JDYl49" ]
@@ -1597,7 +1612,7 @@
       "„Autovabaduse puiestee“ raames kontsert Tartu kesklinnas.",
       "„Emajõe rock“ kontsert, kus tulevat ka rockooper „Johnny“ muusikat, aga muidugi ka Led Zeppelini. Led R koosseis: Indrek Patte - laul, Jaanus Nõgisto - kitarr, Igor Garšnek - klahvpillid, Priit Kuulberg - basskitarr, Andrus Lillepea - trummid",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/9ia0z77Gc>https://fb.me/e/9ia0z77Gc</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/9ia0z77Gc>https://fb.me/e/9ia0z77Gc</a>",
       "Postimehe kajastus: <a href=https://tartu.postimees.ee/7289189/autovabaduse-puiestee-avab-rokk-kontsert-emajoel>https://tartu.postimees.ee/7289189/autovabaduse-puiestee-avab-rokk-kontsert-emajoel</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCCHOut5DK0TZ8-7Wta3cYVAbGUcdFG_r5bNEPzsQqkQt8?e=yND0NV" ]
@@ -1626,7 +1641,7 @@
     ],
     "märkmed": [
       "Oli sündmuste sari „Folk rokib Tartus“, ma jõudsin esimest kontserti kaema.",
-      "Tehti ka veebiülekandeid, kajastas FB leht: <a href=https://fb.me/e/2cAU0Lpqf>https://fb.me/e/2cAU0Lpqf</a>"
+      "Tehti ka veebiülekandeid, kajastas FB kodukas: <a href=https://fb.me/e/2cAU0Lpqf>https://fb.me/e/2cAU0Lpqf</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgALcPISk0EWRZFQc-sDVCrQAexyys8ZYucEcUD02vztyvk?e=sQJxmk" ]
   },
@@ -1675,7 +1690,7 @@
       "Kodulinna pungi ja roki festival, kuhu kohalik ja kohati ka kaugemalt kamraadide kaader kokku koguneb.",
       "Sai taas käidud ja semudega suheldud ja muusikat nauditud. Kavas olnud Swamp Mine on mul kuidagi vahele jäänud. Teise päeva õhtul-öösel on Undergroundi aftekalt aga lisaks Pööloy Gläänz.",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/1EI1Kc3kn>https://fb.me/e/1EI1Kc3kn</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/1EI1Kc3kn>https://fb.me/e/1EI1Kc3kn</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA7Mrp4rK-dR6wOSdiOvPGkAVDN8xYehLORk4EnrUzxwqs?e=pIVHOK" ]
   },
@@ -1723,8 +1738,8 @@
     "märkmed": [
       "Tulede öö raames sai isegi 2 eri kontserti käidud, Stas ja Tõun nägin paraku ainult lõppu, Metsatöllu sai veidi rohkem kaedud.",
       "",
-      "Stas ja Tõun kontserdi FB leht: <a href=https://fb.me/e/2CXt5m9Ko>https://fb.me/e/2CXt5m9Ko</a>",
-      "Metsatöll kontserdi FB leht: <a href=https://fb.me/e/1GFjqOj0s>https://fb.me/e/1GFjqOj0s</a>"
+      "Stas ja Tõun kontserdi FB kodukas: <a href=https://fb.me/e/2CXt5m9Ko>https://fb.me/e/2CXt5m9Ko</a>",
+      "Metsatöll kontserdi FB kodukas: <a href=https://fb.me/e/1GFjqOj0s>https://fb.me/e/1GFjqOj0s</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDb5aLvNmH1R6Xvdz6isUIsAWiF-FPLPbc1I4jCPv9OaWY?e=rLZ6AR" ]
   },
@@ -1738,7 +1753,7 @@
       { "nimi": "Torabora" },
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "Luulelised tekstid ja rännakule viiv muusika. \nSündmuse FB leht: <a href=https://fb.me/e/XJ0xKYia>https://fb.me/e/XJ0xKYia</a>",
+    "märkmed": "Luulelised tekstid ja rännakule viiv muusika. \nSündmuse FB kodukas: <a href=https://fb.me/e/XJ0xKYia>https://fb.me/e/XJ0xKYia</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB14lqnzwGTSpSgt6Vk8TP4AXqEF3UgVdYlHnGPgwcOncc?e=5ItdXb" ]
   },
   {
@@ -1756,7 +1771,7 @@
       "Ansambel КИНО lugusid esitab bänd koosseisus: Janno Reim, Stansislav Bulganin, Jaan Aruväli, Mati Sütt.",
       "Õhtule lisab värvi Tartu hämaratest prooviruumidest pärit luulelised meloodiad ansambliga Hilisejad.",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/46HBOzIwU>https://fb.me/e/46HBOzIwU</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/46HBOzIwU>https://fb.me/e/46HBOzIwU</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDjhGpCrqIzSJDt_NjEZ90UASXXJYyTE8qmujSephXV1z4?e=nWGWhe" ]
   },
@@ -1770,7 +1785,7 @@
       { "nimi": "Torabora" },
       { "nimi": "August Urr" }
     ],
-    "märkmed": "Folk N Roll & sõbrad mängimas „luulerokki“. \nSündmuse FB leht: <a href=https://fb.me/e/3bmLrlMqU>https://fb.me/e/3bmLrlMqU</a>",
+    "märkmed": "Folk N Roll & sõbrad mängimas „luulerokki“. \nSündmuse FB kodukas: <a href=https://fb.me/e/3bmLrlMqU>https://fb.me/e/3bmLrlMqU</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCAVz_Epl0HTp_i1p8B3FpFAYoFGcbwAUn5Vmk6vzFr7PM?e=f9lRWq" ]
   },
   {
@@ -1782,7 +1797,7 @@
     "esineja": [
       { "nimi": "Toomas Vanem" }
     ],
-    "märkmed": "Toomas Vanem Kvartett, kitarristiga liituvad Henno Kelp bassil, Andrus Lillepea trummidel ja Runno Tamra klahvpillidel. \nSündmuse FB leht: <a href=https://fb.me/e/3sARuq7EW>https://fb.me/e/3sARuq7EW</a>",
+    "märkmed": "Toomas Vanem Kvartett, kitarristiga liituvad Henno Kelp bassil, Andrus Lillepea trummidel ja Runno Tamra klahvpillidel. \nSündmuse FB kodukas: <a href=https://fb.me/e/3sARuq7EW>https://fb.me/e/3sARuq7EW</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCOBuCdBFFTSbdpoBj5CHXcAZ5z-3VTjq9ERbo2Ywrv85E?e=FTUjpR" ]
   },
   {
@@ -1848,7 +1863,7 @@
     "märkmed": [
       "Järjekordne kodulinna tore festival, kus lisaks muusika nautimisele on ka kamraadidega kena kohtuda!",
       "Mul on ka mõned jäädvustused aftekatelt Underground klubis. Puudu on teise päeva alustaja Paranarkar.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/28v7Vx7Gv>https://fb.me/e/28v7Vx7Gv</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/28v7Vx7Gv>https://fb.me/e/28v7Vx7Gv</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAzBAL3VcNGR4VPSNQPKGQtAUi0Kj4hSV5jf-sT9MS3Ym4?e=zSeerw" ]
   },
@@ -1863,7 +1878,7 @@
     ],
     "märkmed": [
       "Autovabaduse puiestee “Tartu 2024 esitleb” kontsertsarja lõpetab Ewert and The Two Dragons. TASUTA! :)",
-      "Sündmuse FB leht: <a href=https://fb.me/e/3vftFLmvz>https://fb.me/e/3vftFLmvz</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/3vftFLmvz>https://fb.me/e/3vftFLmvz</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC5IAntiDcBTrN9HVjLP0yBAZI6Dg9wkJRhY5cGv_nV30Y?e=71rgLz" ]
   },
@@ -1877,7 +1892,7 @@
       { "nimi": "erinevad esinejad..." }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/33xuQ2UkU>https://fb.me/e/33xuQ2UkU</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/33xuQ2UkU>https://fb.me/e/33xuQ2UkU</a>",
       "Oi, see oli ilus! Ostsin ka raamatu. Loe ka FB lehelt kirjeldust, esinejate väljavõte:",
       "Kontserdil astuvad üles Marek Sadam, Jarek Kasar, Teele Viira, Laura Prits, Tanja Mihhailova-Saar, Katre Randmaa-Tamm. Pillidel musitseerivad Lea sõbrad Henno Kelp, Roland Puusepp, Elmar Liitmaa, Are Jaama, Tarmo Sillaots, Virgo Veldi, Hele-Riin Uib ja Martin Trudnikov"
     ],
@@ -1912,7 +1927,7 @@
     ],
     "märkmed": [
       "Legendaarse ansambli КИНО muusikat esitavad koos bändiga Janno Reim ja Stanislav Bulganin. Soojendab Planespotters. Endal sai nii Stasi kui Tulvikuga tutvust soojendatud.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/3CB0iPDke>https://fb.me/e/3CB0iPDke</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/3CB0iPDke>https://fb.me/e/3CB0iPDke</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgChEsCFJMiGQKZf1zrFs2nvAVSJa-qm0wQc6GKGEsRI2Yo?e=ADPfsy" ]
   },
@@ -1926,7 +1941,7 @@
       { "nimi": "Jaxy" },
       { "nimi": "Dramamama" }
     ],
-    "märkmed": "Dramamama albumi „Doomsday Tango“ esitlus. Külalisesinejana astub üle aastate lavale ansambel Jaxy. Just viimane oli mulle paras nostalgialaks! \nSündmuse FB leht: <a href=https://fb.me/e/2Uth1FxkM>https://fb.me/e/2Uth1FxkM</a>",
+    "märkmed": "Dramamama albumi „Doomsday Tango“ esitlus. Külalisesinejana astub üle aastate lavale ansambel Jaxy. Just viimane oli mulle paras nostalgialaks! \nSündmuse FB kodukas: <a href=https://fb.me/e/2Uth1FxkM>https://fb.me/e/2Uth1FxkM</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCZaxw6yVUfTZaJnGpP20epAclq4WcNpmeMFTtoSi7hTOI?e=2Yhuud" ]
   },
   {
@@ -1939,7 +1954,7 @@
       { "nimi": "Koopaorav" },
       { "nimi": "Velikije Luki" }
     ],
-    "märkmed": "Velikije Luki 40 - Tartu põleb, toetab kohalik Koopaorav. \nSündmuse FB leht: <a href=https://fb.me/e/2kVKJuppV>https://fb.me/e/2kVKJuppV</a>",
+    "märkmed": "Velikije Luki 40 - Tartu põleb, toetab kohalik Koopaorav. \nSündmuse FB kodukas: <a href=https://fb.me/e/2kVKJuppV>https://fb.me/e/2kVKJuppV</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC0u5saEC5hS6Kpd6wqExCOAbJbWMJHGUttcVPPhu-gg08?e=5wJebd" ]
   },
   {
@@ -1953,7 +1968,7 @@
       { "nimi": "August Urr" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/2xVs2lvjq>https://fb.me/e/2xVs2lvjq</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/2xVs2lvjq>https://fb.me/e/2xVs2lvjq</a>",
       "Lõpuks Tartus kaua oodatud folk-punk ans. Pärnust, toetamas Tartu luulerokk. Käisin taas sõpru kaemas!"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA7re83kfANQKke5fjQS5HZAbiC6trzc-9m017ZFoqovnE?e=FelJTQ" ]
@@ -1968,7 +1983,7 @@
       { "nimi": "YE" },
       { "nimi": "Elephants From Neptune" }
     ],
-    "märkmed": "Elephants From Neptune albumi „Boogieland“ esitluskontsert. Soojendaja venekeelne YE oli ka päris mõnusa vaibiga, tublid noored! \nSündmuse FB leht: <a href=https://fb.me/e/2W0WWSFHX>https://fb.me/e/2W0WWSFHX</a>",
+    "märkmed": "Elephants From Neptune albumi „Boogieland“ esitluskontsert. Soojendaja venekeelne YE oli ka päris mõnusa vaibiga, tublid noored! \nSündmuse FB kodukas: <a href=https://fb.me/e/2W0WWSFHX>https://fb.me/e/2W0WWSFHX</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAov83CU43mQ5Hvy-rUcfYxAe1-uW38rbSQr2NpUlvPAQ8?e=GHTg4U" ]
   },
 
@@ -1983,7 +1998,7 @@
     ],
     "märkmed": [
       "Sel kontserdil oli jube turvade poolt jälgimine, et keegi ei teeks mingeid jäädvustusi. Ma mõne „keelatud võtte“ sain ikka mälestuseks, kuskilt netist ka üks videoklipike.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/aGHzduvhV>https://fb.me/e/aGHzduvhV</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/aGHzduvhV>https://fb.me/e/aGHzduvhV</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD10TWv2GUUQa7_hFH6xgO0ATid1qkcWGKB9eqsAo5mZ1s?e=jLtSXX" ]
   },
@@ -1997,7 +2012,7 @@
       { "nimi": "The Iron Maidens" },
       { "nimi": "Accept" }
     ],
-    "märkmed": "„Too Mean To Die“ tuur. \nSündmuse FB leht: <a href=https://fb.me/e/5sCfDgsOO>https://fb.me/e/5sCfDgsOO</a>",
+    "märkmed": "„Too Mean To Die“ tuur. \nSündmuse FB kodukas: <a href=https://fb.me/e/5sCfDgsOO>https://fb.me/e/5sCfDgsOO</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD40A-sjyrHTbFh6ABsEg88ATW_8M7Vzhl-pRp_-Oc5P60?e=aCiRMF" ]
   },
   {
@@ -2042,7 +2057,7 @@
       "Osutus igati kenaks kontserdiks Läti looduses! Parajalt pisike, sõbralik seltskond, hää muusika - mõnus lõõgastus.",
       "Peamiselt esinesid Läti bändid, oli päris huvitavaid artiste, kellest muidu midagi kuulnud ei ole. Meitelt oli külaliseks Talbot, kelle kaudu vahest sõber selle ürituse avastaski, lisaks üks Soome bänd. Meenub veel, et öö oli üsna jahe ja magasin halvasti, teise päeva jäädvustused on veidi „auklikud“ - küllap proovisin siis veel pisut puhata :). Üliselt oli sündmus ikka üpris „kohalik“ ja kõigest hästi aru ei saanud, mis toimub, aga üritasin mingi veebi kava ja otsingute põhjal kuidagi oma piltidele nimed juurde saada, loodetavasti väga mööda ei pane... Kui vigu leiate, andke aga teada!",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/11whyQXHX>https://fb.me/e/11whyQXHX</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/11whyQXHX>https://fb.me/e/11whyQXHX</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCcktbtTeegQ6ru5M_DIdPNAVU-xsODFpB7tSW2iiGOEmo?e=fgKN14" ]
   },
@@ -2058,7 +2073,7 @@
     ],
     "märkmed": [
       "Meenub, et kontsert oli välja müüdud ja oli suht kitsas ning palav ja ei jäändki väga muud üle, kui asja „posti tagant“ kaeda nigu see Helitehase eripära on.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/165sbspdG>https://fb.me/e/165sbspdG</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/165sbspdG>https://fb.me/e/165sbspdG</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRS26ZZgR6R7d1_biGrCOLARqE2oqkginlt14UNjirknw?e=v5IIM4" ]
   },
@@ -2092,7 +2107,7 @@
       "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Māra (LVA) 01.07, Ūkanose (LTU) 01.07, Intrepid 01.07, Evil Invaders 01.07 (BEL)",
       "Päris mitu bändi jäi suisa nägemata - see on see vahepealne „laagrimelus“ olemine, kui tegeled sekka puhkamise ja mängimisega :). Ūkanose Leedust - neid isegi põgusalt möödaminnes nägin, kui ujumas käisin, isegi meeldis, aga telo polnd kaasas ja laval olekut pildile ei saand, samas olid nad telklas meie naabruses ja seal sai mõned jämmikaadrid tehtud.",
       "",
-      "Sündmuse FB leht, kus arutelus leidub ka pilta-värka: <a href=https://fb.me/e/2BApNxlZ3>https://fb.me/e/2BApNxlZ3</a>",
+      "Sündmuse FB kodukas, kus arutelus leidub ka pilta-värka: <a href=https://fb.me/e/2BApNxlZ3>https://fb.me/e/2BApNxlZ3</a>",
       "Internetiavarustest jee7'e blog, loodetavasti jääb see püsima läbi aegade (leian ka end mõnel tema pildil): <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2023/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2023/</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDyrcI1raF3TaWADmyZMKxUAaQ6sqN1PKb2rWDGSwp3TV4?e=EFrL21" ]
@@ -2119,7 +2134,7 @@
     ],
     "märkmed": [
       "Jõudsin ka lõpuks sellele toredale festivalile Käbliku pruulikojas looduse rüpes (ja hakkasin ka edaspidi käima).",
-      "Sündmuse FB leht: <a href=https://fb.me/e/18PikIJbq>https://fb.me/e/18PikIJbq</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/18PikIJbq>https://fb.me/e/18PikIJbq</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAljQRgWEZERZweCbAvTs43AQOO_lH4ghTTDrV3gjTUGRA?e=cFkwoK" ]
   },
@@ -2135,7 +2150,7 @@
       { "nimi": "Justament" },
       { "nimi": "Traffic" }
     ],
-    "märkmed": "Muidu kahepäevane festival, aga ma jõudsin teise päeva viimaseid esinejaid näha. \nSündmuse FB leht: <a href=https://fb.me/e/2RlgnXliW>https://fb.me/e/2RlgnXliW</a>",
+    "märkmed": "Muidu kahepäevane festival, aga ma jõudsin teise päeva viimaseid esinejaid näha. \nSündmuse FB kodukas: <a href=https://fb.me/e/2RlgnXliW>https://fb.me/e/2RlgnXliW</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBKTWfj4tTWQ7dAZOIJPUIuAdEoJzCDfg-G3w4KnFraGGc?e=FRn1W8" ]
   },
   {
@@ -2165,7 +2180,7 @@
       "Esimene õhta pidin ma ühele teisele sündmusele suunduma ja jäid nägemata Kurjam, Inokentijs Märpls, Sõpruse Puiestee. Ei jõudnud see õhta ka UG aftekale, kus esinesid M?nnivardad, NO Ei, Eterniit. Teine päiv sai kõik kaedu ja ka järelpeol käidu.",
       "Selle sündmuse mälestustes olen piltidele lisaks kogunud ka mõned veebilingid, kus salvestusi selle kontserdi esinejatest.",
       "",
-      "Sündmuse FB leht, kus ka viiteid teistele piltidele jms: <a href=https://fb.me/e/12l5Wbtri>https://fb.me/e/12l5Wbtri</a>"
+      "Sündmuse FB kodukas, kus ka viiteid teistele piltidele jms: <a href=https://fb.me/e/12l5Wbtri>https://fb.me/e/12l5Wbtri</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAV5MdlVN4AS4M9U9ALAxxXAbvxZX0Pm0QOZZpcWijV1ZM?e=BnhDcH" ]
   },
@@ -2191,7 +2206,7 @@
       { "nimi": "Metsatöll" },
       { "nimi": "Eesti Rahvusmeeskoor" }
     ],
-    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres (tasuta!). Oli rahvast, oli õhta ja pilvine (pildid hämaruses üsna udused), kohati kõuekuma taustal taevast täitis. \nSündmuse FB leht: <a href=https://fb.me/e/1pQlqnCch>https://fb.me/e/1pQlqnCch</a>",
+    "märkmed": "Kontsert Võru linna päevadel Tamula järve ääres (tasuta!). Oli rahvast, oli õhta ja pilvine (pildid hämaruses üsna udused), kohati kõuekuma taustal taevast täitis. \nSündmuse FB kodukas: <a href=https://fb.me/e/1pQlqnCch>https://fb.me/e/1pQlqnCch</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCdrlztIEgcSJJ4FRTv8x-eAWNQJugKk7AVKS0mxKafpNk?e=gqkxN7" ]
   },
   {
@@ -2208,7 +2223,7 @@
       "Indrek Patte, kes on mu tuttava tuttav, plaadi IN esitluskontsert, külaliseks Permanent Blue.",
       "Mul sai kohe 2 õhtut järjest klubis Tapper käidud. Täiendavalt saab meeleolu kohta lugeda järgnevas Sirenia jt. kontserdi mälestustes, lühidalt võin öelda, et see kontsert meeldis mulle! :)",
       "",
-      "Selle sündmuse FB leht: <a href=https://fb.me/e/1gXuxH8BW>https://fb.me/e/1gXuxH8BW</a>"
+      "Selle sündmuse FB kodukas: <a href=https://fb.me/e/1gXuxH8BW>https://fb.me/e/1gXuxH8BW</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC3o6FFsGh7RYGoc3ywvC62AdAq7BL1rEvFZjjjI-QFXdo?e=XikKea" ]
   },
@@ -2225,7 +2240,7 @@
       { "nimi": "Sirenia (NOR)" }
     ],
     "märkmed": [
-      "„Symphonic Metal Nights“ sündmuse FB leht: <a href=https://fb.me/e/19pIQFLzz>https://fb.me/e/19pIQFLzz</a>",
+      "„Symphonic Metal Nights“ sündmuse FB kodukas: <a href=https://fb.me/e/19pIQFLzz>https://fb.me/e/19pIQFLzz</a>",
       "",
       "",
       "Oli meeleolukas kontsert ja ma panin kirja mõned mälestused sellest.",
@@ -2275,8 +2290,8 @@
     ],
     "märkmed": [
       "Kaks ühes üritust - töllerdasin Rock & Roll klubi „Hell“ ja „Heaven“ vahel, kus olid justkui eraldi sündmused, aga sai samas majas üles-alla mõlemal käidud.",
-      "Rock & Roll Zorg ja Redneck Rampage FB leht: <a href=https://fb.me/e/bp81a8OIC>https://fb.me/e/bp81a8OIC</a>",
-      "Hell soome pungi ja Sharpnelle FB leht: <a href=https://fb.me/e/46MhsbFMa>https://fb.me/e/46MhsbFMa</a>"
+      "Rock & Roll Zorg ja Redneck Rampage FB kodukas: <a href=https://fb.me/e/bp81a8OIC>https://fb.me/e/bp81a8OIC</a>",
+      "Hell soome pungi ja Sharpnelle FB kodukas: <a href=https://fb.me/e/46MhsbFMa>https://fb.me/e/46MhsbFMa</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAEfbxJt5zORZj01WGo29q_ARY_mmb23ZOUitfHR9LtG8E?e=VLFNc6" ]
   },
@@ -2302,7 +2317,7 @@
     "esineja": [
       { "nimi": "Jäääär" }
     ],
-    "märkmed": "„Rock arranžeering“ - JÄÄÄÄR peab Tartus, klubis Rock & Roll 33. sünnipäeva ROCKbändina! \nSündmuse FB leht: <a href=https://fb.me/e/1NfUziQT4>https://fb.me/e/1NfUziQT4</a>",
+    "märkmed": "„Rock arranžeering“ - JÄÄÄÄR peab Tartus, klubis Rock & Roll 33. sünnipäeva ROCKbändina! \nSündmuse FB kodukas: <a href=https://fb.me/e/1NfUziQT4>https://fb.me/e/1NfUziQT4</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBlDNtg_8-sRbt318INH6bmASrMkwzhtWkX7Xdvt8k28O8?e=nKfAb3" ]
   },
   {
@@ -2315,7 +2330,7 @@
       { "nimi": "Sitimaan" },
       { "nimi": "The Boondocks" }
     ],
-    "märkmed": "„Stupid Cupid“ mikro-tuur. \nSündmuse FB leht: <a href=https://fb.me/e/8uDvbtblM>https://fb.me/e/8uDvbtblM</a>",
+    "märkmed": "„Stupid Cupid“ mikro-tuur. \nSündmuse FB kodukas: <a href=https://fb.me/e/8uDvbtblM>https://fb.me/e/8uDvbtblM</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAIS6ZwpVsbSLKvzkz6nL5JAdEerZeGoytrGEQoR6f1lMo?e=mrIz7Y" ]
   },
   {
@@ -2327,7 +2342,7 @@
     "esineja": [
       { "nimi": "The Dire Straits Experience" }
     ],
-    "märkmed": "Legendaarse Dire Straitsi endine liige Chris White ansambliga. Kuigi kontserdimajas justkui pildistada ei tohi, siis said lõpus, kui rahvas juba püsti seisis, mõned jäädvustused mälestuseks ikka tehtud. \nSündmuse FB leht: <a href=https://fb.me/e/17JPOzBBA>https://fb.me/e/17JPOzBBA</a>",
+    "märkmed": "Legendaarse Dire Straitsi endine liige Chris White ansambliga. Kuigi kontserdimajas justkui pildistada ei tohi, siis said lõpus, kui rahvas juba püsti seisis, mõned jäädvustused mälestuseks ikka tehtud. \nSündmuse FB kodukas: <a href=https://fb.me/e/17JPOzBBA>https://fb.me/e/17JPOzBBA</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCcMxV_x0JSSZ_QNQBNxKGsATrhSzc7zN5n1qEg04c64mQ?e=GJEVoX" ]
   },
   {
@@ -2340,7 +2355,10 @@
       { "nimi": "Herald" },
       { "nimi": "U.D.O." }
     ],
-    "märkmed": "Vanameister Udo Dirkschneider koos ansambliga U.D.O, soendab meite heavy massin Herald. \nSündmuse FB leht: <a href=https://fb.me/e/1qvr9W2a8>https://fb.me/e/1qvr9W2a8</a>",
+    "märkmed": [
+      "Vanameister Udo Dirkschneider koos ansambliga U.D.O, soendab meite heavy massin Herald.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/1qvr9W2a8>https://fb.me/e/1qvr9W2a8</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBiQ6tMz0YnS4tFmRJPBeKeAXX4ezCqNv-IVA08LIYo8fg?e=zjVwT4" ]
   },
   {
@@ -2355,7 +2373,7 @@
       { "nimi": "Standardpaigutus" },
       { "nimi": "O.D.D" }
     ],
-    "märkmed": "Viimane kontsert „legendaarses“ Underground-is, mida nägin. Edasi pidime leppima „Lege“ nimega, millega kaasnes paraku ka üldine suuna muutus. \nSündmuse FB leht: <a href=https://fb.me/e/3xdQzTetl>https://fb.me/e/3xdQzTetl</a>",
+    "märkmed": "Viimane kontsert „legendaarses“ Underground-is, mida nägin. Edasi pidime leppima „Lege“ nimega, millega kaasnes paraku ka üldine suuna muutus. \nSündmuse FB kodukas: <a href=https://fb.me/e/3xdQzTetl>https://fb.me/e/3xdQzTetl</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDp1vULD-EcQI2JAuHsZHvvAQWnQNzMrtI5hsB0cK48TgM?e=YQ0byi" ]
   },
   {
@@ -2367,7 +2385,7 @@
     "esineja": [
       { "nimi": "Köömes" }
     ],
-    "märkmed": "„Maailma lõpp“ LIVE (KÖÖMESe viies stuudioalbum). \nSündmuse FB leht: <a href=https://fb.me/e/1YQIh2FPh>https://fb.me/e/1YQIh2FPh</a>",
+    "märkmed": "„Maailma lõpp“ LIVE (KÖÖMESe viies stuudioalbum). \nSündmuse FB kodukas: <a href=https://fb.me/e/1YQIh2FPh>https://fb.me/e/1YQIh2FPh</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC1UhU3nvTjSLtTC0vPYRwoAYrGmn9z4uxryrGtjTCbRAE?e=uZgxaF" ]
   },
   {
@@ -2380,7 +2398,7 @@
       { "nimi": "Buzhold" },
       { "nimi": "Kannabinõid" }
     ],
-    "märkmed": "Kannabinõid esitleb oma uut albumit „MASS“, toetab Buzhold (ex-Noir). \nSündmuse FB leht: <a href=https://fb.me/e/eljJhtzyX>https://fb.me/e/eljJhtzyX</a>",
+    "märkmed": "Kannabinõid esitleb oma uut albumit „MASS“, toetab Buzhold (ex-Noir). \nSündmuse FB kodukas: <a href=https://fb.me/e/eljJhtzyX>https://fb.me/e/eljJhtzyX</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCJnI_2p1zSRbbmMGYmTzsUASFArSb2Qoz7j65Jc46cYSM?e=Y9gY4d" ]
   },
   {
@@ -2393,7 +2411,7 @@
       { "nimi": "Jelly Rue" },
       { "nimi": "Sibyl Vane" }
     ],
-    "märkmed": "Lege (endine Underground) hoovis esinesid Jelly Rue Tartust ja Sibyl Vane Pärnust. \nSündmuse FB leht: <a href=https://fb.me/e/1UHr8lzdYn>https://fb.me/e/1UHr8lzdYn</a>",
+    "märkmed": "Lege (endine Underground) hoovis esinesid Jelly Rue Tartust ja Sibyl Vane Pärnust. \nSündmuse FB kodukas: <a href=https://fb.me/e/1UHr8lzdYn>https://fb.me/e/1UHr8lzdYn</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBCDwcvrnBfQ7Kqo9NYwqOQAf9ZIFYne68PyzCjJpMekag?e=OZhMKV" ]
   },
   {
@@ -2409,7 +2427,7 @@
       { "nimi": "Metsatöll" },
       { "nimi": "Ollie" }
     ],
-    "märkmed": "Ühepäevane festival Eesti artistidega Ulila Suveaias. Päris alguseks ma ei jõudnud ja Vabalangus jäi nägemata. \nSündmuse FB leht: <a href=https://fb.me/e/2cKTC6yVP>https://fb.me/e/2cKTC6yVP</a>",
+    "märkmed": "Ühepäevane festival Eesti artistidega Ulila Suveaias. Päris alguseks ma ei jõudnud ja Vabalangus jäi nägemata. \nSündmuse FB kodukas: <a href=https://fb.me/e/2cKTC6yVP>https://fb.me/e/2cKTC6yVP</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDpRQ7Oi04cRbhvBFavMudMATBEIL64XJUGkGuZjv02A1s?e=5xQczW" ]
   },
   {
@@ -2423,7 +2441,7 @@
       { "nimi": "Ice Nine Kills" },
       { "nimi": "Five Finger Death Punch" }
     ],
-    "märkmed": "5FDP Euroopa tuur. Sündmuse FB leht: <a href=https://fb.me/e/4p29LI7Kq>https://fb.me/e/4p29LI7Kq</a>",
+    "märkmed": "5FDP Euroopa tuur. Sündmuse FB kodukas: <a href=https://fb.me/e/4p29LI7Kq>https://fb.me/e/4p29LI7Kq</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDzrMS71WdQS46R4ExVmMFgAYP2JIrm4Yl1sc8D7so0eFc?e=ScNLzi" ]
   },
   {
@@ -2436,7 +2454,7 @@
       { "nimi": "Herald" },
       { "nimi": "Bruce Dickinson" }
     ],
-    "märkmed": "„The Mandrake Project“ tuur. Sündmuse FB leht: <a href=https://fb.me/e/5oPNBmsvX>https://fb.me/e/5oPNBmsvX</a>",
+    "märkmed": "„The Mandrake Project“ tuur. Sündmuse FB kodukas: <a href=https://fb.me/e/5oPNBmsvX>https://fb.me/e/5oPNBmsvX</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA_XjsPNFqqRZu66jHThqWUAXCGJgz1rouyZpAj99aRId4?e=YVQ7vq" ]
   },
   {
@@ -2481,7 +2499,7 @@
     ],
     "märkmed": [
       "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Nihilistikrypt 28.06, Deceitome 29.06 ",
-      "Sündmuse FB leht, kus võib ka erinevaid jäädvustusi leida: <a href=https://fb.me/e/6OhMXZH6M>https://fb.me/e/6OhMXZH6M</a>",
+      "Sündmuse FB kodukas, kus võib ka erinevaid jäädvustusi leida: <a href=https://fb.me/e/6OhMXZH6M>https://fb.me/e/6OhMXZH6M</a>",
       "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/</a> "
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCX-U-h6x0eSJ305lbapvktAZtJ3UvXdNYTfOzZ5t9_czI?e=kchuoL" ]
@@ -2495,7 +2513,7 @@
     "esineja": [
       { "nimi": "Singer Vinger" }
     ],
-    "märkmed": "„Sisevete festival“ Luunja sadamas - õhtu kütab kuumaks legendaarne Singer Vinger! Esines ka Vikat, aga tolle nägemiseks jäin ma hilja pääle. \nSündmuse FB leht: <a href=https://fb.me/e/2lreYwHlS>https://fb.me/e/2lreYwHlS</a>",
+    "märkmed": "„Sisevete festival“ Luunja sadamas - õhtu kütab kuumaks legendaarne Singer Vinger! Esines ka Vikat, aga tolle nägemiseks jäin ma hilja pääle. \nSündmuse FB kodukas: <a href=https://fb.me/e/2lreYwHlS>https://fb.me/e/2lreYwHlS</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC9QqC_yAz_QaaMyZMdUeyUAarZomNAzC4tdmg1iaVqQLI?e=NPu544" ]
   },
   {
@@ -2510,8 +2528,8 @@
     ],
     "märkmed": [
       "„Emajõe festival“ ja Tartu 2024 raames esinesid Tartus Kukerpillid Emajõel laeva pääl ja Mahavok Autovabaduse Puiesteel.",
-      "Emajõe festival 2024 FB leht: <a href=https://fb.me/e/4J79uFg9F>https://fb.me/e/4J79uFg9F</a>",
-      "Mahavok kontserdi kohta on ka eraldi FB leht: <a href=https://fb.me/e/3R6ZsYi9K>https://fb.me/e/3R6ZsYi9K</a>"
+      "Emajõe festival 2024 FB kodukas: <a href=https://fb.me/e/4J79uFg9F>https://fb.me/e/4J79uFg9F</a>",
+      "Mahavok kontserdi kohta on ka eraldi FB kodukas: <a href=https://fb.me/e/3R6ZsYi9K>https://fb.me/e/3R6ZsYi9K</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBec1KG9lrKTqVaa1QBmqnqAcX14VA8vxsgFFPA3X9Zdis?e=yPZMFg" ]
   },
@@ -2524,7 +2542,7 @@
     "esineja": [
       { "nimi": "Hauser" }
     ],
-    "märkmed": "„Rebel with a Cello“ tuur - 2Cellos liige Stjepan Hauser esineb suvel Euroopa kultuuripealinnas Tartus. \nSündmuse FB leht: <a href=https://fb.me/e/QUJrsVGK>https://fb.me/e/QUJrsVGK</a>",
+    "märkmed": "„Rebel with a Cello“ tuur - 2Cellos liige Stjepan Hauser esineb suvel Euroopa kultuuripealinnas Tartus. \nSündmuse FB kodukas: <a href=https://fb.me/e/QUJrsVGK>https://fb.me/e/QUJrsVGK</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBsDg2qoHaHRaxiGoSBHQCfAVQMs2wHrnvT-SAHG3xFjKg?e=qqfXhi" ]
   },
   {
@@ -2546,7 +2564,7 @@
       { "nimi": "Zorg", "kuupäev": "2024-07-13" },
       { "nimi": "Dagamba", "kuupäev": "2024-07-14" }
     ],
-    "märkmed": "Tore festival toredas õhkkonnas toreda seltskonnaga. Teine päev jäi Crashdaf olude sunnil vahele (tuli tööl väljakutse). Nüüd asja kirja pannes avastasin, et koos DJ-ga oli kokku 13 esinejat! Huvitav number, mida näiteks ka Tartu Tarbariitus on kasutanud :) \nSündmuse FB leht: <a href=https://fb.me/e/56vsE2UQO>https://fb.me/e/56vsE2UQO</a>",
+    "märkmed": "Tore festival toredas õhkkonnas toreda seltskonnaga. Teine päev jäi Crashdaf olude sunnil vahele (tuli tööl väljakutse). Nüüd asja kirja pannes avastasin, et koos DJ-ga oli kokku 13 esinejat! Huvitav number, mida näiteks ka Tartu Tarbariitus on kasutanud :) \nSündmuse FB kodukas: <a href=https://fb.me/e/56vsE2UQO>https://fb.me/e/56vsE2UQO</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBXLa7-B-R9RLMV3_yo2VYuAX0EuF9C-ujTQUr7p1Fl1fU?e=cY7bir" ]
   },
   {
@@ -2561,7 +2579,7 @@
       { "nimi": "Koit Toome" },
       { "nimi": "Trad.Attack!" }
     ],
-    "märkmed": "Taaskord 2-päevane festival, kus ma jõudsin ainult teine päev käia. Ka sääl jäiva Tsibihärblaseq kaemata. Sündmuse FB leht: <a href=https://fb.me/e/1XsZXu74I>https://fb.me/e/1XsZXu74I</a>",
+    "märkmed": "Taaskord 2-päevane festival, kus ma jõudsin ainult teine päev käia. Ka sääl jäiva Tsibihärblaseq kaemata. Sündmuse FB kodukas: <a href=https://fb.me/e/1XsZXu74I>https://fb.me/e/1XsZXu74I</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAvnL7VRWl8RZNioo7Hs9GpAbUTlLvVTXUz6ATcF-y8P0I?e=WsC8rg" ]
   },
  {
@@ -2602,7 +2620,7 @@
       { "nimi": "Alex Yarmak" }
     ],
     "märkmed": [
-      "„Bleed Out 2024“ tuur, sündmuse FB leht: <a href=https://fb.me/e/zdO4pdQvY>https://fb.me/e/zdO4pdQvY</a>",
+      "„Bleed Out 2024“ tuur, sündmuse FB kodukas: <a href=https://fb.me/e/zdO4pdQvY>https://fb.me/e/zdO4pdQvY</a>",
       "Within Temptationiga liituvad erikülalised Tarja ja Alex Yarmak. Soojendusartist Annisokay, algselt oli plaanis ka Ukraina bänd Blind8, kuid sõja tõttu ei saanud nad kahjuks tulla."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAPxmC-iyRtR6y_MWMoZkVMAV0633RPOIR2BO6Tpn3phjU?e=e98PTf" ]
@@ -2619,7 +2637,7 @@
       { "nimi": "Langenu" },
       { "nimi": "Taak" }
     ],
-    "märkmed": "„Hõimupäevade klubiöö: Kings of Finno-Ugric Metal“ sündmuse FB leht: <a href=https://fb.me/e/42g0GZm1V>https://fb.me/e/42g0GZm1V</a>",
+    "märkmed": "„Hõimupäevade klubiöö: Kings of Finno-Ugric Metal“ sündmuse FB kodukas: <a href=https://fb.me/e/42g0GZm1V>https://fb.me/e/42g0GZm1V</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBXLJJt0iFORo6umxYoexW0ASGQ5dImQgYOVYKPeFUluKY?e=bY32TN" ]
   },
   {
@@ -2632,7 +2650,7 @@
       { "nimi": "South of Savoy" },
       { "nimi": "Wiiralt" }
     ],
-    "märkmed": "Wiiralt tähistab Tartu Rockiklubis oma viiendat sünnipäeva. \nSündmuse FB leht: <a href=https://fb.me/e/8Reed1qqv>https://fb.me/e/8Reed1qqv</a>",
+    "märkmed": "Wiiralt tähistab Tartu Rockiklubis oma viiendat sünnipäeva. \nSündmuse FB kodukas: <a href=https://fb.me/e/8Reed1qqv>https://fb.me/e/8Reed1qqv</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDbzc0zw6zGS6PNMqWx0wH4ATKbp9QBJSxziyHQtmsIcs0?e=D59mq9" ]
   },
   {
@@ -2644,7 +2662,7 @@
     "esineja": [
       { "nimi": "DND" }
     ],
-    "märkmed": "DND esitleb oma värsket ja järjekorras juba kaheksandat albumit „Viimane kustutab tule“. Sai tehtud sõpradega väljasõit ja Tõrva külastus, oli tore õhtu! \nSündmuse FB leht: <a href=https://fb.me/e/DzuMqLVSl>https://fb.me/e/DzuMqLVSl</a>",
+    "märkmed": "DND esitleb oma värsket ja järjekorras juba kaheksandat albumit „Viimane kustutab tule“. Sai tehtud sõpradega väljasõit ja Tõrva külastus, oli tore õhtu! \nSündmuse FB kodukas: <a href=https://fb.me/e/DzuMqLVSl>https://fb.me/e/DzuMqLVSl</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA-WvkAxD1bSqSEwQy8R0NQAbn4UdKPvLLOGcRn8-YfPzM?e=HGjHaW" ]
   },
   {
@@ -2658,7 +2676,7 @@
       { "nimi": "Legshaker" },
       { "nimi": "Pööloy Gläänz" }
     ],
-    "märkmed": "Kontsertkava „85 aastat rokki ja lulli“. Sündmuse FB leht: <a href=https://fb.me/e/4aeKetzNt>https://fb.me/e/4aeKetzNt</a>",
+    "märkmed": "Kontsertkava „85 aastat rokki ja lulli“. Sündmuse FB kodukas: <a href=https://fb.me/e/4aeKetzNt>https://fb.me/e/4aeKetzNt</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC9W_HPEDOISbi61dWis_viAfhLEADUcHR2GtWpAGEVzcg?e=5URBqp" ]
   },
   {
@@ -2673,7 +2691,7 @@
       { "nimi": "Nahakiin" },
       { "nimi": "J.M.K.E" }
     ],
-    "märkmed": "„Pungipalavik - Villu 61“ sündmuse FB leht: <a href=https://fb.me/e/7MFu0VhKD>https://fb.me/e/7MFu0VhKD</a>",
+    "märkmed": "„Pungipalavik - Villu 61“ sündmuse FB kodukas: <a href=https://fb.me/e/7MFu0VhKD>https://fb.me/e/7MFu0VhKD</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDQaZ-fLSqpTZ_rGIjWR1jjAaxbxs03BtdnpeUZAX_jL_0?e=DD1Pw1" ]
   },
   {
@@ -2689,7 +2707,7 @@
       { "nimi": "JUUR" }
     ],
     "märkmed": [
-      "„Silent Will“ sündmus, FB leht: <a href=https://fb.me/e/4PJV1WSmS>https://fb.me/e/4PJV1WSmS</a>",
+      "„Silent Will“ sündmus, FB kodukas: <a href=https://fb.me/e/4PJV1WSmS>https://fb.me/e/4PJV1WSmS</a>",
       "Sandcave on verivärske bluesrocki punt Tartust.",
       "Borm Bubu on intensiivne, matemaatiline, üllatav ja mitmekülgne.",
       "Monsternaut on tõeline stoneri pärl Soomest.",
@@ -2707,7 +2725,7 @@
       { "nimi": "Tüse Asi" },
       { "nimi": "Deformation" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/24sw56ANM>https://fb.me/e/24sw56ANM</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/24sw56ANM>https://fb.me/e/24sw56ANM</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAGe-chV5xNSJSVWxPm1YLdAbcTPUwAtu-nF0WI-Zm3y74?e=3u3Ylh" ]
   },
   
@@ -2724,7 +2742,7 @@
       { "nimi": "Bloodfeather" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/5d1tT8JIb>https://fb.me/e/5d1tT8JIb</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/5d1tT8JIb>https://fb.me/e/5d1tT8JIb</a>",
       "Avantyr (gothic metal) on viieliikmeline metalbänd, kelle muusika on inspireeritud klassikalistest, tundmatutest ja kirjutamata gothic horror lugudest.",
       "Cellar Cat (pop metal) on alternatiivroki ja metali bänd Riiast, Lätist, mis ei hooli žanripiirangutest, vaid loob lihtsalt suurepärast kõlavat muusikat.",
       "Osilian (alternative metal) on neljaliikmeline alternatiivmetalit viljelev ansambel Saaremaalt.",
@@ -2744,7 +2762,7 @@
       { "nimi": "Eluveitie (CHE)" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/3SgfMV0if>https://fb.me/e/3SgfMV0if</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/3SgfMV0if>https://fb.me/e/3SgfMV0if</a>",
       "Eestisse naaseb Eluveitie, üks kõige tuntumaid folk metal bände Šveitsist. Eluveitie muudab eriliseks suur liikmete arv – neid on üheksa – ja traditsiooniliselt rokile omaste pillide, aga ka Keldi pillide nagu Keldi harfi, torupilli, mandoliini, vilede, viiulite ja isegi haruldase rataslüüra kasutamine. Nendega ühinevad Moldova bänd Infected Rain, mille eestvedajaks on karismaatiline Lena Scissorhands, ja samuti Šveitsist pärit Ad Infinitum."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBVGBp2QduzSq3dreB2XA_iARnHkEMhDziBeYbTwjdWBvg?e=mIHUEF" ]
@@ -2760,7 +2778,7 @@
       { "nimi": "Novelists (FRA)" },
       { "nimi": "TesseracT (GBR)" }
     ],
-    "märkmed": "TesseracT „War of Being Tour II“ tuur. \nSündmuse FB leht: <a href=https://fb.me/e/4azD0OAOo>https://fb.me/e/4azD0OAOo</a>",
+    "märkmed": "TesseracT „War of Being Tour II“ tuur. \nSündmuse FB kodukas: <a href=https://fb.me/e/4azD0OAOo>https://fb.me/e/4azD0OAOo</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCGDL2N0R_tS6zNt84uSmD1ARtUES4Q98D54YAWpnWBPx0?e=4rskAA" ]
   },
   {
@@ -2773,7 +2791,7 @@
       { "nimi": "Robotorr" },
       { "nimi": "Echolove" }
     ],
-    "märkmed": "Echolove esitleb oma uut albumit „VAGABOND“, kaasa teeb Robotorr. \nSündmuse FB leht: <a href=https://fb.me/e/7paEzdgb3>https://fb.me/e/7paEzdgb3</a>",
+    "märkmed": "Echolove esitleb oma uut albumit „VAGABOND“, kaasa teeb Robotorr. \nSündmuse FB kodukas: <a href=https://fb.me/e/7paEzdgb3>https://fb.me/e/7paEzdgb3</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCEr7w08zZDT6D1wpo79q0TAdXWxUEQg-t81vl95yRJCKI?e=pjxedJ" ]
   },
   {
@@ -2787,7 +2805,7 @@
       { "nimi": "Wrupk Urei" },
       { "nimi": "Avemaria" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/2MP6gvljW>https://fb.me/e/2MP6gvljW</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/2MP6gvljW>https://fb.me/e/2MP6gvljW</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDxkGQL1feCSbPwEzQF5kQqAeyzPuplqIUWOiIPH_telgM?e=wtUEA9" ]
   },
   {
@@ -2802,7 +2820,7 @@
       { "nimi": "Tenebrae Aeternum (FIN/SWI)" }
     ],
     "märkmed": [
-      "Sündmuse lehte ei leiagi, aga viimane bänd kajastas oma lehel plakatiga: <a href=https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573>https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573</a>",
+      "Sündmuse kodukat ei leiagi, aga viimane bänd kajastas oma lehel plakatiga: <a href=https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573>https://www.facebook.com/photo?fbid=1206121244853659&set=a.447778847354573</a>",
       "Sakslaste „Moor“ meeldis mulle väga, sai ka CD plaat soetatud."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgA9QXxHZ0ETSZsj1F0H1H_DAU-vZtrKVsmYX7JsANTfQsM?e=uhvqAy" ]
@@ -2847,7 +2865,7 @@
       { "nimi": "Pedigree" },
       { "nimi": "Peter Pan Speedrock (NL)" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/5POxeTVPE>https://fb.me/e/5POxeTVPE</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/5POxeTVPE>https://fb.me/e/5POxeTVPE</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCAbVexp894Ta3EXOzc4yVjAdGmCI5MrIvlbk_J8L8LFRw?e=x04cka" ]
   },
   {
@@ -2861,7 +2879,7 @@
       { "nimi": "Jinjer" },
       { "nimi": "In Flames" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/5m5JNv4di>https://fb.me/e/5m5JNv4di</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/5m5JNv4di>https://fb.me/e/5m5JNv4di</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD1p-y1SBX4Q7FoYMt6hoy_AWJVyb0Fot7IQa4BvOHJehk?e=xojrPF" ]
   },
   {
@@ -2889,7 +2907,7 @@
     ],
     "märkmed": [
       "„Spirit Animal Tour 2025“ Max Cavalera & Soulfly (USA), erikülalised Vendetta FM (ESP) & Pedigree",
-      "Sündmuse FB leht: <a href=https://fb.me/e/5EDYiqyiG>https://fb.me/e/5EDYiqyiG</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/5EDYiqyiG>https://fb.me/e/5EDYiqyiG</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCFJ9JB0FU7S7kTxcQtfDQJAc71wJzOXjVnyWjhLf4hviU?e=cD3fiW" ]
   },
@@ -2904,7 +2922,7 @@
     ],
     "märkmed": [
       "Halestorm esines kahes osas - esimene sett oli akustiline, ning teine korralik rokisett! Ja no küll see Lzzy Hale on ikka vägeva häälematerjaliga varustatud - kohati ajas peaaegu kananaha ihule, VÕIMAS!!! :) ",
-      "FB leht: <a href=https://fb.me/e/2C8V6o5fl>https://fb.me/e/2C8V6o5fl</a>",
+      "FB kodukas: <a href=https://fb.me/e/2C8V6o5fl>https://fb.me/e/2C8V6o5fl</a>",
       "",
       "Jäin kontserdiga nii rahule, et vaim tuli pääle ning üritasin ühe inglise keelse salmikese kokku panna:",
       "<em>Lzzy, thanks to your parents</em>",
@@ -2934,7 +2952,7 @@
       { "nimi": "Pale Alison" },
       { "nimi": "Bloodfeather" }
     ],
-    "märkmed": "„METALCALYPSE“ FB leht: <a href=https://fb.me/e/JL8t8lOWV>https://fb.me/e/JL8t8lOWV</a>",
+    "märkmed": "„METALCALYPSE“ FB kodukas: <a href=https://fb.me/e/JL8t8lOWV>https://fb.me/e/JL8t8lOWV</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAr0mBHdBi3TpKRh8EukrMbAW3r6qm-MVIHIfuf9UYxZeg?e=Ci7c3S" ]
   },
   {
@@ -2948,7 +2966,7 @@
       { "nimi": "Antsud Metal Project" },
       { "nimi": "J.M.K.E" }
     ],
-    "märkmed": "HRL eelõhtu - Läburint. Sündmuse FB leht: <a href=https://fb.me/e/IS3VO0nfY>https://fb.me/e/IS3VO0nfY</a>",
+    "märkmed": "HRL eelõhtu - Läburint. Sündmuse FB kodukas: <a href=https://fb.me/e/IS3VO0nfY>https://fb.me/e/IS3VO0nfY</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC4-FoxrC76SoS1WBW6rX9lAfBJKgg0xyJAMVA9TPFx6yo?e=UMZUcd" ]
   },
   {
@@ -2982,7 +3000,7 @@
     "märkmed": [
       "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Permanent Blue 27.06, Mad Road 28.06 ",
       "Üldiselt olustikust - erakordselt vihmane ja mudane aasta, aga see lisab mälestustele vaid vürtsi. Seltskond meil nagu ikka igati tore! :)",
-      "Sündmuse FB leht: <a href=https://fb.me/e/BmpyUiNJY>https://fb.me/e/BmpyUiNJY</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/BmpyUiNJY>https://fb.me/e/BmpyUiNJY</a>",
       "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/</a> "
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCYjnPSk77eRKmDHXQwcCSRAUkFI8eW-9TjsZ0Xh731_Bw?e=Ylr8g8" ]
@@ -3017,7 +3035,7 @@
     "märkmed": [
       "Käbliku pruulikoja tore festival meeldivas õhkkonnas ja seltskonnas. Lubati suurt tormi, sel aastal jäin esimest korda ka ööseks ja kinnitasin telgi suurte armatuurrauast tehtud vaiadega hästi kindlalt maa külge. Õhtul oli eemal ümbruses küll taevas kaetud tohutute pilvemassiividega, aga sündmuskohal polnud hullu midagi, elasime kenasti üle! :)",
       "Kavas oli ka Marco Tasane - selle elasin samuti üle, ma lihtsalt ei käind toda kaemas. :D",
-      "Sündmuse FB leht: <a href=https://fb.me/e/9r9i6NSab>https://fb.me/e/9r9i6NSab</a>, sääl arutelus ka mõningaid piltjäädvustusi."
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/9r9i6NSab>https://fb.me/e/9r9i6NSab</a>, sääl arutelus ka mõningaid piltjäädvustusi."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC3NXbJ2kZMSpTVP71TwrZPAahrZCoDVjTTKIQKHnw5st4?e=QO6iOn" ]
   },
@@ -3031,7 +3049,7 @@
       { "nimi": "The Pretty Reckless" },
       { "nimi": "AC⚡DC" }
     ],
-    "märkmed": "„Power Up“ turnee, sündmuse FB leht <a href=https://fb.me/e/9nP3hiKOs>https://fb.me/e/9nP3hiKOs</a> kirjutab, et esimest korda on ka Eesti fännidel võimalus rokilegende oma silmaga näha - käisin vaatamas :) Küll ikka vanameistritel on jaksu ja The Pretty Reckless on ka tore!",
+    "märkmed": "„Power Up“ turnee, sündmuse FB kodukas <a href=https://fb.me/e/9nP3hiKOs>https://fb.me/e/9nP3hiKOs</a> kirjutab, et esimest korda on ka Eesti fännidel võimalus rokilegende oma silmaga näha - käisin vaatamas :) Küll ikka vanameistritel on jaksu ja The Pretty Reckless on ka tore!",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB-6oGJOClwTZym2OnlwHw1ASSobe1xJFSOES1E2exz2pU?e=5YoS3q" ]
   },
   {
@@ -3044,7 +3062,7 @@
       { "nimi": "ToraBora" },
       { "nimi": "Tüse Asi" }
     ],
-    "märkmed": "Andersoni pruulikoja suvine aiapidu. Sõbrad esinesid, sõbrad kuulasid, olin kohal! Sündmuse FB leht: <a href=https://fb.me/e/3sDiqJMEE>https://fb.me/e/3sDiqJMEE</a>",
+    "märkmed": "Andersoni pruulikoja suvine aiapidu. Sõbrad esinesid, sõbrad kuulasid, olin kohal! Sündmuse FB kodukas: <a href=https://fb.me/e/3sDiqJMEE>https://fb.me/e/3sDiqJMEE</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDEk98NYy_zQppoUmuLMEp8AWvpa2fU0vaIUyDwA0wR-b8?e=4xFR6H" ]
   },
   {
@@ -3057,7 +3075,7 @@
       { "nimi": "Coverage (AC⚡DC tribute)" },
       { "nimi": "Metsatöll" }
     ],
-    "märkmed": "Sündmus (tasuta) „RAADI ELAMUS“, FB leht: <a href=https://fb.me/e/iHJdHJHYI>https://fb.me/e/iHJdHJHYI</a>. Algselt kavas olnud Redneck Rampage ei saanud osaleda, aga nende asemele leiti AC/DC kavereid tegev Coverage.",
+    "märkmed": "Sündmus (tasuta) „RAADI ELAMUS“, FB kodukas: <a href=https://fb.me/e/iHJdHJHYI>https://fb.me/e/iHJdHJHYI</a>. Algselt kavas olnud Redneck Rampage ei saanud osaleda, aga nende asemele leiti AC/DC kavereid tegev Coverage.",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDfw3Zd89v6SKxajByHUMwKAUhqGFk3EkJYUVsyAHCUQgk?e=0LBHq6" ]
   },
   {
@@ -3072,7 +3090,7 @@
       { "nimi": "Avantyr" },
       { "nimi": "Herald" }
     ],
-    "märkmed": "„Insidefest“ Rock & Roll klubis. Olud ei võimaldand mul kogu festist osa saada, aga teise päeva lõpus jõudsin kohale ja sai taas veidi mälestusi jäädvustatud. Sündmuse FB leht: <a href=https://fb.me/e/bKMr44luh>https://fb.me/e/bKMr44luh</a>",
+    "märkmed": "„Insidefest“ Rock & Roll klubis. Olud ei võimaldand mul kogu festist osa saada, aga teise päeva lõpus jõudsin kohale ja sai taas veidi mälestusi jäädvustatud. Sündmuse FB kodukas: <a href=https://fb.me/e/bKMr44luh>https://fb.me/e/bKMr44luh</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAVPYWsO61nSrGK9AhjcWpWAXHsUCuqIkJoFYFRAzsos3I?e=3D55ey" ]
   },
   {
@@ -3086,7 +3104,7 @@
       { "nimi": "Sollad" },
       { "nimi": "Puberteet" }
     ],
-    "märkmed": "Sügispunk!, sündmuse FB leht: <a href=https://fb.me/e/aBT7wVL8y>https://fb.me/e/aBT7wVL8y</a>",
+    "märkmed": "Sügispunk!, sündmuse FB kodukas: <a href=https://fb.me/e/aBT7wVL8y>https://fb.me/e/aBT7wVL8y</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCO2oyBeXdkTYQmX24Hhj_mAZksPmLtMc4oFEAgknPW8Cg?e=Zx4YbL" ]
   },
   {
@@ -3098,7 +3116,7 @@
     "esineja": [
       { "nimi": "Zack Wilde Tribute (ZWT)" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/81a8Bz7Fe>https://fb.me/e/81a8Bz7Fe</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/81a8Bz7Fe>https://fb.me/e/81a8Bz7Fe</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB0Eeq-_fiASbEF8KLWb94mAUTv8N845bhskP15ADAP17w?e=fx6MM2" ]
   },
   {
@@ -3113,7 +3131,7 @@
       { "nimi": "Hobo Deathcult (CAN)" },
       { "nimi": "Dieselpest (GER)" }
     ],
-    "märkmed": "Sündmuse FB leht: <a href=https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd</a>",
+    "märkmed": "Sündmuse FB kodukas: <a href=https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd>https://fb.me/e/3x53u2Bjd</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCBYo4PcCLoSr0RJt6MnjbYAU05h2h2y8yx9sSjr4HyO1s?e=hOc2pJ" ]
   },
   {
@@ -3165,7 +3183,7 @@
     "märkmed": [
       "Tarbatiirus „raskemuusika“ festival Tartu Rock & Roll klubis nii Heaven (üleval) kui ka Hell (all) saalides. <strong>13</strong> esinejat!",
       "",
-      "Sündmuse FB leht: <a href=https://fb.me/e/4rHi3r0uv>https://fb.me/e/4rHi3r0uv</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4rHi3r0uv>https://fb.me/e/4rHi3r0uv</a>",
       "",
       "Oli „tungiv soovitus“ jätta telefonid tasku ja jäädvustusi mitte teha. Ma ikka proovisin mõned klõpsud igast bändist teha, et nimi ja pilt kokku viia. Et pilt ja heli kokku viia, tuleb netis surfata :)",
       "Ma siis ka surfasin ja FB arutelus oli viide, et Gronn Gronnland on n-ö „ametlik“ jäädvustaja ning paraja otsimise pääle (takkajärele seda infot kokku pannes tuli päris palju tema ajaloos tagasi kerida) leidsingi selle sündmuse jäädvustusi, millest proovin järgnevalt nimekirja koostada.",
@@ -3195,7 +3213,7 @@
       { "nimi": "Battle Born" },
       { "nimi": "W.A.S.P" }
     ],
-    "märkmed": "„Album ONE Alive!“ tuur, sündmuse FB leht: <a href=https://fb.me/e/diGJVpJoA>https://fb.me/e/diGJVpJoA</a>",
+    "märkmed": "„Album ONE Alive!“ tuur, sündmuse FB kodukas: <a href=https://fb.me/e/diGJVpJoA>https://fb.me/e/diGJVpJoA</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0EDkuBihHQrCtP9pD-Pi_AZCVN5M8sBbMYgR8T39IOcc?e=tuq38h" ]
   },
   {
@@ -3209,7 +3227,7 @@
       { "nimi": "Bliss of Flesh (FR)" },
       { "nimi": "Gorgoroth (NO)" }
     ],
-    "märkmed": "„33 year anniversary“ tuur, sündmuse FB leht: <a href=https://fb.me/e/3uTV4dmpu>https://fb.me/e/3uTV4dmpu</a>",
+    "märkmed": "„33 year anniversary“ tuur, sündmuse FB kodukas: <a href=https://fb.me/e/3uTV4dmpu>https://fb.me/e/3uTV4dmpu</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDQ6DLcofWTSIjTab6tRv_CATzsumZyr-iIOSpgbW6-h-M?e=bBINuu" ]
   },
   {
@@ -3226,7 +3244,7 @@
     "märkmed": [
       "„The Dark Journey“ - rännak läbi pimedaima öö.",
       "Numentol oli nunnu särk, sai soetatud endale üks :).",
-      "Sündmuse FB leht, kust on pärit järgnev info: <a href=https://fb.me/e/32dhmlInv>https://fb.me/e/32dhmlInv</a>",
+      "Sündmuse FB kodukas, kust on pärit järgnev info: <a href=https://fb.me/e/32dhmlInv>https://fb.me/e/32dhmlInv</a>",
       "",
       "<em>Teekond algab bändiga Numento, kelle agressiivne extreme metal’i saund, kandle tekitatud kõhe atmosfäär ja vokalisti Katri virtuoossus mõjuvad nii lummavalt kui ka painavalt.</em>",
       "<em>Teisena esinev Bloody Falls hakkab vaagima, kas te elate või surete. Sünged gruuvid, rasked riffid ja lüüriliselt jutustatud lood viivad teid inimlikkuse tumedaimatesse paikadesse ega halasta.</em>",
@@ -3245,7 +3263,7 @@
       { "nimi": "Ne'er" },
       { "nimi": "Taak" }
     ],
-    "märkmed": "TAAK - kuuenda albumi „Surmalaev“ esitluskontsert ja külalisesinejad. \nSündmuse FB leht: <a href=https://fb.me/e/3d2RdlroK>https://fb.me/e/3d2RdlroK</a>",
+    "märkmed": "TAAK - kuuenda albumi „Surmalaev“ esitluskontsert ja külalisesinejad. \nSündmuse FB kodukas: <a href=https://fb.me/e/3d2RdlroK>https://fb.me/e/3d2RdlroK</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCnHvdfXVtaTLFizmEX6grqAbO6lPcro5Vb4qFYOVLXShY?e=ll1YBD" ]
   },
   {
@@ -3259,7 +3277,7 @@
       { "nimi": "Karachay" },
       { "nimi": "Intrepid" }
     ],
-    "märkmed": "Intrepid albumi „Juxtaposition“ esitluskontsert koos erikülalistega. \nSündmuse FB leht: <a href=https://fb.me/e/6kUd05faQ>https://fb.me/e/6kUd05faQ</a>",
+    "märkmed": "Intrepid albumi „Juxtaposition“ esitluskontsert koos erikülalistega. \nSündmuse FB kodukas: <a href=https://fb.me/e/6kUd05faQ>https://fb.me/e/6kUd05faQ</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBMjDDju8j6TavZz0qVFdx5AdhmHMvNd2mDb6Dy7bx52Kg?e=w0P34q" ]
   },
   {
@@ -3273,7 +3291,7 @@
       { "nimi": "Valem Vale" },
       { "nimi": "DND" }
     ],
-    "märkmed": "DND „Sügis helges toonis“ tuur ja sõprusbändid. \nSündmuse FB leht: <a href=https://fb.me/e/8PusCMBNF>https://fb.me/e/8PusCMBNF</a>",
+    "märkmed": "DND „Sügis helges toonis“ tuur ja sõprusbändid. \nSündmuse FB kodukas: <a href=https://fb.me/e/8PusCMBNF>https://fb.me/e/8PusCMBNF</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBD873UeSzQRojoID6sqCyMAS1L4QvWPTyc3_eb5yu7WjU?e=ULWu5j" ]
   },
   {
@@ -3287,7 +3305,7 @@
       { "nimi": "Lutharo" },
       { "nimi": "Alestorm" }
     ],
-    "märkmed": "„Thunderfisting Europe 2025“ tuur \nSündmuse FB leht: <a href=https://fb.me/e/3rixKeZHF>https://fb.me/e/3rixKeZHF</a>",
+    "märkmed": "„Thunderfisting Europe 2025“ tuur \nSündmuse FB kodukas: <a href=https://fb.me/e/3rixKeZHF>https://fb.me/e/3rixKeZHF</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBVjMFb4xIMSpsRz9lBOfQ4AeTiMlmz_W2Gq5pnHP6xG7w?e=x9g1PZ" ]
   },
   {
@@ -3301,7 +3319,7 @@
     ],
     "märkmed": [
       "Vennaskonna aastalõpukontsert ERM-is.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/3UScLMJuG>https://fb.me/e/3UScLMJuG</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/3UScLMJuG>https://fb.me/e/3UScLMJuG</a>",
       "",
       "<em>Vennaskond on üle nelja aastakümne olnud Eesti muusikamaastiku üks omanäolisemaid ja mõjukamaid bände. Nende tabavad ja poeetilised tekstid on innustanud põlvkondi, aidates paljudel noortel avastada eesti luule ja vabaduse vaim. Vennaskonna muusika ühendab lüürilisuse ja toore rokijõu – see teeb iga kontserdi eriliseks ja meeldejäävaks.</em>"
     ],
@@ -3318,7 +3336,7 @@
       { "nimi": "the Belka" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6X6i6GTXR>https://fb.me/e/6X6i6GTXR</a>",
       "<em>Klubi Rock & Roll teeb ja the Belka jõuab oma 31. sünnipäeva tähistamisega ka Tartusse. Kaua oodatud kontsert kõikide the Belka sõprade poolt.</em>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD5EguOuNxGT7_cg5oZABaZAalQfX9Q-pmMf_d4vtEB_UY?e=QCVHAb" ]
@@ -3332,7 +3350,7 @@
     "esineja": [
       { "nimi": "Terminaator" }
     ],
-    "märkmed": "Sai sõpradega üle hulga aja „Püssikas“ käidud. \nSündmuse FB leht: <a href=https://fb.me/e/3KF5TpKEW>https://fb.me/e/3KF5TpKEW</a>",
+    "märkmed": "Sai sõpradega üle hulga aja „Püssikas“ käidud. \nSündmuse FB kodukas: <a href=https://fb.me/e/3KF5TpKEW>https://fb.me/e/3KF5TpKEW</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCzRSE12A3pQbO1DKK-YruOAQD5HkwPvNHOjsF6Wskh50M?e=8uBu6q" ]
   },
   {
@@ -3347,7 +3365,7 @@
       { "nimi": "Tuvipoeg" },
       { "nimi": "Kurjam" }
     ],
-    "märkmed": "Kodulinna kontert „Taliharajafest“. \nSündmuse FB leht: <a href=https://fb.me/e/45nAQe6X0>https://fb.me/e/45nAQe6X0</a>",
+    "märkmed": "Kodulinna kontert „Taliharajafest“. \nSündmuse FB kodukas: <a href=https://fb.me/e/45nAQe6X0>https://fb.me/e/45nAQe6X0</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDYkzT8Rmf0RYaInYIFKog8ARngJcZuQ7WKcFJaUwx1hEs?e=ePXlu3" ]
   },
   {
@@ -3362,7 +3380,7 @@
       { "nimi": "Igorrr (FR)" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/1TvARgwznE>https://fb.me/e/1TvARgwznE</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/1TvARgwznE>https://fb.me/e/1TvARgwznE</a>",
       "<em>Žanriteülene loominguline plahvatus, Gautier Serre ehk Igorrr tutvustab oma sisemaailma</em>."
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAOYlRuXko-QrOmpM_smBRKAaI5raTMDgf8MZi8VAooFTM?e=8XNZrV" ]
@@ -3407,7 +3425,7 @@
     ],
     "märkmed": [
       "Amaranthe ja Epica ühendasid tuuriga „Arcane Dimensions“ jõud, <em>õhtu täis enneolematut energiat, rõkkavaid meloodiaid ja grandioosset sümfooniat</em>.",
-      "Sündmuse FB leht: <a href=https://fb.me/e/8JEWYFeQi>https://fb.me/e/8JEWYFeQi</a>"
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/8JEWYFeQi>https://fb.me/e/8JEWYFeQi</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCF2MiGiefFQ7wGZA6P5yTmAUjtXq4uh11W9r2TPDoLsTE?e=CDqZL5" ]
   },
@@ -3421,7 +3439,7 @@
       { "nimi": "Tüse Asi" },
       { "nimi": "Vikat" }
     ],
-    "märkmed": "RBMC Tartu Open House üritus, sündmuse FB leht: <a href=https://fb.me/e/4pHXzDKy9>https://fb.me/e/4pHXzDKy9</a>",
+    "märkmed": "RBMC Tartu Open House üritus, sündmuse FB kodukas: <a href=https://fb.me/e/4pHXzDKy9>https://fb.me/e/4pHXzDKy9</a>",
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDxdJgTZp7KQK7qOGtur5WNAfG6ZUNZMZi5IZAVmomPRlE?e=6qVXvz" ]
   },
   {
@@ -3452,7 +3470,7 @@
       { "nimi": "Powersolo" }
     ],
     "märkmed": [
-      "Sündmuse FB leht: <a href=https://fb.me/e/clox1XNHv>https://fb.me/e/clox1XNHv</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/clox1XNHv>https://fb.me/e/clox1XNHv</a>",
       "<em>Neljandat korda toimuv Jarfest toob Tartusse kolm välisartisti Taanist, Ameerika Ühendriikidest ja Soomest. Kohalikku skeenet esindavad Ihamaru, Hiiumaa ja Viljandi bändid.</em>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBcy469W8Z5Q56aaVdWmI2jAR6L8WP3eB5KkDcaI32x7Q0?e=ZAADYG" ]
