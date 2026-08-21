@@ -337,9 +337,30 @@ tr.no-results td {
   margin-left: 4px;
 }
 
-/* Alumine tühirida */
-tr.table-pad td {
-  height: 48px;
-  border-bottom: none;
-  cursor: default;
+/* ── Footer ─────────────────────────────────── */
+.table-footer {
+  padding: 20px 24px 28px;
+  font-size: 12px;
+  color: #6b6b68;
+  line-height: 1.7;
+  border-top: 1px solid #f0f0ee;
+}
+
+.table-footer p {
+  margin: 0;
+}
+
+/* ── Veergude peitmise järjekord ─────────────── */
+/* < 900px: KOHT peidetakse esmalt */
+@media (max-width: 900px) {
+  #events-table col.col-c3 { visibility: collapse; }
+  #events-table th:nth-child(3),
+  #events-table td:nth-child(3) { display: none; }
+}
+
+/* < 580px: ka ESINEJAD peidetakse */
+@media (max-width: 580px) {
+  #events-table col.col-c4 { visibility: collapse; }
+  #events-table th:nth-child(4),
+  #events-table td:nth-child(4) { display: none; }
 }
