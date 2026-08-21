@@ -181,12 +181,6 @@ fetch("events.json")
 
         tableBody.appendChild(row);
       });
-
-      // Tühi rida lõpus, et viimane sündmus ei oleks vastu ekraani serva
-      const padRow = document.createElement("tr");
-      padRow.className = "table-pad";
-      padRow.innerHTML = `<td colspan="5"></td>`;
-      tableBody.appendChild(padRow);
     }
 
     // Filtreerimine
