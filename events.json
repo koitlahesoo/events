@@ -330,120 +330,151 @@
     "algus": "2013-11-29",
     "lõpp": "2013-11-29",
     "sündmus": "Kontsert: Teine Eino, Bollocks Boyfriend Brothers Band, J.M.K.E.",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Teine Eino" },
       { "nimi": "Bollocks Boyfriend Brothers Band" },
       { "nimi": "J.M.K.E." }
     ],
-    "märkmed": "Teine Eino esimene kontsert - sai hakatud taas üle aastate bändi tegema ja nii ka ise lavale astutud!",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Teine Eino esimene kontsert - sai hakatud taas üle aastate bändi tegema ja nii ka ise lavale astutud!",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7eXiZw0VD>https://fb.me/e/7eXiZw0VD</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB4lzaOumXxTrsI3_q-UjS3AcJOdBwoFXfRc5Et3P4wxiA?e=6d2gFU" ]
   },
   {
     "id": "2013-11",
     "algus": "2013-12-06",
     "lõpp": "2013-12-06",
     "sündmus": "Kontsert: Gravity, Sõpruse Puiestee",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Gravity" },
       { "nimi": "Sõpruse Puiestee" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4IWfiTvaY>https://fb.me/e/4IWfiTvaY</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD_52ezKir1Sp2KXqXFWrhbAZlBYAWPeaWrEO_QZ1SpWPs?e=YpJ7SP" ]
   },
+
   {
     "id": "2014-01",
     "algus": "2014-02-01",
     "lõpp": "2014-02-01",
     "sündmus": "Kontsert: Seitsmes meel",
-    "koht": "Tartu",
+    "koht": "Tartu, Tartu Uus Teater",
     "esineja": [
       { "nimi": "Seitsmes meel" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6FTRSxwtm>https://fb.me/e/6FTRSxwtm</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAn2GrybmawRLWUt3PORc04AVyy9lpuCSrKFucEdkTLjh8?e=9ZDsGZ" ]
   },
   {
     "id": "2014-02",
     "algus": "2014-02-08",
     "lõpp": "2014-02-08",
-    "sündmus": "Kontsert: Magnetic Band, Novellus, Paradox",
-    "koht": "Tartu",
+    "sündmus": "Kontsert: Magnetic Band, Novellus, Paradoks",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Magnetic Band" },
       { "nimi": "Novellus" },
       { "nimi": "Paradox" }
     ],
-    "märkmed": "Kontsert \"Tühjad Pihud - Gunnar Grapsi Elu Ja Muusika\" \n<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Kontsert „Tühjad Pihud - Gunnar Grapsi Elu Ja Muusika“, sündmuse FB kodukas: <a href=https://fb.me/e/7AUcvpyhj>https://fb.me/e/7AUcvpyhj</a>",
+      "Parema kvaliteediga pilte esineja FB kodukalt: <a href=https://www.facebook.com/media/set/?set=a.550981715009975.1073741830.360391194069029&type=1>https://www.facebook.com/media/set/?set=a.550981715009975.1073741830.360391194069029&type=1</a>",
+      "<em>Ise tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBXDPWWzuTqQIA9gU6zmvKrAZB1DF4CspvKls5HU07tLq4?e=xxcQWT" ]
   },
   {
     "id": "2014-03",
     "algus": "2014-03-08",
     "lõpp": "2014-03-08",
-    "sündmus": "Kontsert: Tüse asi, A.K.G jt",
-    "koht": "Türi v Paide",
+    "sündmus": "Kontsert: Smokeout, Self-Made Hero, A.K.G, Tüse Asi",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
-      { "nimi": "Tüse asi" },
-      { "nimi": "A.K.G" },
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Smokeout" },
+      { "nimi": "Self-Made Hero" },
+      { "nimi": "A.K.G (Ainult Kaks Granaati)" },
+      { "nimi": "Tüse Asi" }
     ],
-    "märkmed": "Kontsert kuskil Türis v Paides, sai tehtud üks väljasõit, sest sõbrad esinesid! \n<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Tüse Asi 20“ sündmuse FB kodukas: <a href=https://fb.me/e/20grbw11pH>https://fb.me/e/20grbw11pH</a>",
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgASOLBxmFzETJYL8lrc2b6xAVwtYQgOC3ibDK8dnENWrP4?e=KeXgQa" ]
   },
   {
     "id": "2014-04",
     "algus": "2014-04-17",
     "lõpp": "2014-04-17",
     "sündmus": "Kontsert: DND ja Kosmikud",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "DND" },
       { "nimi": "Kosmikud" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6irPEXvUZ>https://fb.me/e/6irPEXvUZ</a>",
+      "Eelmise arutelus on viide professionaalsematele piltidele: <a href=https://www.flickr.com/photos/lailakaasik/albums/72157644079394752/>https://www.flickr.com/photos/lailakaasik/albums/72157644079394752/</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB1cSxYAwbhQ5iVy4yC3IG3AYI04ISDSrts3G2ijpIGYak?e=8olyf2" ]
   },
   {
     "id": "2014-05",
     "algus": "2014-05-02",
     "lõpp": "2014-05-02",
     "sündmus": "Kontsert: Inhabiit, Today I Learned, Maria Stuart, The Dead Fish and Trees",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Inhabiit" },
       { "nimi": "Today I Learned" },
       { "nimi": "Maria Stuart" },
       { "nimi": "The Dead Fish and Trees" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "„Band Battle 2. eelvoor“ sündmus, FB kodukas: <a href=https://fb.me/e/4U545BN2b>https://fb.me/e/4U545BN2b</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgByl8jYGqF9S7UqcTfRpvdJAdV5Ve80JKhJmomgMqQvcxE?e=8MISn4" ]
   },
   {
     "id": "2014-06",
     "algus": "2014-05-08",
     "lõpp": "2014-05-08",
     "sündmus": "Kontsert: Progress, Taavi Peterson ja Üdi",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Progress" },
       { "nimi": "Taavi Peterson ja Üdi" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "„Autorilaulufestival Mailaul 2014“ sündmuse osa, FB kodukas: <a href=https://fb.me/e/6uosWvLnF>https://fb.me/e/6uosWvLnF</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCDRDbW5krCQLIj7PP7CfN2AQIrunZS0rWOAds28FLLUsU?e=OIbQYl" ]
   },
   {
     "id": "2014-07",
     "algus": "2014-05-30",
     "lõpp": "2014-05-30",
     "sündmus": "OKK kontsert Armastuses",
-    "koht": "Tartu",
+    "koht": "Tartu, Armastus kohvik",
     "esineja": [
       { "nimi": "OKK" }
     ],
-    "märkmed": "Ühes Tartu kohvikus. Ei mäletagi täpselt, kuis me sinna sattusime ja kes seal täpselt esines, aga igatahes lõpuks läks jämmiks - sõber Meelis on kitarriga pildile jäänud, sai seal vist isegi pärast paar lugulaulu tehtud.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Ühes Tartu kohvikus, kirjade järgi esines OKK (Orava ja Kassi sünnipäev). Ei mäletagi täpselt, kuis ja miks me sinna sattusime, aga igatahes lõpuks läks jämmiks - sõber Meelis on kitarriga pildile jäänud, sai seal vist isegi pärast paar lugulaulu tehtud.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/84HgvmNOp>https://fb.me/e/84HgvmNOp</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD-ba8jxhzlQI0GiRB7Fx9_ASlrTZOLXcaPhFIgOecWrNc?e=WGbUSw" ]
   },
   {
     "id": "2014-08",
@@ -454,8 +485,8 @@
     "esineja": [
       { "nimi": "erinevad esinejad..." }
     ],
-    "märkmed": "Sai käidud poppi koorilaulu kuulamas. \n<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": "Sai käidud poppi koorilaulu kuulamas. \n<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et käidud ja nähtud.</em>",
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBf0t7WcHBcT5N6W4JZdGSRAej9zNam-fIgvdIAnBJC0vw?e=M6Q3dI" ]
   },
   {
     "id": "2014-09",
@@ -464,76 +495,104 @@
     "sündmus": "Ostrova festival 2014",
     "koht": "Ostrova, Setomaa",
     "esineja": [
-      { "nimi": "erinevad esinejad..." }
+      { "nimi": "Curly Strings", "kuupäev": "2014-07-18" },
+      { "nimi": "Lenna", "kuupäev": "2014-07-18" },
+      { "nimi": "Singer Vinger", "kuupäev": "2014-07-18" },
+      { "nimi": "Tanel Padar & The Sun", "kuupäev": "2014-07-18" },
+      { "nimi": "Zmitsier Vajtsiushkevich koos ansambliga WZ Orchestra (BLR)", "kuupäev": "2014-07-19" },
+      { "nimi": "Contra", "kuupäev": "2014-07-19" },
+      { "nimi": "Asso Int ja Martin Müller", "kuupäev": "2014-07-19" },
+      { "nimi": "Mikk Tammepõld ja bänd", "kuupäev": "2014-07-19" },
+      { "nimi": "Dagö", "kuupäev": "2014-07-19" },
+      { "nimi": "Kolumbus Kris", "kuupäev": "2014-07-19" },
+      { "nimi": "Ummamuudu", "kuupäev": "2014-07-19" }
     ],
-    "märkmed": "Üks vahva festival Setomaal Ostrova külas. Vana telefoni fotode kvaliteet jätab soovida, aga jäädvustused mälestuseks on olemas.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Üks vahva festival Setomaal Ostrova külas. Vana telefoni fotode kvaliteet jätab soovida, aga jäädvustused mälestuseks on olemas. Pisut teise päeva algust on puudu, panin nimekirja, mida jäädvustasin.",
+      "Tegin oma piltidega FB albumi: <a href=https://www.facebook.com/media/set/?set=a.706250952743902&type=3>https://www.facebook.com/media/set/?set=a.706250952743902&type=3</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/gqbkuItwD>https://fb.me/e/gqbkuItwD</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBV7IkCI2J3SItsWb8J1wo9AVk8YpaIZfmZ3VKVeE_1zBo?e=xK4q0j" ]
   },
   {
     "id": "2014-10",
     "algus": "2014-12-05",
     "lõpp": "2014-12-05",
     "sündmus": "Kontsert: Metro Luminal",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Metro Luminal" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4KaZNZhlC>https://fb.me/e/4KaZNZhlC</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBFdBO26iA0RY8k7T-o6TaWAShBzAw9oH4ZqE65YisQIB4?e=7vZCF2" ]
   },
+
   {
     "id": "2015-01",
     "algus": "2015-01-30",
     "lõpp": "2015-01-30",
     "sündmus": "Kontsert: Super Hot Cosmos Blues Band, Six Feet Club",
-    "koht": "Tartu",
+    "koht": "Tartu, Genialistide Klubi",
     "esineja": [
       { "nimi": "Super Hot Cosmos Blues Band" },
       { "nimi": "Six Feet Club" }
     ],
-    "märkmed": "<em>Mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
-    "pildid": [ "" ]
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, aga jäädvustatud, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/8dg3N4p7A>https://fb.me/e/8dg3N4p7A</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDK146ROEGMQ5z_xCr-rg2SAcHwnlUvv1BNacUA84Ft94o?e=LW9q3z" ]
   },
   {
     "id": "2015-02",
     "algus": "2015-02-13",
     "lõpp": "2015-02-13",
     "sündmus": "Kontsert: Vennaskond, Eleenium, Blueintheface, Fumble",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Eleenium" },
-      { "nimi": "Fumble" },
-      { "nimi": "Blueintheface" },
+      { "nimi": "Fumble (FIN)" },
+      { "nimi": "Blueintheface (FIN)" },
       { "nimi": "Vennaskond" }
     ],
-    "märkmed": "Kontsert Tartus, esines taas ka mullu avastatud Soome äge punt Blueintheface, kellega sai ka \"fännipilte\" tehtud.",
-    "pildid": [ "" ]
+    "märkmed": [
+      "„Reede 13“ kontsert Tartus, esines taas ka mullu avastatud Soome äge punt Blueintheface, kellega sai ka „fännipilte“ tehtud.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/73DWqC8sw>https://fb.me/e/73DWqC8sw</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC78zkfgrcITaatE6asuT5ZAUL9FSaZxV7I3QyMUTkr6AA?e=1XqhpG" ]
   },
   {
     "id": "2015-03",
     "algus": "2015-05-02",
     "lõpp": "2015-05-02",
     "sündmus": "Kontsert: Vennaskond",
-    "koht": "Tartu",
+    "koht": "Tartu, Vabaduse puiestee",
     "esineja": [
       { "nimi": "Vennaskond" }
     ],
-    "märkmed": "Mälestused Vennaskonna kontserdilt, sai vaadatud ja kuulatud ja mõned mälestused jäädvustatud ja no see \"Tseremoonia\"!!! :)",
-    "pildid": [ "" ]
+    "märkmed": [
+      "Mälestused „Tartu kevadpäevad / Tudengipäevad“ Vennaskonna kontserdilt, sai vaadatud ja kuulatud ja mõned jäädvustused tehtud ja no see „Tseremoonia“!!! :)",
+      "Otsest selle kontserdi kodukat ei leia, sündmuse üldisem FB koduleht: <a href=https://fb.me/e/eKwUKgXC1>https://fb.me/e/eKwUKgXC1</a>",
+      "Vennaskonna FB koduka piltides leidub ka teiste vahel mõningaid pilte sellelt sündmuselt: <a href=https://www.facebook.com/photo/?fbid=10155724058980084&set=vennaskond-tartu-2-5-2015>https://www.facebook.com/photo/?fbid=10155724058980084&set=vennaskond-tartu-2-5-2015</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC5Mt3uRMZ_Rr8Cv4QldiTQAfgI4KzGdGXC73YmiPARfjg?e=LKx7ae" ]
   },
   {
     "id": "2015-04",
     "algus": "2015-05-30",
     "lõpp": "2015-05-30",
     "sündmus": "Kontsert: Teine Eino, Vanemõde, Six Feet Club",
-    "koht": "Tartu",
+    "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Teine Eino" },
       { "nimi": "Vanemõde" },
       { "nimi": "Six Feet Club" }
     ],
     "märkmed": [
-      "Kui ise Teine Einoga laval olin, siis ei saand endal neist-meist pilte tehtud. Hea, kui leiaks mõnelt pealtvaatajalt mälestuskaadreid!?!",
+      "Kui ise Teine Einoga laval olin, siis ei saand endal neist-meist pilte tehtud. Hea, kui leiaks mõnelt pealtvaatajalt mälestuskaadreid!?! :)",
       "Sündmuse FB kodukas: <a href=https://fb.me/e/4ZcazP5sF>https://fb.me/e/4ZcazP5sF</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAp2UAnzdLLTp6_kdVrM1r5Ad4fTRAmNgLBLR0cqbwTGpo?e=6R3kGi" ]
