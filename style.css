@@ -351,32 +351,30 @@ tr.no-results td {
 }
 
 /* ── Veergude laiused (desktop, table-layout:fixed) ── */
-#events-table col.col-c1 { width: 150px; }   /* KUUPÄEV – piisab kuupäevavahemikule */
+#events-table col.col-c1 { width: 175px; }   /* KUUPÄEV – kuupäevavahemik mahub */
 #events-table col.col-c3 { width: 155px; }   /* KOHT */
 #events-table col.col-c4 { width: 270px; }   /* ESINEJAD */
-#events-table col.col-c5 { width: 48px;  }   /* PILDID */
+#events-table col.col-c5 { width: 52px;  }   /* PILDID */
 /* col-c2 (SÜNDMUS) on auto – võtab ülejäänud ruumi */
 
 /* ── Veergude peitmise järjekord ─────────────── */
 
-/* 580–900px: KOHT kaob; ESINEJAD kitseneb; PILDID lukus */
+/* < 900px: lülitub auto-layoutile → display:none toimib korralikult.
+   KOHT kaob, ESINEJAD kitseneb, PILDID lukus, SÜNDMUS min-width. */
 @media (max-width: 900px) {
-  #events-table col.col-c3 { width: 0; }
+  #events-table { table-layout: auto; }
   #events-table th:nth-child(3),
   #events-table td:nth-child(3) { display: none; }
-  #events-table col.col-c4 { width: 150px; }
-  #events-table col.col-c5 { width: 48px; }
+  #events-table th:nth-child(4),
+  #events-table td:nth-child(4) { width: 190px; }
+  #events-table th:nth-child(5),
+  #events-table td:nth-child(5) { width: 52px; max-width: 52px; }
+  #events-table td.col-event    { min-width: 150px; }
 }
 
-/* < 580px (mobiil): ESINEJAD kaob ka; auto-layout et min-width toimiks */
+/* < 580px: ESINEJAD kaob ka */
 @media (max-width: 580px) {
-  #events-table { table-layout: auto; }
-  #events-table col.col-c4 { width: 0; }
   #events-table th:nth-child(4),
   #events-table td:nth-child(4) { display: none; }
-  #events-table th:nth-child(1),
-  #events-table td:nth-child(1) { width: 110px; }
-  #events-table th:nth-child(5),
-  #events-table td:nth-child(5) { width: 48px; max-width: 48px; }
-  #events-table td.col-event { min-width: 120px; }
+  #events-table td.col-event    { min-width: 120px; }
 }
