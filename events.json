@@ -33,7 +33,14 @@
       { "nimi": "Popidiot", "kuupäev": "2011-07-23" },
       { "nimi": "Kosmikud", "kuupäev": "2011-07-23" }
     ],
-    "märkmed": "Tore festival Viljandis toredate sõpradega. \nVeel esinesid, aga ei jäänud minu pildile: Raudraev 22.07, Pilvikud 22.07, Zorg 22.07, Winny Puhh 22.07, Revolver 23.07, A-Rühm 23.07, Nihilistikrypt 23.07, Tanel Padar 23.07, Bombillaz 23.07; esimese õhtu-öö Talbot ei olnud otseselt festivali kavas, seda kaesime päeva aftekal \"Tehases\". \n\nToo aeg ma viitsisin veel pilta ka FB-sse postitada, minu album: <a href=https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.230221637013505>https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.230221637013505</a> \n\nÜks ülevaade ka internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/rock-ramp-2011/>https://tume-maailm.pri.ee/blog/rock-ramp-2011/</a>",
+    "märkmed": [
+      "Tore festival Viljandis toredate sõpradega.",
+      "Veel esinesid, aga ei jäänud minu pildile: Raudraev 22.07, Pilvikud 22.07, Zorg 22.07, Winny Puhh 22.07, Revolver 23.07, A-Rühm 23.07, Nihilistikrypt 23.07, Tanel Padar 23.07, Bombillaz 23.07; esimese õhtu-öö Talbot ei olnud otseselt festivali kavas, seda kaesime päeva aftekal „Tehases“.",
+      "",
+      "Too aeg ma viitsisin veel pilta ka FB-sse postitada, minu album: <a href=https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.230221637013505>https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.230221637013505</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/9N9v82QNf>https://fb.me/e/9N9v82QNf</a>",
+      "Üks ülevaade ka internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/rock-ramp-2011/>https://tume-maailm.pri.ee/blog/rock-ramp-2011/</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDiOBNjGZLOTqLKJNcoDDqRAdzkv7HSNOyj8Tazhb6216w?e=uBZrbk" ]
   },
   {
@@ -51,7 +58,15 @@
       { "nimi": "Everfade" },
       { "nimi": "Nevesis" }
     ],
-    "märkmed": "Tartus oli vana Karu platsi pääl vana UG ees siuke tore TASUTA asi. \nOnu Bella oli muidu õhtujuhi eest, tema esinemine oli kavas nimega \"Üllatusartistid ja tantsutüdrukud\". \nIse jõudsin veidi hilinemisega, enne minu esimest pilti esinesid veel: X-Panda, Morguevara, Tapper. \n\nToo aeg ma viitsisin veel pilta ka FB-sse postitada, minu album: <a href=https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.346123978756603>https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.346123978756603</a> \n\nÜks tore ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/puhapaev-1943-2/>https://tume-maailm.pri.ee/blog/puhapaev-1943-2/</a>",
+    "märkmed": [
+      "Tartus oli vana Karu platsi pääl vana UG ees siuke tore TASUTA asi.",
+      "Onu Bella oli muidu õhtujuhi eest, tema esinemine oli kavas nimega „Üllatusartistid ja tantsutüdrukud“.",
+      "Ise jõudsin veidi hilinemisega, enne minu esimest pilti esinesid veel: X-Panda, Morguevara, Tapper.",
+      "",
+      "Too aeg ma viitsisin veel pilta ka FB-sse postitada, minu album: <a href=https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.346123978756603>https://www.facebook.com/media/set/?vanity=koit.lahesoo&set=a.346123978756603</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/8qWlXzYEB>https://fb.me/e/8qWlXzYEB</a>",
+      "Üks tore ülevaade internetiavarustest, loodetavasti jääb see blogi püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/puhapaev-1943-2/>https://tume-maailm.pri.ee/blog/puhapaev-1943-2/</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD0y3znEaEfRbrFB3n_0M_BAR4EEfTyEIteqXFhGVvDx_c?e=mdnz5r" ]
   },
   {
@@ -372,6 +387,32 @@
   },
   {
     "id": "2013-07",
+    "algus": "2013-07-06",
+    "lõpp": "2013-07-07",
+    "sündmus": "Schilling 2013 festival",
+    "koht": "Kilingi-Nõmme",
+    "esineja": [
+      { "nimi": "Just Another Snake Cult", "kuupäev": "2013-07-06" },
+      { "nimi": "Uus Energia", "kuupäev": "2013-07-06" },
+      { "nimi": "Badass Yuki", "kuupäev": "2013-07-06" },
+      { "nimi": "Mokh", "kuupäev": "2013-07-06" },
+      { "nimi": "Pia Fraus", "kuupäev": "2013-07-06" },
+      { "nimi": "Kurjam", "kuupäev": "2013-07-06" },
+      { "nimi": "Camera", "kuupäev": "2013-07-06" },
+      { "nimi": "Melting Hearts", "kuupäev": "2013-07-06" },
+      { "nimi": "Metro Luminal", "kuupäev": "2013-07-06" },
+      { "nimi": "The Mary Onettes", "kuupäev": "2013-07-06" },
+      { "nimi": "Light Asylum", "kuupäev": "2013-07-07" },
+      { "nimi": "Junk Riot", "kuupäev": "2013-07-07" }
+    ],
+    "märkmed": [
+      "Käisin taas 'ilusa muusika' festivalil.",
+      "Sündmuse FB leht: <a href=https://fb.me/e/49CjTHUfK>https://fb.me/e/49CjTHUfK</a>"
+    ],
+    "pildid": [ "" ]
+  },
+  {
+    "id": "2013-08",
     "algus": "2013-10-04",
     "lõpp": "2013-10-04",
     "sündmus": "Kontsert: Cathouse Radio, Sibyl Vane, DND",
@@ -388,7 +429,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB2AcErbA0fSothkhfv4PRiAUJnTbrY0gthLRZzXSFy9a8?e=FSjqgj" ]
   },
   {
-    "id": "2013-08",
+    "id": "2013-09",
     "algus": "2013-11-08",
     "lõpp": "2013-11-08",
     "sündmus": "Kontsert: Arles Kangus & Udu, Metro Luminal",
@@ -404,7 +445,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBylAvUHHKYR6O3JnvMlD0yAadFnQx8WZGtHa7PvMD5XyM?e=bTMk0W" ]
   },
   {
-    "id": "2013-09",
+    "id": "2013-10",
     "algus": "2013-11-16",
     "lõpp": "2013-11-16",
     "sündmus": "Kontsert: Jana Kask & Mai Skizo",
@@ -415,12 +456,15 @@
     ],
     "märkmed": [
       "<em>Tegin mõned hägusad pildid vana telefoniga, et jäädvustada, et sai käidud ja nähtud.</em>",
-      "NB! TÄPSUSTADA soojendusesineja - pildil duo naislaulja ja akustilise kitarriga noormehega!"
+      "<strong>NB! TÄPSUSTADA soojendusesineja</strong> - pildil duo naislaulja ja akustilise kitarriga noormehega!",
+      "Ka veebis võib leida nende pilte, sealgi pole kirjutet, kes täpsemalt esineb. Leitud pilte:",
+      "<ul><a href=https://www.facebook.com/photo?fbid=257089031111383&set=a.257088731111413>https://www.facebook.com/photo?fbid=257089031111383&set=a.257088731111413</a>",
+      ""
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRIBzoT7vvSbP0Etg8E8D9AWzQficagGyqU4ZnM_u-eqc?e=E2QfwW" ]
   },
   {
-    "id": "2013-10",
+    "id": "2013-11",
     "algus": "2013-11-29",
     "lõpp": "2013-11-29",
     "sündmus": "Kontsert: Teine Eino, Bollocks Boyfriend Brothers Band, J.M.K.E.",
@@ -437,7 +481,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB4lzaOumXxTrsI3_q-UjS3AcJOdBwoFXfRc5Et3P4wxiA?e=6d2gFU" ]
   },
   {
-    "id": "2013-11",
+    "id": "2013-12",
     "algus": "2013-12-06",
     "lõpp": "2013-12-06",
     "sündmus": "Kontsert: Gravity, Sõpruse Puiestee",
