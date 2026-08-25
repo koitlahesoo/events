@@ -351,7 +351,7 @@ tr.no-results td {
 }
 
 /* ── Veergude laiused (desktop, table-layout:fixed) ── */
-#events-table col.col-c1 { width: 175px; }   /* KUUPÄEV – kuupäevavahemik mahub */
+#events-table col.col-c1 { width: 180px; }   /* KUUPÄEV – kuupäevavahemik mahub */
 #events-table col.col-c3 { width: 155px; }   /* KOHT */
 #events-table col.col-c4 { width: 270px; }   /* ESINEJAD */
 #events-table col.col-c5 { width: 52px;  }   /* PILDID */
