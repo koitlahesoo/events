@@ -361,6 +361,6 @@ tr.no-results td {
 /* < 580px: ka ESINEJAD peidetakse */
 @media (max-width: 580px) {
   #events-table col.col-c4 { visibility: collapse; }
-  #events-table th:nth-child(4),
-  #events-table td:nth-child(4) { display: none; }
+  #events-table th.col-h4,
+  #events-table td.col-h4 { display: none; }
 }
