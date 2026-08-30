@@ -407,9 +407,10 @@
     ],
     "märkmed": [
       "Käisin taas 'ilusa muusika' festivalil.",
+      "Toona viitsisin oma pildid ka FB albumisse lisada: <a href=https://www.facebook.com/media/set/?set=a.541620689206930>https://www.facebook.com/media/set/?set=a.541620689206930</a>",
       "Sündmuse FB leht: <a href=https://fb.me/e/49CjTHUfK>https://fb.me/e/49CjTHUfK</a>"
     ],
-    "pildid": [ "" ]
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBRvzEnmqhDSL0uK17R4xgWARxTCv-IE5VIG3Tu8ythpCA?e=JqfQBv" ]
   },
   {
     "id": "2013-08",
@@ -1164,7 +1165,11 @@
       { "nimi": "Killswitch Engage" },
       { "nimi": "Iron Maiden" }
     ],
-    "märkmed": "„Legacy of the Beast“ tuur. Sündmuse FB kodukas: <a href=https://fb.me/e/7e6nmpWK9>https://fb.me/e/7e6nmpWK9</a>",
+    "märkmed": [
+      "„Legacy of the Beast“ tuur.",
+      "Minu jäädvustustes lõpus ka tänavamuusikud, kes pääle konsat halli ees rahvale täiendavat toredat meelelahutust pakkusid.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7e6nmpWK9>https://fb.me/e/7e6nmpWK9</a>"
+    ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBv_sLbsz5HTIRQIA71jX6yAYqD_2xuBgU03BVgFFuS5MQ?e=PwHrIf" ]
   },
   {
@@ -3807,5 +3812,21 @@
       "Kosmikud: <a href=https://www.facebook.com/photo/?fbid=3603722469774847&set=pcb.3603751633105264>https://www.facebook.com/photo/?fbid=3603722469774847&set=pcb.3603751633105264</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDAJTE-vsi6SqQ0Pf5Kj8iBAfMVqOeqwWAiFmT0rTJ-9ok?e=rft3DG" ]
+  },
+  {
+    "id": "2026-17",
+    "algus": "2026-08-29",
+    "lõpp": "2026-08-29",
+    "sündmus": "Kontsert: Airbourne",
+    "koht": "Tallinn, Helitehas",
+    "esineja": [
+      { "nimi": "Airbourne (AUS)" }
+    ],
+    "märkmed": [
+      "„Gutsy“ tuur - Airbourne Austraaliast - täiega energiast pakatav punt!",
+      "Kavas oli ka Elephants From Neptune, aga neil lasti laval olla vist alla 45 minuti, kui ma kohale jõudsin, olid nad juba lõpetanud.",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/73bnje6gB>https://fb.me/e/73bnje6gB</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgAnE9Tt3Y72T5aaFZtaVZGrAVBtP6hCdNzpZDf2C3QVN3I?e=h50a2l" ]
   }
 ]
