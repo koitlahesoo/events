@@ -504,8 +504,7 @@
       { "nimi": "Progress" },
       { "nimi": "Gravity" },
       { "nimi": "TLH" },
-      { "nimi": "" },
-      { "nimi": "" },
+      { "nimi": "Good Night I`m Drunk" },
       { "nimi": "DND" },
       { "nimi": "A.K.G. (Ainult Kaks Granaati)" },
       { "nimi": "Apelsin" },
@@ -513,7 +512,7 @@
     ],
     "märkmed": [
       "Kuma raadio ja AS Kuma sünnipäeva kontsert Paide spordihallis, kus ka sõbrad esinesid.",
-      "TÄPSUSTADA keskel paar bändi - üks peaks olema „Good Night I`m Drunk“, teine suisa väljaspool FB koduka kava.",
+      "",
       "<em>Tegin mõned hägusad pildid vana telefoniga, et jäädvustada, et sai käidud ja nähtud.</em>",
       "",
       "Sündmuse FB kodukas: <a href=https://fb.me/e/4XcdF7Y7F>https://fb.me/e/4XcdF7Y7F</a>"
@@ -660,12 +659,12 @@
     "id": "2014-03",
     "algus": "2014-03-08",
     "lõpp": "2014-03-08",
-    "sündmus": "Kontsert: Smokeout, Self-Made Hero, A.K.G, Tüse Asi",
+    "sündmus": "Kontsert: Smokeout, Self-Made Hero, A.K.G., Tüse Asi",
     "koht": "Tartu, Rock & Roll",
     "esineja": [
       { "nimi": "Smokeout" },
       { "nimi": "Self-Made Hero" },
-      { "nimi": "A.K.G (Ainult Kaks Granaati)" },
+      { "nimi": "A.K.G. (Ainult Kaks Granaati)" },
       { "nimi": "Tüse Asi" }
     ],
     "märkmed": [
