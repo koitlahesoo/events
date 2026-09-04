@@ -414,6 +414,131 @@
   },
   {
     "id": "2013-08",
+    "algus": "2013-07-19",
+    "lõpp": "2013-07-20",
+    "sündmus": "Ostrova festival 2013",
+    "koht": "Ostrova, Setomaa",
+    "esineja": [
+      { "nimi": "Oort", "kuupäev": "2013-07-19" },
+      { "nimi": "Kosmikud", "kuupäev": "2013-07-19" },
+      { "nimi": "Zetod", "kuupäev": "2013-07-19" },
+      { "nimi": "Seto Miihi Summ", "kuupäev": "2013-07-20" },
+      { "nimi": "Moskva-Odessa Bänd", "kuupäev": "2013-07-20" },
+      { "nimi": "Contra", "kuupäev": "2013-07-20" },
+      { "nimi": "Kiiora", "kuupäev": "2013-07-20" },
+      { "nimi": "Lüü-Türr", "kuupäev": "2013-07-20" },
+      { "nimi": "Ukerdajad", "kuupäev": "2013-07-20" },
+      { "nimi": "Terminaator", "kuupäev": "2013-07-20" },
+      { "nimi": "Merca", "kuupäev": "2013-07-20" },
+      { "nimi": "Untsakad", "kuupäev": "2013-07-20" }
+    ],
+    "märkmed": [
+      "Tore festival Setomaal Ostrova külas. Esimene päev veidi udusemad vana mobiili jäädvustused, teine päev sai miski seebikarp-kaameraga pildistet.",
+      "Tegin oma piltidega FB albumi: <a href=https://www.facebook.com/koit.lahesoo/media_set?set=a.546362195399446.1073741829.100000770118210>https://www.facebook.com/koit.lahesoo/media_set?set=a.546362195399446.1073741829.100000770118210</a>",
+      "Paremaid pilte võib leida festivali koduka galeriist: <a href=https://www.facebook.com/photo/?fbid=557018984345954&set=a.557018777679308>https://www.facebook.com/photo/?fbid=557018984345954&set=a.557018777679308</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/7B6ZkMSS4>https://fb.me/e/7B6ZkMSS4</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCyAgr3WdwNR5h14P7TNDAJAY3QfhPoquKXgZF0P-7BrRU?e=VcoSrr" ]
+  },
+  {
+    "id": "2013-09",
+    "algus": "2013-08-01",
+    "lõpp": "2013-08-04",
+    "sündmus": "RockRamp festival 2013",
+    "koht": "Viljandi",
+    "esineja": [
+      { "nimi": "Pööloy Gläänz", "kuupäev": "2013-08-01" },
+      { "nimi": "Jetpack Stanley", "kuupäev": "2013-08-01" },
+      { "nimi": "Liqui Fuzz", "kuupäev": "2013-08-01" },
+      { "nimi": "O.R.G.A.S.M. ehk Of Roofs Genes And Stolen Meanings", "kuupäev": "2013-08-01" },
+      { "nimi": "Throcyte", "kuupäev": "2013-08-01" },
+      { "nimi": "Ziggy Wild", "kuupäev": "2013-08-01" },
+      { "nimi": "Deathcats", "kuupäev": "2013-08-01" },
+      { "nimi": "Udu", "kuupäev": "2013-08-02" },
+      { "nimi": "Maxtraktor", "kuupäev": "2013-08-02" },
+      { "nimi": "Hajameelsed Kunznikud", "kuupäev": "2013-08-02" },
+      { "nimi": "Epoche", "kuupäev": "2013-08-02" },
+      { "nimi": "Emerald", "kuupäev": "2013-08-02" },
+      { "nimi": "Hu?", "kuupäev": "2013-08-02" },
+      { "nimi": "S.E.K.S. ehk Sünkroonujujad Endisest Kastepiisa Seltsimajast", "kuupäev": "2013-08-02" },
+      { "nimi": "Redneck Rampage", "kuupäev": "2013-08-02" },
+      { "nimi": "The Angus", "kuupäev": "2013-08-02" },
+      { "nimi": "Shanon", "kuupäev": "2013-08-02" },
+      { "nimi": "DND", "kuupäev": "2013-08-02" },
+      { "nimi": "No-Big-Silence", "kuupäev": "2013-08-02" },
+      { "nimi": "Machete", "kuupäev": "2013-08-03" },
+      { "nimi": "Sibyl Vane", "kuupäev": "2013-08-03" },
+      { "nimi": "Slippery Slope", "kuupäev": "2013-08-03" },
+      { "nimi": "Köömes", "kuupäev": "2013-08-03" },
+      { "nimi": "Nion", "kuupäev": "2013-08-03" },
+      { "nimi": "Wyrm Sub Terra", "kuupäev": "2013-08-03" },
+      { "nimi": "Slinghunt", "kuupäev": "2013-08-03" },
+      { "nimi": "Soul Thrower", "kuupäev": "2013-08-03" },
+      { "nimi": "Psychiatric Ward", "kuupäev": "2013-08-03" },
+      { "nimi": "Ott Lepland", "kuupäev": "2013-08-03" },
+      { "nimi": "Driven", "kuupäev": "2013-08-03" },
+      { "nimi": "Pedigree", "kuupäev": "2013-08-03" },
+      { "nimi": "HND (akustiline)", "kuupäev": "2013-08-03" },
+      { "nimi": "Winny Puhh", "kuupäev": "2013-08-03" },
+      { "nimi": "Sinine", "kuupäev": "2013-08-04" },
+      { "nimi": "The Fuxx", "kuupäev": "2013-08-04" }
+    ],
+    "märkmed": [
+      "Taas jõudsin sellele toredale Viljandi festivalile - 30+ kodumaist bändi!",
+      "Jäädvustused algavad festivali eelõhtust Tehase sündmuselt. Mitmeid toredaid bände, teiste seas mullu „VAU!“ mulje jätnud Liqui Fuzz :)",
+      "Vahel on ka jäädvustusi Viljandist ja „Motoramm“ sündmuselt ja ka mõned sõbrad jäid kaadrisse.",
+      "Kahe festivali päeva vahel Tehasesse ei jõudnud, aga lõpukaadrid on taas sealt.",
+      "",
+      "jee7'e blog, kus üks ülevaade ja ka pilte, loodetavasti püsib see kodukas läbi aegade: <a href=https://tume-maailm.pri.ee/blog/rock-ramp-2013/>https://tume-maailm.pri.ee/blog/rock-ramp-2013/</a>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6wOyOqkTU>https://fb.me/e/6wOyOqkTU</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgC8l0ZwEDdaTKinH9PfGFrkAffawlQUwYBRJxNTEcWGMJ8?e=hWIuJb" ]
+  },
+  {
+    "id": "2013-10",
+    "algus": "2013-08-31",
+    "lõpp": "2013-08-31",
+    "sündmus": "Kuma raadio ja Kuma sünna: A.K.G., DND, Apelsin jt",
+    "koht": "Paide",
+    "esineja": [
+      { "nimi": "Progress" },
+      { "nimi": "Gravity" },
+      { "nimi": "TLH" },
+      { "nimi": "" },
+      { "nimi": "" },
+      { "nimi": "DND" },
+      { "nimi": "A.K.G. (Ainult Kaks Granaati)" },
+      { "nimi": "Apelsin" },
+      { "nimi": "X:Sortiment" }
+    ],
+    "märkmed": [
+      "Kuma raadio ja AS Kuma sünnipäeva kontsert Paide spordihallis, kus ka sõbrad esinesid.",
+      "TÄPSUSTADA keskel paar bändi - üks peaks olema „Good Night I`m Drunk“, teine suisa väljaspool FB koduka kava.",
+      "<em>Tegin mõned hägusad pildid vana telefoniga, et jäädvustada, et sai käidud ja nähtud.</em>",
+      "",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4XcdF7Y7F>https://fb.me/e/4XcdF7Y7F</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDSmTMKhZaDTp3Wcj98atBSAV8TAVtbBG_g_WcjJzOTrxg?e=Po2tXe" ]
+  },
+  {
+    "id": "2013-11",
+    "algus": "2013-09-13",
+    "lõpp": "2013-09-13",
+    "sündmus": "Kontsert: The Fucking World, Blue In The Face, Vennaskond",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "The Fucking World" },
+      { "nimi": "Blue In The Face" },
+      { "nimi": "Vennaskond" }
+    ],
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, et jäädvustada, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/6p74vp9Ed>https://fb.me/e/6p74vp9Ed</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCg3oo9A9S1SJkbkfVgdkj2AaEK_vmwL-60vnt93-cz8Ws?e=9KYuD4" ]
+  },
+  {
+    "id": "2013-12",
     "algus": "2013-10-04",
     "lõpp": "2013-10-04",
     "sündmus": "Kontsert: Cathouse Radio, Sibyl Vane, DND",
@@ -430,7 +555,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB2AcErbA0fSothkhfv4PRiAUJnTbrY0gthLRZzXSFy9a8?e=FSjqgj" ]
   },
   {
-    "id": "2013-09",
+    "id": "2013-13",
     "algus": "2013-11-08",
     "lõpp": "2013-11-08",
     "sündmus": "Kontsert: Arles Kangus & Udu, Metro Luminal",
@@ -446,7 +571,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBylAvUHHKYR6O3JnvMlD0yAadFnQx8WZGtHa7PvMD5XyM?e=bTMk0W" ]
   },
   {
-    "id": "2013-10",
+    "id": "2013-14",
     "algus": "2013-11-16",
     "lõpp": "2013-11-16",
     "sündmus": "Kontsert: Jana Kask & Mai Skizo",
@@ -465,7 +590,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRIBzoT7vvSbP0Etg8E8D9AWzQficagGyqU4ZnM_u-eqc?e=E2QfwW" ]
   },
   {
-    "id": "2013-11",
+    "id": "2013-15",
     "algus": "2013-11-29",
     "lõpp": "2013-11-29",
     "sündmus": "Kontsert: Teine Eino, Bollocks Boyfriend Brothers Band, J.M.K.E.",
@@ -482,7 +607,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB4lzaOumXxTrsI3_q-UjS3AcJOdBwoFXfRc5Et3P4wxiA?e=6d2gFU" ]
   },
   {
-    "id": "2013-12",
+    "id": "2013-16",
     "algus": "2013-12-06",
     "lõpp": "2013-12-06",
     "sündmus": "Kontsert: Gravity, Sõpruse Puiestee",
@@ -1670,7 +1795,7 @@
     ],
     "märkmed": [
       "Eriolukord - COVID möllas maailmas, piiratud külastajate arvuga, ainult Eesti esinejad. Samas 2020. aasta suurim Euroopa rokifestival!",
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07.",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): DND 03.07, Thou Shell Of Death 03.07, Destroy Uranus 04.07, Defeatem 04.07, Pime 04.07, Rattler 04.07, Taak 04.07.",
       "Sündmuse FB kodukas, seal arutelus võib vast leida viiteud ka mu poolt jäädvustamata osale: <a href=https://fb.me/e/2lXMNEopr>https://fb.me/e/2lXMNEopr</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCkoqsbQl_6QqhCzjW80K9PAbPq1SKrHF0DZFd1isBB-ec?e=b3e0Mi" ]
@@ -1797,7 +1922,7 @@
     ],
     "märkmed": [
       "COVID järelkaja, ainult Eesti esinejad.",
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Juur 02.07, Deceitome 03.07",
       "",
       "Sündmuse FB kodukas: <a href=https://fb.me/e/ht06VizGD>https://fb.me/e/ht06VizGD</a>",
       "Üks hea ülevaade internetiavarustest - jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2021/</a> "
@@ -2033,7 +2158,7 @@
       { "nimi": "Benediction", "kuupäev": "2022-07-02" }
     ],
     "märkmed": [
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Talbot 01.07, Baroness 01.07, Beyond the Structure 02.07",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Talbot 01.07, Baroness 01.07, Beyond the Structure 02.07",
       "",
       "Üks hea ülevaade internetiavarustest - jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2022/</a>"
     ],
@@ -2309,7 +2434,7 @@
       { "nimi": "Arch Enemy (SWE)", "kuupäev": "2023-07-02" }
     ],
     "märkmed": [
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Māra (LVA) 01.07, Ūkanose (LTU) 01.07, Intrepid 01.07, Evil Invaders 01.07 (BEL)",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Māra (LVA) 01.07, Ūkanose (LTU) 01.07, Intrepid 01.07, Evil Invaders 01.07 (BEL)",
       "Päris mitu bändi jäi suisa nägemata - see on see vahepealne „laagrimelus“ olemine, kui tegeled sekka puhkamise ja mängimisega :). Ūkanose Leedust - neid isegi põgusalt möödaminnes nägin, kui ujumas käisin, isegi meeldis, aga telo polnd kaasas ja laval olekut pildile ei saand, samas olid nad telklas meie naabruses ja seal sai mõned jämmikaadrid tehtud.",
       "",
       "Sündmuse FB kodukas, kus arutelus leidub ka pilta-värka: <a href=https://fb.me/e/2BApNxlZ3>https://fb.me/e/2BApNxlZ3</a>",
@@ -2703,7 +2828,7 @@
       { "nimi": "Hypocrisy (SWE)", "kuupäev": "2024-06-30" }
     ],
     "märkmed": [
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Nihilistikrypt 28.06, Deceitome 29.06 ",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Nihilistikrypt 28.06, Deceitome 29.06 ",
       "Sündmuse FB kodukas, kus võib ka erinevaid jäädvustusi leida: <a href=https://fb.me/e/6OhMXZH6M>https://fb.me/e/6OhMXZH6M</a>",
       "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2024/</a> "
     ],
@@ -3203,7 +3328,7 @@
       { "nimi": "Paradise Lost (UK)", "kuupäev": "2025-06-29" }
     ],
     "märkmed": [
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Permanent Blue 27.06, Mad Road 28.06 ",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Permanent Blue 27.06, Mad Road 28.06 ",
       "Üldiselt olustikust - erakordselt vihmane ja mudane aasta, aga see lisab mälestustele vaid vürtsi. Seltskond meil nagu ikka igati tore! :)",
       "Sündmuse FB kodukas: <a href=https://fb.me/e/BmpyUiNJY>https://fb.me/e/BmpyUiNJY</a>",
       "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2025/</a> "
@@ -3738,7 +3863,7 @@
       { "nimi": "Vader (POL)", "kuupäev": "2026-07-05" }
     ],
     "märkmed": [
-      "Lisaks nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Freakangel 04.07.",
+      "Lisaks toodud nimekirjale esinesid ka (ei jäänud minu pildimaterjalis kaadrisse): Freakangel 04.07.",
       "jee7'e blog, loodetavasti jääb see püsima läbi aegade: <a href=https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/>https://tume-maailm.pri.ee/blog/hard-rock-laager-2026/</a>"
     ],
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgDUZmIw0fBsQZ4iy6kiEBuOAR2PDzG9tp5lMVjveIu0hKM?e=fIaG2J" ]
