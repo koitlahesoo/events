@@ -538,6 +538,24 @@
   },
   {
     "id": "2013-12",
+    "algus": "2013-09-28",
+    "lõpp": "2013-09-28",
+    "sündmus": "Kontsert: Rockin` Lady & Her Rivertown Boys jt.",
+    "koht": "Tartu, Rock & Roll",
+    "esineja": [
+      { "nimi": "Andres Roots Roundabout" },
+      { "nimi": "The Rusty Roaders" },
+      { "nimi": "Rockin` Lady & Her Rivertown Boys" },
+      { "nimi": "BluesHound" }
+    ],
+    "märkmed": [
+      "<em>Tegin mõned hägusad pildid vana telefoniga, et jäädvustada, et sai käidud ja nähtud.</em>",
+      "Sündmuse FB kodukas: <a href=https://fb.me/e/4U4uMZYZn>https://fb.me/e/4U4uMZYZn</a>"
+    ],
+    "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgD4PuUqHQTDQLLOhqEB8bd8AcOvYq5c1MXCsDV72dgEnN4?e=5sEc3h" ]
+  },
+  {
+    "id": "2013-13",
     "algus": "2013-10-04",
     "lõpp": "2013-10-04",
     "sündmus": "Kontsert: Cathouse Radio, Sibyl Vane, DND",
@@ -554,7 +572,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB2AcErbA0fSothkhfv4PRiAUJnTbrY0gthLRZzXSFy9a8?e=FSjqgj" ]
   },
   {
-    "id": "2013-13",
+    "id": "2013-14",
     "algus": "2013-11-08",
     "lõpp": "2013-11-08",
     "sündmus": "Kontsert: Arles Kangus & Udu, Metro Luminal",
@@ -570,7 +588,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgBylAvUHHKYR6O3JnvMlD0yAadFnQx8WZGtHa7PvMD5XyM?e=bTMk0W" ]
   },
   {
-    "id": "2013-14",
+    "id": "2013-15",
     "algus": "2013-11-16",
     "lõpp": "2013-11-16",
     "sündmus": "Kontsert: Jana Kask & Mai Skizo",
@@ -589,7 +607,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgCRIBzoT7vvSbP0Etg8E8D9AWzQficagGyqU4ZnM_u-eqc?e=E2QfwW" ]
   },
   {
-    "id": "2013-15",
+    "id": "2013-16",
     "algus": "2013-11-29",
     "lõpp": "2013-11-29",
     "sündmus": "Kontsert: Teine Eino, Bollocks Boyfriend Brothers Band, J.M.K.E.",
@@ -606,7 +624,7 @@
     "pildid": [ "https://pcexpert-my.sharepoint.com/:f:/g/personal/koit_pcexpert_ee/IgB4lzaOumXxTrsI3_q-UjS3AcJOdBwoFXfRc5Et3P4wxiA?e=6d2gFU" ]
   },
   {
-    "id": "2013-16",
+    "id": "2013-17",
     "algus": "2013-12-06",
     "lõpp": "2013-12-06",
     "sündmus": "Kontsert: Gravity, Sõpruse Puiestee",
