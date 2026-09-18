@@ -70,6 +70,21 @@ function calcYearStats(list) {
   return stats;
 }
 
+// Arvutab koondstatistika kogu kuvatava nimekirja kohta (mitteaastane sortimine)
+function calcTotalStats(list) {
+  const artists = new Set();
+  list.forEach(ev => {
+    ev.esineja.forEach(e => {
+      if (e.nimi && e.nimi.trim() !== "" &&
+          !e.nimi.startsWith("TÄPSUSTADA") &&
+          !e.nimi.startsWith("erinevad")) {
+        artists.add(e.nimi);
+      }
+    });
+  });
+  return { events: list.length, artists: artists.size };
+}
+
 let updateView = () => {};
 
 fetch("events.json")
@@ -128,10 +143,19 @@ fetch("events.json")
         return;
       }
 
-      // Aasta-eraldajad ainult kuupäevalise sortimise korral
+      // Aasta-eraldajad ainult kuupäevalise sortimise korral;
+      // muu sortimise korral üks koondrida terve nimekirja kohta
       const showYearSep = !currentSort.column || currentSort.column === "date";
       const yearStats   = showYearSep ? calcYearStats(list) : {};
       let prevYear = null;
+
+      if (!showYearSep) {
+        const total = calcTotalStats(list);
+        const sep = document.createElement("tr");
+        sep.className = "year-sep";
+        sep.innerHTML = `<td colspan="5">── Kokku <span class="year-sep-stats">· ${total.events} sündmust · ${total.artists} esinejat</span></td>`;
+        tableBody.appendChild(sep);
+      }
 
       list.forEach(ev => {
         const yr = ev.algus.substring(0, 4);
