@@ -139,4 +139,10 @@ fetch("events.json")
         </div>
       </div>
     `;
+
+    // Märkmete sisemised lingid avanevad uues aknas
+    detailsEl.querySelectorAll(".märkmed-kast a").forEach(a => {
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+    });
   });
