@@ -17,8 +17,8 @@ function isFestivalEvent(ev) {
   return ev.sündmus.toLowerCase().includes("festival");
 }
 
-// Sort
-let currentSort = { column: null, direction: 1 };
+// Sort (vaikimisi kuupäeva järgi, sõltumata events.json failis olevast järjekorrast)
+let currentSort = { column: "date", direction: 1 };
 
 function sortByColumn(column) {
   if (currentSort.column === column) {
