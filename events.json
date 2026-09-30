@@ -1872,7 +1872,7 @@
     "id": "2016-08",
     "algus": "2016-11-25",
     "lõpp": "2016-11-25",
-    "sündmus": "Kontsert: Wunda-Ment",
+    "sündmus": "Kontsert: Wunda-Ment (jt)",
     "koht": "Tartu, Rock & Roll",
     "esineja": [
       {
@@ -6795,14 +6795,88 @@
   {
     "id": "2016-11",
     "algus": "2016-07-08",
-    "lõpp": "2016-07-08",
+    "lõpp": "2016-07-10",
     "sündmus": "Amme Rock festival 2016",
     "koht": "Tartumaa, Vasula",
-    "esineja": [],
+    "esineja": [
+      {
+        "nimi": "Freddy Tomingas & The Riff",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "Maarius Urvet & The Boston Lipstick Institute",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "MOVE",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "Full Moon Rockers & Hannu Leiden (FIN)",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "Driven",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "X-Panda",
+        "kuupäev": "2016-07-08"
+      },
+      {
+        "nimi": "DND",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Maryann Cotton (USA/DNK)",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Pedigree",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "The Rack Doll (FIN)",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Sibyl Vane",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Ozzmond (FIN)",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Blueintheface (FIN)",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Barbe-Q-Barbies (FIN)",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Herald",
+        "kuupäev": "2016-07-09"
+      },
+      {
+        "nimi": "Revolver",
+        "kuupäev": "2016-07-10"
+      },
+      {
+        "nimi": "Ziggy Wild",
+        "kuupäev": "2016-07-10"
+      }
+    ],
     "märkmed": [
       "Äge TASUTA festival Amme jõe ääres. Enamus Tartu tuttavaid karvaseid ja sulelisi on tavaliselt kohal.",
+      "Olin ka ja tegin jäädvustusi. Päevade algusest jäid mul ära kava järgi: The Boondocks, Virkus Jalg, Eterniit, Nyrok City, Freakangel. Lõpus esinenud Ziggy Wild etteastest lavalt ei saanud ka ise pilte, aga teiste jäädvustuste vahelt võib leida paar kaadrit Laurast, kui ta teistele kaasa elab.",
       "",
-      "Kunagine sündmuse FB kodukas: <a href= ></a>"
+      "Kunagine sündmuse FB kodukas: <a href=https://fb.me/e/6re2e5W8N>https://fb.me/e/6re2e5W8N</a>",
+      "",
+      "Maris Savik pilte, minust palju parema kvaliteediga :) <a href=https://www.facebook.com/media/set/?vanity=maris.savik.3&set=a.1579925055393078>https://www.facebook.com/media/set/?vanity=maris.savik.3&set=a.1579925055393078</a>",
+      "",
+      "jee7 blog, kus kirjeldust ja pilte, loodetavasti püsib see veebileht läbi aegade: <a href=https://tume-maailm.pri.ee/blog/amme-rock-2016/>https://tume-maailm.pri.ee/blog/amme-rock-2016/</a>"
     ]
   },
   {
